@@ -182,6 +182,11 @@ div#footer a {
 	color: #80a0b0;
 }
 
+div#footer-visit {
+	float: left;
+	padding-bottom: 8px;
+}
+
 div#footer-text {
 	float: right;
 	padding-bottom: 8px;
