@@ -141,10 +141,12 @@ h1, h2, h3 {
 }
 
 h1 {
+	font-family: 'Times New Roman', '微软雅黑',Times, serif;
 	font-size: 165%;
 }
 
 h2 {
+	font-family: 'Times New Roman', '微软雅黑',Times, serif;
 	padding-top: 0.8em;
 	font-size: 125%;
 }
