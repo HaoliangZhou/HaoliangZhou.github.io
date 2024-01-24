@@ -71,14 +71,27 @@ pre, tt {
 	font-family: monaco, monospace;
 }
 
-a, a > tt {
+/*a, a > tt {
 	color: #224b8d;
 	text-decoration: none;
 }
 
 a:hover {
 	border-bottom: 1px gray dotted;
+}*/
+
+a {
+  /*color: #043d98;*/
+  /*color: #4F6071;*/
+  color: #527bbd;
+  text-decoration:none;
 }
+
+a:focus, a:hover {
+  color: #f09228;
+  text-decoration:none;
+}
+
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: #022b6d;
@@ -393,10 +406,13 @@ table.imgtable, table.imgtable td {
 margin-top: 20px;
 }
 .news-date {
-  font-weight: bold;
+font-weight: bold;
 }
 .paper-title {
 font-weight: bold;
+}
+.paper-desc {
+font-style: italic;
 }
 .paper-authors {
 font-style: italic;
