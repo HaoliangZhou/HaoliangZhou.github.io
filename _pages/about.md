@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Welcome to Haoliang Zhou's homepage"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
