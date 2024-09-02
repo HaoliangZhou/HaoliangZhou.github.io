@@ -33,7 +33,7 @@ Before that, I received the B.S. and M.S. degree in the Jiangsu University of Sc
 
 # 📝 Publications 
 <!-- ====================================== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/ceprompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='/images/ceprompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CEPrompt: Cross-Modal Emotion-Aware Prompting for Facial Expression Recognition](https://doi.org/10.1109/TCSVT.2024.3424777)
@@ -57,7 +57,7 @@ SCI, JCR Q1, IF=8.3, CCF-B
 
 
 <!-- ====================================== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMSJ 2023</div><img src='images/inceptr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMSJ 2023</div><img src='/images/inceptr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IncepTR: Micro-Expression Recognition Integrating Inception-CBAM and Vision Transformer](https://doi.org/10.1007/s00530-023-01164-0)
@@ -76,7 +76,7 @@ SCI, JCR Q1, IF=3.5, CCF-C
 
 
 <!-- ====================================== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Entropy 2023</div><img src='images/dualatme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Entropy 2023</div><img src='/images/dualatme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-ATME: Dual-branch Attention Network for Micro-Expression Recognition](https://doi.org/10.3390/e25030460)
