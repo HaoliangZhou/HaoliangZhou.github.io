@@ -84,6 +84,7 @@ SCI, 中科院三区, IF=2.1
 </div>
 </div>
 
+- [UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition](), **Haoliang Zhou**, Shucheng Huang, Yuqiao Xu, Neurocomputing, 2024 (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
 - [Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception](), Jingting Li, **Haoliang Zhou**, Zizhao Dong, Sujing Wang, Neurocomputing, 2024 [[Code](https://github.com/MELABIPCAS/DVSCL)] (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
 - [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression](), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2024 (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
 - [CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning](https://link.springer.com/article/10.1007/s00530-024-01322-y), Yuqiao Xu, Shucheng Huang, **Haoliang Zhou**, Multimedia Systems, 2024 (SCI, 中科院三区, IF=3.5, CCF-C)
