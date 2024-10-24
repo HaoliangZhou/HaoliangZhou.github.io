@@ -88,7 +88,7 @@ SCI, 中科院三区, IF=2.1
 - [Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception](), Jingting Li, **Haoliang Zhou**, Zizhao Dong, Sujing Wang, Neurocomputing, 2024 [[Code](https://github.com/MELABIPCAS/DVSCL)] (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
 - [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression](), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2024 (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
 - [CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning](https://link.springer.com/article/10.1007/s00530-024-01322-y), Yuqiao Xu, Shucheng Huang, **Haoliang Zhou**, Multimedia Systems, 2024 (SCI, 中科院三区, IF=3.5, CCF-C)
-- [Multi-Modal Knowledge-enhanced Fine-Grained Image Classification](), Suyan Cheng, Feifei Zhang, **Haoliang Zhou**, Changsheng Xu, PRCV, 2024 (EI, CCF-C)
+- [Multi-modal Knowledge-Enhanced Fine-Grained Image Classification](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_23), Suyan Cheng, Feifei Zhang, **Haoliang Zhou**, Changsheng Xu, PRCV, 2024 (EI, CCF-C)
 - [Survey of Self-Supervised Visual Representation Learning](), **Haoliang Zhou**, Shucheng Huang, Yifan Jiao, Computer Application Research, 2022 (北大中文核心)
 
 # 🏆 荣誉称号
@@ -117,10 +117,11 @@ SCI, 中科院三区, IF=2.1
   - **专业排名**: 5/72
 
 # 📖 项目经历
-- *2024.09-至今*, 中国科学院自动化研究所 多模态人工智能系统全国重点实验室 [多媒体计算组 (MMC)]((https://nlpr-web.ia.ac.cn/mmc/index.html)), 客座学生（实习）
+<!-- - *2024.09-至今*, 中国科学院自动化研究所 多模态人工智能系统全国重点实验室 [多媒体计算组 (MMC)]((https://nlpr-web.ia.ac.cn/mmc/index.html)), 客座学生（实习）
   - **研究方向**: 跨模态图文检索, 持续学习, 视觉语言模型等
-  - **合作导师**: [徐常胜 (Changsheng Xu)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员, [张飞飞 (Feifei Zhang)](https://cs.tjut.edu.cn/info/1226/1795.htm)教授
-- *2023.03-2024.06*, 天津理工大学 [智能媒体分析与计算实验室 (IMAC Lab)](https://i-mac-lab.net/), 客座学生（实习）
+  - **合作导师**: [徐常胜 (Changsheng Xu)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员, [张飞飞 (Feifei Zhang)](https://cs.tjut.edu.cn/info/1226/1795.htm)教授 -->
+<!-- - *2023.03-2024.06*, 天津理工大学 [智能媒体分析与计算实验室 (IMAC Lab)](https://i-mac-lab.net/), 客座学生（实习） -->
+- *2023.03-2024.06*, 中国科学院自动化研究所 多模态人工智能系统全国重点实验室 [多媒体计算组 (MMC)]((https://nlpr-web.ia.ac.cn/mmc/index.html)), 客座学生（实
   - **研究方向**: 人脸表情识别, 视觉语言模型, 多媒体计算
   - **合作导师**: [徐常胜 (Changsheng Xu)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员, [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)教授
 - *2021.07-2023.03*, 中国科学院心理研究所 [微表情应用研究中心 (MELAB)](http://melab.psych.ac.cn/index.html), 客座学生（实习）
@@ -137,7 +138,7 @@ SCI, 中科院三区, IF=2.1
   - **项目简介**: 主要研究复杂场景下的目标跟踪算法，提出了一种基于条件随机场的鲁棒性深度相关滤波目标跟踪算法；此外还对视频中的关键部分(精彩片段)和视频时序定位等问题进行相关研究。
 
 # 🙋 学术任职
-- **期刊审稿人**: IEEE TCSVT, IEEE TMM, MMSJ, AJSE, SIVP
+- **期刊审稿人**: IEEE TCSVT, IEEE TMM, MMSJ, SPIC, AJSE, SIVP
 - **会议审稿人**: IEEE ICME, ChinaMM
 
 # 📣 学生工作
