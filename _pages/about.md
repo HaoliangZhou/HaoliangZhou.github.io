@@ -115,8 +115,8 @@ SCI, JCR Q2, IF=2.1
 - *2018.09 - 2019.01*, V.S. California State University San Bernardino, Management Information System. 
 - *2017.09 - 2021.06*, B.S. Jiangsu University of Science and Technology, Information Management and Information System.
 
-# 📖 Research Experience
-<!-- - *2024.09-Now*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences.
+# 📖 Research Experience 
+<!-- - *2024.09-Now*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences. 
   - Working on: Cross-Modal Image Retrieval, Continual Learning, Vision-Language Model
   - Advisers: Prof. [Changsheng Xu (徐常胜)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)
 - *2023.03-2024.06*, [Intelligent Media Analysis and Computation Lab (IMAC Lab)](https://i-mac-lab.net/), Tianjin University of Technology. -->
@@ -143,4 +143,4 @@ SCI, JCR Q2, IF=2.1
 
 
 # 🗺️ Visitor Map
-<div style="display:inline-block;width:200px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5s89glan1we&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6aafaa&w=a&t=n&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=ef3333&cmn=16a344'></script>

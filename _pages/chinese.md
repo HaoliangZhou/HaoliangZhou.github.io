@@ -153,4 +153,4 @@ SCI, 中科院三区, IF=2.1
 
 
 # 🗺️ Visitor Map
-<div style="display:inline-block;width:200px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5s89glan1we&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6aafaa&w=a&t=n&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=ef3333&cmn=16a344'></script>
