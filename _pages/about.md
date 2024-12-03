@@ -143,4 +143,4 @@ SCI, JCR Q2, IF=2.1
 
 
 # 🗺️ Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6aafaa&w=a&t=n&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=ef3333&cmn=16a344'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=55a2e5&w=100&t=tt&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=0c8759&cmn=e5153d&ct=979bad'></script>
