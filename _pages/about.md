@@ -22,7 +22,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 I am currently an incoming Ph.D. student at [Tianjin University of Technology](https://www.tjut.edu.cn), where I am supervised by Prof. [Changsheng Xu (徐常胜)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm).
-Before that, I received the B.S. and M.S. degree in the Jiangsu University of Science and Technology, advised by Prof. [Shucheng Huang (黄树成)](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp) in 2021 and 2024, respectively.
+Before that, I received the B.S. and M.S. degree in the [Jiangsu University of Science and Technology](https://www.just.edu.cn/), advised by Prof. [Shucheng Huang (黄树成)](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp) in 2021 and 2024, respectively.
 
 **Research Interests**: Computer Vision, Cross-Modal Image Retrieval, Facial Expression Recognition, Vision-Language Model.
 

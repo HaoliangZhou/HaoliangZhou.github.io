@@ -106,7 +106,7 @@ SCI, 中科院三区, IF=2.1
 - [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression](), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2024 (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
 - [CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning](https://link.springer.com/article/10.1007/s00530-024-01322-y), Yuqiao Xu, Shucheng Huang, **Haoliang Zhou**, Multimedia Systems, 2024 (SCI, 中科院三区, IF=3.5, CCF-C)
 - [Multi-modal Knowledge-Enhanced Fine-Grained Image Classification](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_23), Suyan Cheng, Feifei Zhang, **Haoliang Zhou**, Changsheng Xu, PRCV, 2024 (EI, CCF-C)
-- [Survey of Self-Supervised Visual Representation Learning](), **Haoliang Zhou**, Shucheng Huang, Yifan Jiao, Computer Application Research, 2022 (北大中文核心)
+- [自监督表征学习综述](), **Haoliang Zhou**, Shucheng Huang, Yifan Jiao, 计算机应用研究, 2022 (北大中文核心)
 
 # 🏆 荣誉称号
 - *2024.06*  江苏科技大学研究生优秀毕业生 (Top 3%), 一等学业奖学金
@@ -115,7 +115,6 @@ SCI, 中科院三区, IF=2.1
 - *2022.10*  第四届江苏省研究生数学建模科研创新实践大赛省三等奖
 - *2022.10*  第七届中国高校计算机大赛-网络技术挑战赛华东赛区三等奖
 - *2021.06*  江苏科技大学优秀毕业生 (Top 3%), 一等学业奖学金
-- *2020.12*  江苏省大学生创新创业训练计划省级结题
 
 
 # 🎓 教育经历
@@ -125,13 +124,17 @@ SCI, 中科院三区, IF=2.1
 - *2021.09 - 2024.06*, 硕士 江苏科技大学
   - **院系专业**: 计算机学院, 软件工程
   - **指导老师**: [黄树成](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp)教授
-  - **专业排名**:1/12; **课程绩点**: 4.1/5.0
+  - **专业排名**: 1/12; **课程绩点**: 4.1/5.0
+  - **荣誉称号**: 硕士研究生国家奖学金 (Top 3%)、一等奖学业学金 (连续3年)、优秀毕业生 (Top 3%)、优秀研究生标兵 (Top 1.5%)等10余项荣誉称号
+  - **比赛获奖**: 第四届江苏省研究生数学建模科研创新实践大赛省三等奖、第七届中国高校计算机大赛-网络技术挑战赛华东赛区三等奖、江苏科技大学研究生数学建模大赛一等奖
 - *2018.09 - 2019.01*, 访问学生 加州州立大学圣贝纳迪诺分校
   - **院系专业**: 商业与公共管理学院, 管理信息系统
-  - **课程绩点**: 3.9/4.0
+  - **课程绩点**: 3.9/4.0 (均获A级)
 - *2017.09 - 2021.06*, 学士 江苏科技大学
   - **院系专业**: 经济管理学院, 信息管理与信息系统
   - **专业排名**: 5/72
+  - **荣誉称号**: 优秀毕业生 (Top 3%)、一等奖学业学金、三好学生、优秀学生干部等10余项荣誉称号
+  - **比赛获奖**: 江苏省大学生创新创业训练计划省级结题（No. 201910289051Y）、“创青春-启航杯“创业设计大赛三等奖
 
 # 📖 项目经历
 <!-- - *2024.09-至今*, 中国科学院自动化研究所 多模态人工智能系统全国重点实验室 [多媒体计算组 (MMC)]((https://nlpr-web.ia.ac.cn/mmc/index.html)), 客座学生（实习）
