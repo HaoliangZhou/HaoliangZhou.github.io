@@ -28,7 +28,7 @@ Before that, I received the B.S. and M.S. degree in the [Jiangsu University of S
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by the Neurocomputing journal. _(SCI, Q1, IF=5.5, CCF-C)_
+- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by the Neurocomputing journal. _(SCI, Q1, IF=5.5, CCF-C)_
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE TCSVT journal. _(SCI, Q1, IF=8.3, CCF-B)_
 - *2023.12*: &nbsp;🎉🎉 I am awarded National Scholarship.
 
@@ -58,12 +58,12 @@ SCI, JCR Q1, IF=8.3, CCF-B
 
 
 <!-- ====================================== -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2024</div><img src='/images/uafer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2024</div><img src='/images/uafer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition]()
 
-[[Ppaer]()] [[Code]()]
+[[Ppaer]()]
 
 Neurocomputing, 2024
 
@@ -72,16 +72,16 @@ Neurocomputing, 2024
 SCI, JCR Q1, IF=5.5, CCF-C
 
 </div>
-</div> -->
+</div>
 
 
 <!-- ====================================== -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2024</div><img src='/images/dvscl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception]()
+[Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception](https://doi.org/10.1016/j.neucom.2024.129142)
 
-[[Ppaer]()] [[Code](https://github.com/MELABIPCAS/DVSCL)]
+[[Ppaer](https://doi.org/10.1016/j.neucom.2024.129142)] [[Code](https://github.com/MELABIPCAS/DVSCL)]
 
 Neurocomputing, 2024
 
@@ -130,14 +130,13 @@ SCI, JCR Q2, IF=2.1
 </div>
 </div>
 
-
-- [UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition](), **Haoliang Zhou**, Shucheng Huang, Yuqiao Xu, Neurocomputing, 2024 (SCI, JCR Q1, IF=5.5, CCF-C, Under review)
 - [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression](), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2024 (SCI, JCR Q1, IF=5.5, CCF-C, Under review)
 - [CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning](https://link.springer.com/article/10.1007/s00530-024-01322-y), Yuqiao Xu, Shucheng Huang, **Haoliang Zhou**, Multimedia Systems, 2024 (SCI, JCR Q1, IF=3.5, CCF-C)
 - [Multi-modal Knowledge-Enhanced Fine-Grained Image Classification](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_23), Suyan Cheng, Feifei Zhang, **Haoliang Zhou**, Changsheng Xu, PRCV, 2024 (EI, CCF-C)
 - [Survey of Self-Supervised Visual Representation Learning](), **Haoliang Zhou**, Shucheng Huang, Yifan Jiao, Computer Application Research, 2022 (CSCD)
 
 # 🏆 Honors and Awards
+- *2024.12*  Tianjin University of Technology, First-Class Academic Scholarship.
 - *2024.06*  Jiangsu University of Science and Technology, Outstanding Graduate (Top 3%), First-Class Academic Scholarship.
 - *2023.12*  China National Scholarship (Top 3%).
 - *2023.10*  Jiangsu University of Science and Technology, Outstanding Postgraduate Pacesetter (Top 1.5%), First-Class Academic Scholarship.

@@ -48,12 +48,29 @@ SCI, 中科院一区TOP, IF=8.3, CCF-B
 
 
 <!-- ====================================== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2024</div><img src='/images/uafer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition]()
+
+[[Ppaer]()] 
+Neurocomputing, 2024
+
+**Haoliang Zhou**, Shucheng Huang, Yuqiao Xu
+
+SCI, 中科院二区TOP, IF=5.5, CCF-C
+
+</div>
+</div>
+
+
+<!-- ====================================== -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2024</div><img src='/images/dvscl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception]()
+[Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception](https://doi.org/10.1016/j.neucom.2024.129142)
 
-[[Ppaer]()] [[Code](https://github.com/MELABIPCAS/DVSCL)]
+[[Ppaer](https://doi.org/10.1016/j.neucom.2024.129142)] [[Code](https://github.com/MELABIPCAS/DVSCL)]
 
 Neurocomputing, 2024
 
@@ -102,13 +119,14 @@ SCI, 中科院三区, IF=2.1
 </div>
 </div>
 
-- [UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition](), **Haoliang Zhou**, Shucheng Huang, Yuqiao Xu, Neurocomputing, 2024 (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
+
 - [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression](), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2024 (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
 - [CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning](https://link.springer.com/article/10.1007/s00530-024-01322-y), Yuqiao Xu, Shucheng Huang, **Haoliang Zhou**, Multimedia Systems, 2024 (SCI, 中科院三区, IF=3.5, CCF-C)
 - [Multi-modal Knowledge-Enhanced Fine-Grained Image Classification](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_23), Suyan Cheng, Feifei Zhang, **Haoliang Zhou**, Changsheng Xu, PRCV, 2024 (EI, CCF-C)
 - [自监督表征学习综述](), **Haoliang Zhou**, Shucheng Huang, Yifan Jiao, 计算机应用研究, 2022 (北大中文核心)
 
 # 🏆 荣誉称号
+- *2024.12*  天津理工大学研究生一等学业奖学金
 - *2024.06*  江苏科技大学研究生优秀毕业生 (Top 3%), 一等学业奖学金
 - *2023.12*  硕士研究生国家奖学金 (Top 3%)
 - *2023.10*  江苏科技大学优秀研究生标兵 (Top 1.5%), 一等学业奖学金
