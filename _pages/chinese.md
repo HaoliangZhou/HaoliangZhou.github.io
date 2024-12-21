@@ -53,7 +53,7 @@ SCI, 中科院一区TOP, IF=8.3, CCF-B
 
 [UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition]()
 
-[[Ppaer]()] 
+[[Ppaer]()] [[Code](https://github.com/HaoliangZhou/UAFER)]
 Neurocomputing, 2024
 
 **Haoliang Zhou**, Shucheng Huang, Yuqiao Xu

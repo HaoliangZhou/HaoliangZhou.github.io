@@ -63,7 +63,7 @@ SCI, JCR Q1, IF=8.3, CCF-B
 
 [UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition]()
 
-[[Ppaer]()]
+[[Ppaer]()] [[Code](https://github.com/HaoliangZhou/UAFER)]
 
 Neurocomputing, 2024
 
