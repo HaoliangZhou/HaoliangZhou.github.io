@@ -51,9 +51,9 @@ SCI, 中科院一区TOP, IF=8.3, CCF-B
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUCOM 2024</div><img src='/images/uafer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition]()
+[UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition](https://doi.org/10.1016/j.neucom.2024.129261)
 
-[[Ppaer]()] [[Code](https://github.com/HaoliangZhou/UAFER)]
+[[Ppaer](https://doi.org/10.1016/j.neucom.2024.129261)] [[Code](https://github.com/HaoliangZhou/UAFER)]
 
 Neurocomputing, 2024
 
