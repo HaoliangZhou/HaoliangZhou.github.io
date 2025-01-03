@@ -17,7 +17,7 @@ author_profile: true
 
 
 # 🧍‍♂️ 关于我
-我目前是一名[天津理工大学](https://www.tjut.edu.cn)[计算机科学与工程学院](https://cs.tjut.edu.cn/index.htm)的一年级博士生，师从[徐常胜](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员和[张飞飞](https://cs.tjut.edu.cn/info/1226/1795.htm)教授。在此之前，我分别于2021年和2024年在[江苏科技大学](https://www.just.edu.cn/)获得了学士和硕士(导师: [黄树成](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp)教授)学位。
+我目前是一名[天津理工大学](https://www.tjut.edu.cn) [计算机科学与工程学院](https://cs.tjut.edu.cn/index.htm) [智能媒体分析与计算实验室](https://i-mac-lab.net)的一年级博士生，师从[徐常胜](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员和[张飞飞](https://cs.tjut.edu.cn/info/1226/1795.htm)教授。在此之前，我分别于2021年和2024年在[江苏科技大学](https://www.just.edu.cn/)获得了学士和硕士(导师: [黄树成](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp)教授)学位。
 
 **我的研究兴趣主要包括:** 计算机视觉, 跨模态图文检索, 人脸表情识别, 视觉语言模型等。
 
