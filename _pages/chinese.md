@@ -121,7 +121,7 @@ SCI, 中科院三区, IF=2.1
 </div>
 
 
-- [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression](), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2024 (SCI, 中科院二区TOP, IF=5.5, CCF-C, 在审)
+- [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression]( https://doi.org/10.1016/j.neucom.2025.129891), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2025 (SCI, 中科院二区TOP, IF=5.5, CCF-C)
 - [CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning](https://link.springer.com/article/10.1007/s00530-024-01322-y), Yuqiao Xu, Shucheng Huang, **Haoliang Zhou**, Multimedia Systems, 2024 (SCI, 中科院三区, IF=3.5, CCF-C)
 - [Multi-modal Knowledge-Enhanced Fine-Grained Image Classification](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_23), Suyan Cheng, Feifei Zhang, **Haoliang Zhou**, Changsheng Xu, PRCV, 2024 (EI, CCF-C)
 - [自监督表征学习综述](), **Haoliang Zhou**, Shucheng Huang, Yifan Jiao, 计算机应用研究, 2022 (北大中文核心)
@@ -178,7 +178,7 @@ SCI, 中科院三区, IF=2.1
 
 # 🙋 学术任职
 - **期刊审稿人**: IEEE TCSVT, IEEE TMM, MMSJ, SPIC, AJSE, SIVP
-- **会议审稿人**: IEEE ICME, ChinaMM
+- **会议审稿人**: IEEE CVPR, IEEE ICME, ChinaMM
 
 # 📣 学生工作
 - 班级班长（2021-2024）
