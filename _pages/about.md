@@ -158,7 +158,7 @@ SCI, JCR Q2, IF=2.1
 - *2023.03-2024.06*, [Intelligent Media Analysis and Computation Lab (IMAC Lab)](https://i-mac-lab.net/), Tianjin University of Technology. -->
 - *2023.03-2024.06*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences.
   - Working on: Facial Expression Recognition, Vision-Language Model, Multimedia Computing
-  - Advisers: Prof. [Changsheng Xu (徐常胜)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)
+  - Advisers: Prof. [Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)
 - *2021.07-2023.03*, [Micro-Expression Laboratory (MELAB)](http://melab.psych.ac.cn/index.html), Institute of Psychology, Chinese Academy of Sciences.
   - Worked on: Micro-Expression Recognition, Contrastive Learning, Self-Supervised Learning
   - Advisers: Associate Prof. [Su-jing Wang (王甦菁)](https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html), Associate Prof. [Jingting Li (李婧婷)](https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html)
