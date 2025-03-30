@@ -161,7 +161,7 @@ SCI, 中科院三区, IF=2.1
   - **研究方向**: 跨模态图文检索, 持续学习, 视觉语言模型等
   - **合作导师**: [徐常胜 (Changsheng Xu)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员, [张飞飞 (Feifei Zhang)](https://cs.tjut.edu.cn/info/1226/1795.htm)教授 -->
 <!-- - *2023.03-2024.06*, 天津理工大学 [智能媒体分析与计算实验室 (IMAC Lab)](https://i-mac-lab.net/), 客座学生（实习） -->
-- *2023.03-2024.06*, 中国科学院自动化研究所 多模态人工智能系统全国重点实验室 [多媒体计算组 (MMC)]((https://nlpr-web.ia.ac.cn/mmc/index.html)), 客座学生（实
+- *2023.03-2024.06*, 中国科学院自动化研究所 多模态人工智能系统全国重点实验室 [多媒体计算组 (MMC)]((https://nlpr-web.ia.ac.cn/mmc/index.html)), 客座学生（实习）
   - **研究方向**: 人脸表情识别, 视觉语言模型, 多媒体计算
   - **合作导师**: [徐常胜 (Changsheng Xu)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员, [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)教授
 - *2021.07-2023.03*, 中国科学院心理研究所 [微表情应用研究中心 (MELAB)](http://melab.psych.ac.cn/index.html), 客座学生（实习）
