@@ -178,8 +178,8 @@ SCI, 中科院三区, IF=2.1
   - **项目简介**: 主要研究复杂场景下的目标跟踪算法，提出了一种基于条件随机场的鲁棒性深度相关滤波目标跟踪算法；此外还对视频中的关键部分(精彩片段)和视频时序定位等问题进行相关研究。
 
 # 🙋 学术任职
-- **期刊审稿人**: IEEE TCSVT, IEEE TMM, MMSJ, SPIC, AJSE, SIVP
-- **会议审稿人**: IEEE CVPR, IEEE ICME, ACM MM, ChinaMM
+- **期刊审稿人**: IEEE TPAMI/TCSVT/TMM, MMSJ, SPIC, AJSE, SIVP
+- **会议审稿人**: IEEE CVPR/ICCV/ICME, ACM MM, ChinaMM
 
 # 📣 学生工作
 - 班级班长（2021-2024）

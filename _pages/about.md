@@ -21,7 +21,7 @@ redirect_from:
 <h1>Welcome to Haoliang Zhou (周浩樑)’s homepage</h1>
 
 # 🧍‍♂️ Biography
-I am currently an incoming Ph.D. student at [IMAC Lab](https://i-mac-lab.net), [Tianjin University of Technology](https://www.tjut.edu.cn), where I am supervised by Prof. [Changsheng Xu (徐常胜, IEEE/IAPR Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm).
+I am currently an incoming Ph.D. student at [IMAC Lab](https://i-mac-lab.net), [Tianjin University of Technology](https://www.tjut.edu.cn), where I am supervised by Prof. [Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm).
 Before that, I received the B.S. and M.S. degree in the [Jiangsu University of Science and Technology](https://www.just.edu.cn/), advised by Prof. [Shucheng Huang (黄树成)](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp) in 2021 and 2024, respectively.
 
 **Research Interests**: Computer Vision, Cross-Modal Image Retrieval, Facial Expression Recognition, Vision-Language Model.
@@ -164,8 +164,8 @@ SCI, JCR Q2, IF=2.1
   - Advisers: Associate Prof. [Su-jing Wang (王甦菁)](https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html), Associate Prof. [Jingting Li (李婧婷)](https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html)
 
 # 🙋 Services
-- **Journal Reviewer**: IEEE TCSVT, IEEE TMM, MMSJ, SPIC, AJSE, SIVP
-- **Conference Reviewer**: IEEE CVPR, IEEE ICME, ACM MM, ChinaMM
+- **Journal Reviewer**: IEEE TPAMI/TCSVT/TMM, MMSJ, SPIC, AJSE, SIVP
+- **Conference Reviewer**: IEEE CVPR/ICCV/ICME, ACM MM, ChinaMM
 
 # 📰 Other Project
 - *2022.03-2023.03*, Micro Expression Recognition based on Transformer and Cross Modal Feature Fusion.
