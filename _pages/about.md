@@ -19,14 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am an incoming graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. Currently, I am a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
+My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am a graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. Currently, I was a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
 Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
+My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex systems.
 </div>
 
-**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from <a href="assets/Jinxiang's CV.pdf" class="link-accent">My CV</a>.
+**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
@@ -96,8 +96,6 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
 </div>
 
 - Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Preprint**.
-
-- Yingjian Chen, Haoran Liu, Yinhong Liu, **Jinxiang Xie**, Rui Yang, et.al. GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking. **ACL 2025**.
 
 # <i class="fas fa-graduation-cap"></i> Educations
 - *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
