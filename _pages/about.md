@@ -173,7 +173,7 @@ SCI, JCR Q2, IF=2.1
 # 📖 Research Experience
 - *2024.09-Now*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences. 
   - Working on: Composed Image Retrieval, Multimodal Large Language Model, Test-Time Adaptation, Continual Learning
-  - Advisers: Prof. [Changsheng Xu (徐常胜)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)
+  - Advisers: Prof. [Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)
 - *2023.03-2024.06*, [Intelligent Media Analysis and Computation Lab (IMAC Lab)](https://i-mac-lab.net/), Tianjin University of Technology.
 <!-- - *2023.03-2024.09*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences. -->
   - Working on: Facial Expression Recognition, Vision-Language Model, Multimedia Computing
