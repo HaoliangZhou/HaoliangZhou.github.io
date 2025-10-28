@@ -21,18 +21,38 @@ redirect_from:
 <h1>Welcome to Haoliang Zhou (周浩樑)’s homepage</h1>
 
 # 🧍‍♂️ Biography
-I am currently an incoming Ph.D. student at [IMAC Lab](https://i-mac-lab.net), [Tianjin University of Technology](https://www.tjut.edu.cn), where I am supervised by Prof. [Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm).
+I am currently a second-year Ph.D. student at [IMAC Lab](https://i-mac-lab.net), [Tianjin University of Technology](https://www.tjut.edu.cn), where I am supervised by Prof. [Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm).
 Before that, I received the B.S. and M.S. degree in the [Jiangsu University of Science and Technology](https://www.just.edu.cn/), advised by Prof. [Shucheng Huang (黄树成)](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp) in 2021 and 2024, respectively.
 
-**Research Interests**: Computer Vision, Cross-Modal Image Retrieval, Facial Expression Recognition, Vision-Language Model.
+**Research Interests**: My primary research interests are centered around multimodal learning and computer vision, specifically focusing on: Composed Image Retrieval, Multimodal Large Language Model, Test-Time Adaptation, Continual Learning, and Facial Expression Recognition.
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by the IEEE TIP journal. _(SCI, Q1, IF=13.7, CCF-A)_
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by the Neurocomputing journal. _(SCI, Q1, IF=6.5, CCF-C)_
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE TCSVT journal. _(SCI, Q1, IF=11.1, CCF-B)_
 - *2023.12*: &nbsp;🎉🎉 I am awarded National Scholarship.
 
+
 # 📝 Publications 
+<!-- ====================================== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='/images/u2car.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual Uncertainty-aware Correspondence Adapting and Retaining for Continual Composed Image Retrieval](https:)
+
+[[Ppaer](https:)] [[Code](https://github.com/HaoliangZhou/U2CIR)]
+
+IEEE Transactions on Image Processing (TIP), 2025
+
+**Haoliang Zhou**, Feifei Zhang, Changsheng Xu
+
+SCI, JCR Q1, IF=13.7, CCF-A
+
+</div>
+</div>
+
+
 <!-- ====================================== -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='/images/ceprompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,7 +127,6 @@ Multimedia Systems, 2023
 
 SCI, JCR Q1, IF=3.5, CCF-C
 
-
 </div>
 </div>
 
@@ -126,10 +145,10 @@ Entropy, 2023
 
 SCI, JCR Q2, IF=2.1
 
-
 </div>
 </div>
 
+- [Emotion-aware Adaptation of CLIP model for Facial Expression Recognition]( https:), Jing Huan, Mingxing Li, **Haoliang Zhou**. Artificial Intelligence Review, 2025 (SCI, JCR Q1, IF=13.9)
 - [PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression]( https://doi.org/10.1016/j.neucom.2025.129891), Jingting Li, Sujing Wang, Yong Wang, **Haoliang Zhou**, Xiaolan Fu, Neurocomputing, 2025 (SCI, JCR Q1, IF=6.5, CCF-C)
 - [CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning](https://link.springer.com/article/10.1007/s00530-024-01322-y), Yuqiao Xu, Shucheng Huang, **Haoliang Zhou**, Multimedia Systems, 2024 (SCI, JCR Q1, IF=3.5, CCF-C)
 - [Multi-modal Knowledge-Enhanced Fine-Grained Image Classification](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_23), Suyan Cheng, Feifei Zhang, **Haoliang Zhou**, Changsheng Xu, PRCV, 2024 (EI, CCF-C)
@@ -152,11 +171,11 @@ SCI, JCR Q2, IF=2.1
 - *2017.09 - 2021.06*, B.S. Jiangsu University of Science and Technology, Information Management and Information System.
 
 # 📖 Research Experience
-<!-- - *2024.09-Now*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences. 
-  - Working on: Cross-Modal Image Retrieval, Continual Learning, Vision-Language Model
+- *2024.09-Now*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences. 
+  - Working on: Composed Image Retrieval, Multimodal Large Language Model, Test-Time Adaptation, Continual Learning
   - Advisers: Prof. [Changsheng Xu (徐常胜)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)
-- *2023.03-2024.06*, [Intelligent Media Analysis and Computation Lab (IMAC Lab)](https://i-mac-lab.net/), Tianjin University of Technology. -->
-- *2023.03-2024.06*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences.
+- *2023.03-2024.06*, [Intelligent Media Analysis and Computation Lab (IMAC Lab)](https://i-mac-lab.net/), Tianjin University of Technology.
+<!-- - *2023.03-2024.09*, [Multimedia Computing Group (MMC)](https://nlpr-web.ia.ac.cn/mmc/index.html), MAIS, Institute of Automation, Chinese Academy of Sciences. -->
   - Working on: Facial Expression Recognition, Vision-Language Model, Multimedia Computing
   - Advisers: Prof. [Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm)
 - *2021.07-2023.03*, [Micro-Expression Laboratory (MELAB)](http://melab.psych.ac.cn/index.html), Institute of Psychology, Chinese Academy of Sciences.
@@ -165,16 +184,18 @@ SCI, JCR Q2, IF=2.1
 
 # 🙋 Services
 - **Journal Reviewer**: IEEE TPAMI/TCSVT/TMM, MMSJ, SPIC, AJSE, SIVP
-- **Conference Reviewer**: IEEE CVPR/ICCV/ICME, ACM MM, ChinaMM
+- **Conference Reviewer**: IEEE CVPR/ICCV/ICME, AAAI, ACM MM, ChinaMM
 
 # 📰 Other Project
-- *2022.03-2023.03*, Micro Expression Recognition based on Transformer and Cross Modal Feature Fusion.
+- *2022.03-2023.03*, Micro Expression Recognition based on Transformer and Cross Modal Feature Fusion
   - Jiangsu Postgraduate Scientific Research Innovation Plan Project, Project Leader
-- *2023.01-2026.12*, Pedestrian Detection via Robust Object Appearance Modeling.
+- *2024.01-2027.12*, Incremental Retrieval for Cross-Media Query
+  - National Natural Science Foundation of China, Member 
+- *2023.01-2026.12*, Pedestrian Detection via Robust Object Appearance Modeling
   - National Natural Science Foundation of China, Member
-- *2018.01-2021.02*, Visual Tracking via Robust Object Appearance Modeling.
+- *2018.01-2021.02*, Visual Tracking via Robust Object Appearance Modeling
   - National Natural Science Foundation of China, Member
-- *2019.06-2020.06*, MVC-based Software Design and Development of Employment App.
+- *2019.06-2020.06*, MVC-based Software Design and Development of Employment App
   - Jiangsu Student Innovation and Entrepreneurship Program, Member
 
 
