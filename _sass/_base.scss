@@ -167,27 +167,12 @@
   
   a {
     color: $primary-color;
-    text-decoration: none;
-    position: relative;
-    transition: var(--transition);
-    
-    &::after {
-      content: '';
-      position: absolute;
-      bottom: -2px;
-      left: 0;
-      width: 0;
-      height: 2px;
-      background: var(--gradient-accent);
-      transition: var(--transition);
-    }
+    text-decoration: underline;
+    transition: color 0.3s ease;
     
     &:hover {
       color: var(--accent-color);
-      
-      &::after {
-        width: 100%;
-      }
+      text-decoration: underline;
     }
     
     &:visited {

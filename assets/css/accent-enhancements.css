@@ -431,7 +431,7 @@ body {
 }
 
 .paper-box:hover .paper-box-image img {
-  transform: scale(1.08) rotateY(5deg);
+  transform: none;
   box-shadow: 0 8px 25px rgba(1, 47, 99, 0.12);
 }
 
@@ -523,7 +523,7 @@ body {
   }
   
   .paper-box:hover .paper-box-image img {
-    transform: scale(1.05) rotateY(0deg);
+    transform: none;
   }
   
   .paper-box-text {
@@ -639,7 +639,7 @@ body {
 }
 
 .blog-card-image:hover img {
-  transform: scale(1.05);
+  transform: none;
 }
 
 .blog-badge {
