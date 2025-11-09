@@ -23,10 +23,10 @@ My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-a
 Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex systems.
+My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
 </div>
 
-**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out if you'd like to discuss research or explore potential collaboration!
+Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
@@ -57,25 +57,25 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
   </div>
 </div>
 
-# <i class="fas fa-fire"></i> News
+<!-- # <i class="fas fa-fire"></i> News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
-- *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
+- *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
 # <i class="fas fa-file-alt"></i> Publications 
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Preprint</div>
+    <div class="badge pulse-accent">Under Review</div>
     <img src='images/Example_page-0002.png' alt="CAST Framework Architecture" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
     <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
-    <div class="venue">Preprint</div>
-    <div class="links">
+    <div class="venue">Under Review</div>
+    <!-- <div class="links">
       <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div>
+    </div> -->
   </div>
 </div>
 
@@ -95,7 +95,7 @@ My research focuses on leveraging <span class="primary-gradient-text">Large Lang
   </div>
 </div>
 
-- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Preprint**.
+- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
 
 # <i class="fas fa-graduation-cap"></i> Educations
 - *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.

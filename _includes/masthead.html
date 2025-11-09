@@ -5,47 +5,16 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            {% if page.url contains '/zh/' %}
-              <a href="#about-me">首页</a>
-            {% else %}
-              <a href="#about-me">Homepage</a>
-            {% endif %}
+            <a href="#about-me">Homepage</a>
           </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              {% if page.url contains '/zh/' %}
-                <a href="{{ domain }}{{ link.url | replace: '.html', '' }}">{{ site.t.zh[link.title] | default: link.title }}</a>
-              {% else %}
-                <a href="{{ domain }}{{ link.url }}">{{ site.t.en[link.title] | default: link.title }}</a>
-              {% endif %}
+              <a href="{{ domain }}{{ link.url }}">{{ site.t.en[link.title] | default: link.title }}</a>
             </li>
           {% endfor %}
-          <li class="masthead__menu-item">
-            {% if page.url contains '/zh/' %}
-              <a href="{{ page.url | replace: '/zh/', '/' }}">English</a>
-            {% else %}
-              <a href="/zh{{ page.url }}">中文</a>
-            {% endif %}
-          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
-
-<style>
-.language-switch {
-  padding: 3px 8px;
-  border-radius: 3px;
-  background-color: #f5f5f5;
-  color: #333;
-  font-size: 0.9em;
-  transition: all 0.3s ease;
-}
-
-.language-switch:hover {
-  background-color: #e5e5e5;
-  text-decoration: none;
-}
-</style>
