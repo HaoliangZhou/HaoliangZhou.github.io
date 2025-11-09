@@ -84,10 +84,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none; // rely on global accent underline
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

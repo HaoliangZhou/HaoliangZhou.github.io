@@ -273,7 +273,7 @@
       transition: var(--transition);
       
       &:hover {
-        transform: scale(1.02);
+        transform: none;
         box-shadow: var(--box-shadow-hover);
       }
     }

@@ -141,7 +141,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 8px; // tighten gap before contact list
   }
 }
 
@@ -235,7 +235,7 @@
 
   li {
     white-space: nowrap;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.35em;
   }
 
   a {
