@@ -22,12 +22,13 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 I am currently a second-year Ph.D. student at [IMAC Lab](https://i-mac-lab.net), [Tianjin University of Technology](https://www.tjut.edu.cn), where I am supervised by Prof. [Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html) and Prof. [Feifei Zhang (张飞飞)](https://cs.tjut.edu.cn/info/1226/1795.htm).
-Before that, I received the B.S. and M.S. degree in the [Jiangsu University of Science and Technology](https://www.just.edu.cn/), advised by Prof. [Shucheng Huang (黄树成)](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp) in 2021 and 2024, respectively.
+Before that, I received the B.S. and M.S. degree in the [Jiangsu University of Science and Technology](https://www.just.edu.cn/), advised by Prof. [Shucheng Huang (黄树成)](https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm) in 2021 and 2024, respectively.
 
 **Research Interests**: My primary research interests are centered around multimodal learning and computer vision, specifically focusing on: Composed Image Retrieval, Multimodal Large Language Model, Test-Time Adaptation, Continual Learning, and Facial Expression Recognition.
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by the AAAI 2026 conference. _(CCF-A)_
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by the IEEE TIP journal. _(SCI, Q1, IF=13.7, CCF-A)_
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by the Neurocomputing journal. _(SCI, Q1, IF=6.5, CCF-C)_
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE TCSVT journal. _(SCI, Q1, IF=11.1, CCF-B)_
@@ -36,12 +37,30 @@ Before that, I received the B.S. and M.S. degree in the [Jiangsu University of S
 
 # 📝 Publications 
 <!-- ====================================== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/ttrldr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Duplex Rewards Optimization for Test-Time Composed Image Retrieval](https:)
+
+[[Ppaer](https:)] [[Code](https://github.com/HaoliangZhou/U2CAR)]
+
+AAAI Conference on Artificial Intelligence (AAAI), 2026
+
+**Haoliang Zhou**, Feifei Zhang, Changsheng Xu
+
+CCF-A
+
+</div>
+</div>
+
+
+<!-- ====================================== -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='/images/u2car.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dual Uncertainty-aware Correspondence Adapting and Retaining for Continual Composed Image Retrieval](https:)
+[Dual Uncertainty-aware Correspondence Adapting and Retaining for Continual Composed Image Retrieval](https://doi.org/10.1109/TIP.2025.3628454)
 
-[[Ppaer](https:)] [[Code](https://github.com/HaoliangZhou/U2CIR)]
+[[Ppaer](https://doi.org/10.1109/TIP.2025.3628454)] [[Code](https://github.com/HaoliangZhou/U2CAR)]
 
 IEEE Transactions on Image Processing (TIP), 2025
 

@@ -18,19 +18,36 @@ author_profile: true
 
 # 🧍‍♂️ 关于我
 我目前是一名[天津理工大学](https://www.tjut.edu.cn)计算机科学与工程学院[智能媒体分析与计算实验室](https://i-mac-lab.net)的二年级博士生, 师从[徐常胜](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员(国家杰青, IEEE Fellow)和[张飞飞](https://cs.tjut.edu.cn/info/1226/1795.htm)教授。
-在此之前, 我分别于2021年和2024年在[江苏科技大学](https://www.just.edu.cn/)获得了学士和硕士(导师: [黄树成](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp)教授)学位。
+在此之前, 我分别于2021年和2024年在[江苏科技大学](https://www.just.edu.cn/)获得了学士和硕士(导师: [黄树成](https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm)教授)学位。
 
 **我目前的研究方向**主要集中在多模态学习和计算机视觉, 特别是: 组合式图像检索, 多模态大语言模型, 测试时自适应, 持续学习, 人脸表情识别等。
 
 
 # 📝 学术论文
 <!-- ====================================== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/ttrldr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Duplex Rewards Optimization for Test-Time Composed Image Retrieval](https:)
+
+[[Ppaer](https:)] [[Code](https://github.com/HaoliangZhou/U2CAR)]
+
+AAAI Conference on Artificial Intelligence (AAAI), 2026
+
+**Haoliang Zhou**, Feifei Zhang, Changsheng Xu
+
+AI领域顶级会议, CCF-A
+
+</div>
+</div>
+
+<!-- ====================================== -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='/images/u2car.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dual Uncertainty-aware Correspondence Adapting and Retaining for Continual Composed Image Retrieval](https:)
+[Dual Uncertainty-aware Correspondence Adapting and Retaining for Continual Composed Image Retrieval](https://doi.org/10.1109/TIP.2025.3628454)
 
-[[Ppaer](https:)] [[Code](https://github.com/HaoliangZhou/U2CIR)]
+[[Ppaer](https://doi.org/10.1109/TIP.2025.3628454)] [[Code](https://github.com/HaoliangZhou/U2CAR)]
 
 IEEE Transactions on Image Processing (TIP), 2025
 
@@ -161,7 +178,7 @@ SCI, 中科院三区, IF=2.1
   - **指导老师**: [徐常胜](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html)研究员 (国家杰青, IEEE/IAPR/CCF Fellow), [张飞飞](https://cs.tjut.edu.cn/info/1226/1795.htm)教授
 - *2021.09 - 2024.06*, 硕士 江苏科技大学
   - **院系专业**: 计算机学院, 软件工程
-  - **指导老师**: [黄树成](https://mypage.just.edu.cn/jsjkxgc/hsc/listm.psp)教授
+  - **指导老师**: [黄树成](https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm)教授
   - **专业排名**: 1/12; **课程绩点**: 4.1/5.0
   - **荣誉称号**: 研究生国家奖学金 (Top 3%)、一等奖学业学金 (连续3年)、优秀硕士学位论文、优秀毕业生 (Top 3%)、优秀研究生标兵 (Top 1.5%)等10余项荣誉称号
   - **比赛获奖**: 第四届江苏省研究生数学建模科研创新实践大赛省三等奖、第七届中国高校计算机大赛-网络技术挑战赛华东赛区三等奖、江苏科技大学研究生数学建模大赛一等奖
