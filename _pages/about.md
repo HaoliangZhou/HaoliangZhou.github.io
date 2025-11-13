@@ -40,9 +40,9 @@ Before that, I received the B.S. and M.S. degree in the [Jiangsu University of S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/ttrldr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Duplex Rewards Optimization for Test-Time Composed Image Retrieval](https:)
+[Duplex Rewards Optimization for Test-Time Composed Image Retrieval](https://github.com/HaoliangZhou/TT-RLDR)
 
-[[Ppaer](https:)] [[Code](https://github.com/HaoliangZhou/U2CAR)]
+[[Ppaer](https://github.com/HaoliangZhou/TT-RLDR)] [[Code](https://github.com/HaoliangZhou/TT-RLDR)]
 
 AAAI Conference on Artificial Intelligence (AAAI), 2026
 
