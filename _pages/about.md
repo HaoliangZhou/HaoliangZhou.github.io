@@ -115,11 +115,14 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       <img src="images/claude-pipeline.png" alt="Claude Code Skills 和 Subagents 的个人实践">
     </div>
     <div class="blog-card-content">
-      <div class="blog-title">Claude Code Skills 和 Subagents 的个人实践</div>
-      <div class="blog-description">两套落地系统：跨付费墙文献下载 Agent 与自迭代 AI Scientist，展示 Skills + Subagents 的生产级打法。</div>
+      <div class="blog-title">Claude Code Skills and Subagents in Practice</div>
+      <div class="blog-description">Two production-grade systems: a paywall-crossing paper harvester and a self-iterating AI Scientist, showing how Skills + Subagents scale LLM workflows.</div>
       <div class="blog-links">
-        <a href="/blog/claude-code-skills-subagents/" class="blog-link">
-          <i class="fas fa-book-open"></i> 阅读全文
+        <a href="https://mp.weixin.qq.com/s/_rHrBpRZX_U2Zmt8vRZ22Q" class="blog-link">
+          <i class="fas fa-language"></i> 中文版
+        </a>
+        <a href="https://jxtse.medium.com/from-chat-tools-to-research-infrastructure-building-production-grade-workflows-with-claude-code-7da19194ab34" class="blog-link">
+          <i class="fas fa-globe"></i> English
         </a>
       </div>
     </div>
