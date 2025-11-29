@@ -112,7 +112,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">2025</div>
-      <img src="images/pic01.jpg" alt="Claude Code Skills 和 Subagents 的个人实践">
+      <img src="images/claude-pipeline.png" alt="Claude Code Skills 和 Subagents 的个人实践">
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Claude Code Skills 和 Subagents 的个人实践</div>
