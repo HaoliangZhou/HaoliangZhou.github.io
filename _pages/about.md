@@ -109,6 +109,22 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 # <i class="fas fa-blog"></i> Blogs
 
 <div class="blog-grid">
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <div class="blog-badge">2025</div>
+      <img src="images/pic01.jpg" alt="Claude Code Skills 和 Subagents 的个人实践">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">Claude Code Skills 和 Subagents 的个人实践</div>
+      <div class="blog-description">两套落地系统：跨付费墙文献下载 Agent 与自迭代 AI Scientist，展示 Skills + Subagents 的生产级打法。</div>
+      <div class="blog-links">
+        <a href="/blog/claude-code-skills-subagents/" class="blog-link">
+          <i class="fas fa-book-open"></i> 阅读全文
+        </a>
+      </div>
+    </div>
+  </div>
+
 <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">June, 2025</div>
