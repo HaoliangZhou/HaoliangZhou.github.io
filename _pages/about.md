@@ -111,7 +111,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
-      <div class="blog-badge">2025</div>
+      <div class="blog-badge">November, 2025</div>
       <img src="images/claude-pipeline.png" alt="Claude Code Skills 和 Subagents 的个人实践">
     </div>
     <div class="blog-card-content">
@@ -185,7 +185,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-  <div class="blog-card">
+  <!-- <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">July, 2024</div>
       <img src="images/pic02.jpg" alt="NLP Learning Path">
@@ -202,7 +202,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
         </a>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="blog-card">
     <div class="blog-card-image">
