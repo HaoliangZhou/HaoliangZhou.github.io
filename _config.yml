@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinxiang Xie"
+title                    : "Gaole Dai's HomePage"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
+name                     : "Gaole Dai"
 description              : ""
-url                     : "https://jxtse.github.io"
+url                     : "https://DVDGL.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
+repository               : "daviddaiiiii/DVDGL.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,14 +27,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "Gaole Dai"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "Peking University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=2Of6xZUAAAAJ"
+  email            : "2201111765@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,13 +43,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "daviddaiiiii"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : "chunnidvd"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         : # ""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :
@@ -75,8 +75,8 @@ t:
     news: "News"
     publications: "Publications"
     educations: "Educations"
-    internships: "Internships"
-    blogs: "Blogs"
+    internships: "Funding & Awards"
+    blogs: "Interests"
 
 # Reading Files
 include:
