@@ -64,21 +64,21 @@ author:
   youtube          :
   wikipedia        :
 
-# 添加语言设置
-languages:
-  - en
-default_lang: "en"
-t:
-  en:
-    home: "Home"
-    about: "About Me"
-    news: "News"
-    publications: "Publications"
-    educations: "Educations"
-    internships: "Internships"
-    fundings: "Fundings & Awards"
-    interests: "Interests"
-    blogs: "Blogs"
+# # 添加语言设置
+# languages:
+#   - en
+# default_lang: "en"
+# t:
+#   en:
+#     home: "Home"
+#     about: "About Me"
+#     news: "News"
+#     publications: "Publications"
+#     educations: "Educations"
+#     internships: "Internships"
+#     fundings: "Fundings & Awards"
+#     interests: "Interests"
+#     blogs: "Blogs"
 
 # Reading Files
 include:
