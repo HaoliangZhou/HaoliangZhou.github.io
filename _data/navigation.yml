@@ -15,5 +15,12 @@ main:
   - title: "internships"
     url: "/#-internships"
 
+  - title: "fundings"
+  url: "/#-fundings"
+
+  - title: "interests"
+    url: "/#-interests"
+
   - title: "blogs"
     url: "/#-blogs"
+
