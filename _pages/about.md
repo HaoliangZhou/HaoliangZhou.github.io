@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I'm currently a Ph.D student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <img src='images/pkulogo.png'>{: style="height:1em; vertical-align:middle;"} **Peking University**. I earned my Bachelor's degree as a specialist in biology from <img src='images/utlogo.png'>{: style="height:1em; vertical-align:middle;"} **University of Toronto**. 
+My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I'm currently a PhD student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <img src='images/pkulogo.png'>{: style="height:1em; vertical-align:middle;"} **Peking University**. I earned my Bachelor's degree as a specialist in Biology from <img src='images/utlogo.png'>{: style="height:1em; vertical-align:middle;"} **University of Toronto**. My supervisers are <a href="https://www.shanghangzhang.com/" class="link-accent">Assistant Professor Shanghang Zhang</a> and <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Professor Tiejun Huang</a>
 
 <div class="quote-accent">
 My research focuses are on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
@@ -64,6 +64,11 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
+<span class='anchor' id='-educations'></span>
+# 🏫 Educations
+- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
+- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
+
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
 
@@ -100,11 +105,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 </div>
 
 - Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
-
-<span class='anchor' id='-educations'></span>
-# 🏫 Educations
-- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
 
 <span class='anchor' id='-interships'></span>
 # 💼 Internships
