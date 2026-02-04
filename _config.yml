@@ -12,7 +12,7 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Gaole Dai"
 description              : "AI x Life Science"
-url                     : "https://daviddaiiiii.github.io/"
+url                     : "https://daviddaiiiii.github.io"
 baseurl                 : ""
 repository               : "daviddaiiiii/homepage.github.io"
 google_scholar_stats_use_cdn : true
