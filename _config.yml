@@ -11,9 +11,9 @@ title                    : "Gaole Dai's HomePage"
 title_separator          : "-"
 subtitle                 : 
 name                     : "Gaole Dai"
-description              : "AI x Life Science"
+description              : "PhD Candidate"
 url                     : "https://daviddaiiiii.github.io"
-baseurl                 : ""
+baseurl                 : "https://daviddaiiiii.github.io"
 repository               : "daviddaiiiii/homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gaole Dai"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Ph.D Candidate@Peking University"
+  bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
