@@ -16,7 +16,7 @@ main:
     url: "/#-internships"
 
   - title: "fundings"
-  url: "/#-fundings"
+    url: "/#-fundings"
 
   - title: "interests"
     url: "/#-interests"
