@@ -19,11 +19,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I am a Ph.D student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <i class="fas fa-university"></i> **Peking University**. I earned my Bachelor's degree as a specialist in biology from <i class="fas fa-university"></i> **University of Toronto**.
+My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I'm currently a Ph.D student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <i class="fas fa-university"></i> **Peking University**. I earned my Bachelor's degree as a specialist in biology from <i class="fas fa-university"></i> **University of Toronto**. 
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
+My research focuses are on <span class="primary-gradient-text">AI for Life Science & NeuroAI</span>: 
 </div>
+
+- Leveraging powerful deep learning tools to address complex real world scientific problems.
+
+- Leveraging unique scientific data to build deep learning models beyond regualr expectation.
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
