@@ -59,10 +59,12 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
+<span class='anchor' id='-publications'></span>
 # 📃 Publications
 
 <div class='paper-box floating-card'>
@@ -99,19 +101,24 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 - Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
 
+<span class='anchor' id='-educations'></span>
 # 🏫 Educations
 - *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
 - *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
 
+<span class='anchor' id='-interships'></span>
 # 💼 Internships
 - *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
 
+<span class='anchor' id='-findings-and-awards'></span>
 # 🏆 Fundings and Awards
 
+<span class='anchor' id='-interests'></span>
 # 🎮 Interests
 
+<span class='anchor' id='-blogs'></span>
 # 🖊️ Blogs
 
 <div class="blog-grid">
