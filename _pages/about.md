@@ -23,10 +23,10 @@ My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, o
 
 <div class="quote-accent">
 My research focuses are on <span class="primary-gradient-text">AI for Life Science & NeuroAI</span>: 
-  
-- Leveraging powerful deep learning tools to address complex real world scientific problems.
-  
-- Leveraging unique scientific data to build deep learning models beyond regualr expectation.
+  <ul>
+    <li>Leveraging powerful <span class="primary-gradient-text">AI tools</span> to address complex real world scientific problems.</li>
+    <li>Leveraging unique <span class="primary-gradient-text">scientific data</span> to build deep learning models beyond regualr expectation.</li>
+  </ul>
 </div>
 
 
@@ -36,16 +36,14 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
-      <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
+      <li>Research focus on <span class="accent-text">AI and Biology</span></li>
+      <li>Publicate as first author at <span class="accent-text">Nature Methods</span>, <span class="accent-text">Nature Compuational Science</span>, <span class="accent-text">ICLR</span>, <span class="accent-text">NeurIPS</span>, <span class="accent-text">ICML</span></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
     <ul>
-      <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
       <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
       <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ" class="link-accent">Articles</a> about <span class="primary-gradient-text">Tech & Humanities</span></li>
     </ul>
