@@ -22,7 +22,7 @@ redirect_from:
 My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I'm currently a Ph.D student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <i class="fas fa-university"></i> **Peking University**. I earned my Bachelor's degree as a specialist in biology from <i class="fas fa-university"></i> **University of Toronto**. 
 
 <div class="quote-accent">
-My research focuses are on <span class="primary-gradient-text">AI for Life Science & NeuroAI</span>: 
+My research focuses are on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
   <ul>
     <li>Leveraging powerful <span class="primary-gradient-text">AI tools</span> to address complex real world scientific problems.</li>
     <li>Leveraging unique <span class="primary-gradient-text">scientific data</span> to build deep learning models beyond regualr expectation.</li>
@@ -36,8 +36,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">AI and Biology</span></li>
-      <li>Publicate as first author at <span class="accent-text">Nature Methods</span>, <span class="accent-text">Nature Compuational Science</span>, <span class="accent-text">ICLR</span>, <span class="accent-text">NeurIPS</span>, <span class="accent-text">ICML</span></li>
+      <li>Research focus on <span class="primary-gradient-text">AI and Biology</span></li>
+      <li>Publicate as first author at <span class="primary-gradient-text">Nature Methods</span>, <span class="primary-gradient-text">Nature Compuational Science</span>, <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">NeurIPS</span>, <span class="primary-gradient-text">ICML</span></li>
     </ul>
   </div>
   
@@ -59,7 +59,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<!-- # <i class="fas fa-fire"></i> News
+# <i class="fas fa-fire"></i> News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
