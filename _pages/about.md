@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I'm currently a Ph.D student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <i class="fas fa-university"></i> **Peking University**. I earned my Bachelor's degree as a specialist in biology from <i class="fas fa-university"></i> **University of Toronto**. 
+My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I'm currently a Ph.D student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <img src='images/pkulogo.png'> **Peking University**. I earned my Bachelor's degree as a specialist in biology from <img src='images/utlogo.png'> **University of Toronto**. 
 
 <div class="quote-accent">
 My research focuses are on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
