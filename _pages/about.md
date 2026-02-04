@@ -29,6 +29,15 @@ My research focuses are on <span class="accent-text">AI for Life Science & Neuro
   </ul>
 </div>
 
+My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in <img src='images/pkulogo.png' style="height:1em; vertical-align:middle;"> **Peking University**. I got my Bachelor's degree in Biology from <img src='images/utlogo.png' style="height:1em; vertical-align:middle;"> **University of Toronto**. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
+
+<div class="quote-accent">
+My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
+  <ul>
+    <li>Using powerful <span class="primary-gradient-text">AI tools</span> to solve complex real-world scientific problems.</li>
+    <li>Using unique <span class="primary-gradient-text">scientific data</span> to build deep-learning models that exceed regular expectations.</li>
+  </ul>
+</div>
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
@@ -42,19 +51,18 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
+    <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3>
     <ul>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ" class="link-accent">Articles</a> about <span class="primary-gradient-text">Tech & Humanities</span></li>
+      <li>Enjoy <span class="primary-gradient-text">Animate, HipHop Music, and Fitness</span></li>
+      <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
+    <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited <span class="accent-text">9 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
-      <li>Rich experience in <span class="primary-gradient-text">social work</span></li>
+      <li>Visited <span class="accent-text">13 countries</span> worldwide</li>
+      <li>Life path: <span class="accent-text">Chengdu -> Calgary -> Toronto -> Shenzhen -> Beijing -> What's Next?</span></li>
     </ul>
   </div>
 </div>
