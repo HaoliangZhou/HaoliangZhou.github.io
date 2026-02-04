@@ -75,8 +75,10 @@ t:
     news: "News"
     publications: "Publications"
     educations: "Educations"
-    internships: "Funding & Awards"
-    blogs: "Interests"
+    internships: "Internships"
+    fundings: "Fundings & Awards"
+    interests: "Interests"
+    blogs: "Blogs"
 
 # Reading Files
 include:
