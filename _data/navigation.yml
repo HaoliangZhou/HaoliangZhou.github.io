@@ -1,24 +1,24 @@
 main:
-  - title: "about"
+  - title: "About Me"
     url: "/#about-me"
 
-  - title: "news"
-    url: "/#news"
+  - title: "News"
+    url: "/#-news"
 
-  - title: "publications"
-    url: "/#publications"
+  - title: "Publications"
+    url: "/#-publications"
 
-  - title: "educations"
-    url: "/#educations"
+  - title: "Educations"
+    url: "/#-educations"
 
-  - title: "internships"
-    url: "/#internships"
+  - title: "Internships"
+    url: "/#-internships"
 
-  - title: "fundings"
-    url: "/#fundings"
+  - title: "Fundings & Awards"
+    url: "/#-fundings"
 
-  - title: "interests"
-    url: "/#interests"
+  - title: "Interests"
+    url: "/#-interests"
 
-  - title: "blogs"
-    url: "/#blogs"
+  - title: "Blogs"
+    url: "/#-blogs"
