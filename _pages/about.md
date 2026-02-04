@@ -23,11 +23,12 @@ My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, o
 
 <div class="quote-accent">
 My research focuses are on <span class="primary-gradient-text">AI for Life Science & NeuroAI</span>: 
+  
+- Leveraging powerful deep learning tools to address complex real world scientific problems.
+  
+- Leveraging unique scientific data to build deep learning models beyond regualr expectation.
 </div>
 
-- Leveraging powerful deep learning tools to address complex real world scientific problems.
-
-- Leveraging unique scientific data to build deep learning models beyond regualr expectation.
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
