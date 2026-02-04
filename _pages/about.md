@@ -51,7 +51,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
       <li>Visited <span class="primary-gradient-text">13 countries</span> worldwide</li>
-      <li>Life path: <span class="primary-gradient-text">Chengdu ➡️ Calgary ➡️ Toronto ➡️ Shenzhen ➡️ Beijing ➡️ What's Next?</span></li>
+      <li>Life path: <span class="primary-gradient-text">Chengdu -> Calgary -> Toronto -> Shenzhen -> Beijing -> What's Next?</span></li>
     </ul>
   </div>
 </div>
