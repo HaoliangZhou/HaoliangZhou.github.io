@@ -18,17 +18,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-My name is <span class="accent-text">Gao Le Dai</span> (you can call me David, or, perhaps DVD). I'm currently a PhD student in <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> at <img src='images/pkulogo.png'>{: style="height:1em; vertical-align:middle;"} **Peking University**. I earned my Bachelor's degree as a specialist in Biology from <img src='images/utlogo.png'>{: style="height:1em; vertical-align:middle;"} **University of Toronto**. My supervisers are <a href="https://www.shanghangzhang.com/" class="link-accent">Assistant Professor Shanghang Zhang</a> and <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Professor Tiejun Huang</a>
-
-<div class="quote-accent">
-My research focuses are on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
-  <ul>
-    <li>Leveraging powerful <span class="primary-gradient-text">AI tools</span> to address complex real world scientific problems.</li>
-    <li>Leveraging unique <span class="primary-gradient-text">scientific data</span> to build deep learning models beyond regualr expectation.</li>
-  </ul>
-</div>
-
 My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in <img src='images/pkulogo.png' style="height:1em; vertical-align:middle;"> **Peking University**. I got my Bachelor's degree in Biology from <img src='images/utlogo.png' style="height:1em; vertical-align:middle;"> **University of Toronto**. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
 
 <div class="quote-accent">
@@ -45,15 +34,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
-      <li>Research focus on <span class="primary-gradient-text">AI and Biology</span></li>
-      <li>Publicate as first author at <span class="primary-gradient-text">Nature Methods</span>, <span class="primary-gradient-text">Nature Compuational Science</span>, <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">NeurIPS</span>, <span class="primary-gradient-text">ICML</span></li>
+      <li>Research focus: <span class="primary-gradient-text">AI and Biology</span></li>
+      <li>Published as first author in <span class="primary-gradient-text">Nature Methods</span>, <span class="primary-gradient-text">Nature Compuational Science</span>, <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">NeurIPS</span>, <span class="primary-gradient-text">ICML</span></li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3>
     <ul>
-      <li>Enjoy <span class="primary-gradient-text">Animate, HipHop Music, and Fitness</span></li>
+      <li>Enjoy <span class="primary-gradient-text">Animation (🏅Kyoto Animation), Music (🕯️Mac Miller), and Fitness</span></li>
       <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
     </ul>
   </div>
@@ -62,7 +51,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
       <li>Visited <span class="accent-text">13 countries</span> worldwide</li>
-      <li>Life path: <span class="accent-text">Chengdu -> Calgary -> Toronto -> Shenzhen -> Beijing -> What's Next?</span></li>
+      <li>Life path: <span class="accent-text">Chengdu ➡️ Calgary ➡️ Toronto ➡️ Shenzhen ➡️ Beijing ➡️ What's Next?</span></li>
     </ul>
   </div>
 </div>
