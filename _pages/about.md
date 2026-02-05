@@ -42,7 +42,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3>
     <ul>
-      <li>Enjoy <span class="primary-gradient-text">Animates & Games</span>🎬🎮, <span class="primary-gradient-text">Musics & Illustrations</span>🎵🎨, and <span class="primary-gradient-text">Sports & Car Cultures</span>🏋️🏎️</li>
+      <li>Enjoy <span class="primary-gradient-text">Animates & Games</span>🎬🎮; <span class="primary-gradient-text">Musics & Illustrations</span>🎵🎨; <span class="primary-gradient-text">Sports & Car Cultures</span>🏋️🏎️</li>
       <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
     </ul>
   </div>
