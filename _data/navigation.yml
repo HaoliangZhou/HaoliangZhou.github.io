@@ -5,20 +5,20 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Fundings and Awards"
     url: "/#-fundings-and-awards"
 
+  - title: "Internships"
+    url: "/#-internships"
+
   - title: "Interests"
     url: "/#-interests"
 
-  - title: "Blogs"
-    url: "/#-blogs"
+  - title: "Others"
+    url: "/#-others"
