@@ -34,7 +34,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
-      <li>Research focus: <span class="primary-gradient-text">AI and Biology</span></li>
+      <li>Technical preference: <span class="primary-gradient-text">Self-supervised Learning, Representation Learning, and Phenotypical Research</span></li>
       <li>Published as first author in <span class="primary-gradient-text">Nature Methods</span>, <span class="primary-gradient-text">Nature Compuational Science</span>, <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">NeurIPS</span>, <span class="primary-gradient-text">ICML</span></li>
     </ul>
   </div>
@@ -50,7 +50,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited <span class="primary-gradient-text">17 countries</span>🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦 worldwide</li>
+      <li>Visited <span class="primary-gradient-text">17 countries</span>🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
       <li>Life path: <span class="primary-gradient-text">Chengdu > Calgary > Toronto > Shenzhen > Beijing > What's Next?</span></li>
     </ul>
   </div>
