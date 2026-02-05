@@ -50,7 +50,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited 🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦 <span class="primary-gradient-text">17 countries</span> worldwide</li>
+      <li>Visited <span class="primary-gradient-text">17 countries</span>🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦 worldwide</li>
       <li>Life path: <span class="primary-gradient-text">Chengdu > Calgary > Toronto > Shenzhen > Beijing > What's Next?</span></li>
     </ul>
   </div>
@@ -58,13 +58,20 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
-- *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
+- *2026.01*: &nbsp;🎉 2 papers (1xfirst, 1xcontribute) are accepted by <span class="accent-text">The Fourteenth International Conference on Learning Representations(ICLR 2026)</span>. See you in Rio de Janeiro🇧🇷!
+- *2025.11*: &nbsp;🎉 2 papers (1xco-first/oral, 1xcontribute) are accepted by <span class="accent-text">The Fortieth AAAI Conference on Artificial Intelligence(AAAI 2026)</span>. See you in Singapore🇸🇬!
+- *2025.10*: &nbsp;🎤 Invited talk in The 2nd AI for Science PhD Seminar hold by <span class="accent-text">The School of AI for Science, Peking University</span>. See you in Shenzhen🇨🇳! 
+- *2025.09*: &nbsp;🎉 2 papers (1xfirst/spotlight, 1xcontribute) are accepted by <span class="accent-text">The Thirty-ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)</span>. See you in San Diego🇺🇸! 
+- *2025.07*: &nbsp;🎉 1 papers (1xfirst) is accepted in principle by <span class="accent-text">Nature Computational Science</span>. 
+- *2025.05*: &nbsp;🎉 1 papers (1xfirst) is accepted by <span class="accent-text">The Forty-second International Conference on Machine Learning(ICML 2025)</span>. See you in Vancouver🇨🇦!
+- *2024.12*: &nbsp;✅ Received approval of Pilot Program of Research Fund for Excellent PhD Students hold by <span class="accent-text">Natural Science Foundation of China(NSFC)</span>. 
+- *2024.07*: &nbsp;🎉 1 papers (1xstudent first) is accepted in principle by <span class="accent-text">Nature Methods</span>. 
+- *2024.01*: &nbsp;🎤 Invited talk in The Dagstuhl Seminar hold by <span class="accent-text">Leibniz Institute for Analytical Sciences(ISAS)</span>. See you in Dagstuhl🇩🇪! 
 
 <span class='anchor' id='-educations'></span>
 # 🏫 Educations
-- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
+- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University.
+- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="primary-gradient-text">with Distinction</span>, University of Toronto.
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
