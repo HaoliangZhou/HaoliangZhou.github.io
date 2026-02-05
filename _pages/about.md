@@ -42,7 +42,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3>
     <ul>
-      <li>Enjoy <span class="primary-gradient-text">Animation</span>(🏅Kyoto Animation), <span class="primary-gradient-text">Music</span>(🕯️Mac Miller), and <span class="primary-gradient-text">Fitness</span></li>
+      <li>Enjoy <span class="primary-gradient-text">Animates & Games</span>🎬🎮, <span class="primary-gradient-text">Musics & Illustrations</span>🎵🎨, and <span class="primary-gradient-text">Sports & Car Cultures</span>🏋️🏎️</li>
       <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
     </ul>
   </div>
@@ -50,15 +50,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited <span class="primary-gradient-text">13 countries</span> worldwide</li>
-      <li>Life path: <span class="primary-gradient-text">Chengdu -> Calgary -> Toronto -> Shenzhen -> Beijing -> What's Next?</span></li>
+      <li>Visited 🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦 <span class="primary-gradient-text">17 countries</span> worldwide</li>
+      <li>Life path: <span class="primary-gradient-text">Chengdu > Calgary > Toronto > Shenzhen > Beijing > What's Next?</span></li>
     </ul>
   </div>
 </div>
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
 - *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
 <span class='anchor' id='-educations'></span>
