@@ -71,7 +71,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <span class='anchor' id='-educations'></span>
 # 🏫 Educations
 - *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University.
-- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class=="accent-text">with Distinction</span>, University of Toronto.
+- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="accent-text">with Distinction</span>, University of Toronto.
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
@@ -120,10 +120,10 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 # 🏆 Fundings and Awards
 
 <span class='anchor' id='-interests'></span>
-# 🎮 Interests
+# 😊 Interests
 
-<span class='anchor' id='-blogs'></span>
-# 🖊️ Blogs
+<span class='anchor' id='-others'></span>
+# 💬 Others
 
 <div class="blog-grid">
   <div class="blog-card">
