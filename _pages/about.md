@@ -252,7 +252,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-<div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">My Favorite Game</div>
@@ -269,7 +268,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-<div class="blog-grid">
   <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">My Favorite Artist</div>
@@ -289,7 +287,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-others'></span>
 # 💬 Others
-
+- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University <img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
