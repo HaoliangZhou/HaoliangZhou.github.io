@@ -251,23 +251,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       </div>
     </div>
   </div>
-
-<div class="blog-grid">
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">My Favorite Anime Studio</div>
-      <img src="images/kyoani.png" alt="kyoani">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Kyoto Animation</div>
-      <div class="blog-description">Since inauguration, our principles are "Make a challenge", "Do the best", "Produce required works" and "Keep our corporate as a humanitarian one". We value people. Promoting the growth of people is equal to creating the brightness of works. We sincerely keep moving forward to be an Entertainment Corporation which based on Animation.</div>
-      <div class="blog-links">
-        <a href="https://www.kyotoanimation.co.jp/en/" class="blog-link">
-          <i class="fas fa-globe"></i> Link
-        </a>
-      </div>
-    </div>
-  </div>
+</div>
 
 
 <span class='anchor' id='-others'></span>
