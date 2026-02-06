@@ -243,7 +243,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Kyoto Animation</div>
-      <div class="blog-description">K-On! makes me smile and Clannad makes me cry, KyoAni makes me bipolar😭.</div>
+      <div class="blog-description">K-On! makes me smile and Clannad makes me cry, KyoAni makes me bipolar🤦.</div>
       <div class="blog-links">
         <a href="https://www.kyotoanimation.co.jp/en/" class="blog-link">
           <i class="fas fa-globe"></i> Link
@@ -251,7 +251,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       </div>
     </div>
   </div>
-</div>
 
 <div class="blog-grid">
   <div class="blog-card">
@@ -269,7 +268,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       </div>
     </div>
   </div>
-</div>
 
 <div class="blog-grid">
   <div class="blog-card">
@@ -287,7 +285,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       </div>
     </div>
   </div>
-</div>
 
 <span class='anchor' id='-others'></span>
 # 💬 Others
