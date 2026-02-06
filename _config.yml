@@ -28,7 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gaole Dai"
-  avatar           : "images/avatar.jpg"
+  avatar           : "images/avatar.png"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
