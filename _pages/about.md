@@ -78,32 +78,32 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">ICLR 2026</div>
-    <img src='images/Example_page-0002.png' alt="CAST Framework Architecture" width="100%">
+    <div class="badge pulse-accent">ICLR 2026 Poster</div>
+    <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
-    <div class="venue">Under Review</div>
-    <!-- <div class="links">
-      <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div> -->
+    <h3>SpikeGen: Decoupled “Rods and Cones” Visual Representation Processing with Latent Generative Framework</h3>
+    <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Menghang Dong⭐️, Rongyu Zhang, Ruichuan An, Shanghang Zhang📧, Tiejun Huang📧</div>
+    <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
+    <div class="links">
+      <a href="https://openreview.net/pdf/16538e2435f34c57dec3047289b0111c358eae62.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/daviddaiiiii/SpikeGen" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
   </div>
 </div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2025</div>
-    <img src='images/Example_page-0001.png' alt="DSGram Framework Overview" width="100%">
+    <div class="badge pulse-accent">ICLR 2026 Poster</div>
+    <img src='images/spikepingpong.png' alt="SpikePingpong Overview" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>DSGram: Dynamic Weighting Sub-Metrics for Grammatical Error Correction in the Era of Large Language Models</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan</div>
-    <div class="venue">In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</div>
+    <h3></h3>
+    <div class="authors">Hao Wang, Chengkai Hou, Xianglong Li, Yankai Fu, Chenxuan Li, Ning Chen, <span class="primary-gradient-text">Gaole Dai</span>, Jiaming Liu, Tiejun Huang, Shanghang Zhang</div>
+    <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2412.12832" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
-      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://openreview.net/forum?id=d08yOXs1Dl" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
+      <a href="https://github.com/PKUHaoWang/SpikePingpong" class="btn-accent"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 </div>
