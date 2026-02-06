@@ -108,6 +108,38 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">AAAI 2026 Oral</div>
+    <img src='images/moase.png' alt="MOASE Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</h3>
+    <div class="authors">Rongyu Zhang⭐️, Aosong Cheng⭐️, Yulin Luo⭐️, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du📧, Yanbing Jiang, Shanghang Zhang📧</div>
+    <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2405.16486v1" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/RoyZry98/MoASE-Pytorch" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">AAAI 2026 Poster</div>
+    <img src='images/mole-vla.png' alt="MOLE-VLA Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>SpikeGen: Decoupled “Rods and Cones” Visual Representation Processing with Latent Generative Framework</h3>
+    <div class="authors">Rongyu Zhang, Menghang Dong, Yuan Zhang, Liang Heng, Xiaowei Chi, <span class="primary-gradient-text">Gaole Dai</span>, Li Du, Yuan Du📧, Shanghang Zhang📧</div>
+    <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2503.20384" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://github.com/RoyZry98/MoLe-VLA-Pytorch/" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+    </div>
+  </div>
+</div>
+
 - Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
 
 <span class='anchor' id='-findings-and-awards'></span>
