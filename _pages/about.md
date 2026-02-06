@@ -23,8 +23,8 @@ My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or
 <div class="quote-accent">
 My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
   <ul>
-    <li>Using powerful <span class="primary-gradient-text">AI tools</span> to solve complex real-world scientific problems.</li>
-    <li>Using unique <span class="primary-gradient-text">scientific data</span> to build deep-learning models that exceed regular expectations.</li>
+    <li>Using powerful <span class="primary-gradient-text">AI tools</span> to solve complex scientific problems.</li>
+    <li>Using unique <span class="primary-gradient-text">scientific data</span> to explore irregular model dynamic</li>
   </ul>
 </div>
 
@@ -224,12 +224,14 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-findings-and-awards'></span>
 # 🏆 Fundings and Awards
+- *2025.01 - 2027.01*: &nbsp;Natural Science Foundation of China, Pilot Program of Research Fund for Excellent PhD Students, 100,000¥/year.
+- *2022.06 - Present*: &nbsp;Chinese Government Scholarship for Excellent PhD Students
+- *2023.09*: &nbsp;International Conference On Computer Vision (ICCV) 2023, Continue Test-time Adaptation for Semantic Segmentation Challenge, Sliver Place.  
 
 <span class='anchor' id='-interships'></span>
 # 💼 Internships
-- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
+- *2024.08 - Present*: &nbsp;Research Intern, <a href="https://www.baai.ac.cn" class="link-accent">Beijing Academy of Artifical Intelligence (BAAI)</a>.
+- *2024.01 - 2024.08*: &nbsp;Research Intern, <a href="https://www.intellif.com/" class="link-accent">Intellifusion Technology</a>.
 
 <span class='anchor' id='-interests'></span>
 # 😊 Interests
