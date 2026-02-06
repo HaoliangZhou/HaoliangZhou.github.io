@@ -34,7 +34,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
     <ul>
-      <li>Technical preference: <span class="primary-gradient-text">Self-supervised Learning, Representation Learning, and Phenotypical Research</span></li>
+      <li>Technical preference: <span class="primary-gradient-text">Representation Learning & Phenotypical Research</span></li>
       <li>Published as first author in <span class="primary-gradient-text">Nature Methods</span>, <span class="primary-gradient-text">Nature Compuational Science</span>, <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">NeurIPS</span>, <span class="primary-gradient-text">ICML</span></li>
     </ul>
   </div>
@@ -70,13 +70,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-educations'></span>
 # 🏫 Educations
-- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
-- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="accent-text">with Distinction</span>, University of Toronto<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">.
+- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University <img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
+- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="accent-text">with Distinction</span>, University of Toronto <img src='images/utlogo.png' style="height:1em; vertical-align:middle;">.
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
 
-<div class='paper-box floating-card'>
+<div id="filter-container"></div>
+
+<div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, Conference">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ICLR 2026 Poster</div>
     <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
@@ -92,7 +94,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ICLR 2026 Poster</div>
     <img src='images/spikepingpong.png' alt="SpikePingpong Overview" width="100%">
@@ -108,7 +110,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">AAAI 2026 Oral</div>
     <img src='images/moase.png' alt="MOASE Overview" width="100%">
@@ -124,7 +126,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">AAAI 2026 Poster</div>
     <img src='images/mole-vla.png' alt="MOLE-VLA Overview" width="100%">
@@ -140,7 +142,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Journal">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Nature Computational Science</div>
     <img src='images/inif.png' alt="INIF Overview" width="100%">
@@ -156,7 +158,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">NeurIPS 2025 Spotlight</div>
     <img src='images/orochi.png' alt="Orochi Overview" width="100%">
@@ -172,7 +174,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="Transfer Learning, Unified Model, Conference">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">NeurIPS 2025 Poster</div>
     <img src='images/unictoken.png' alt="UniCToken Overview" width="100%">
@@ -188,7 +190,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="First/Co-First Author, Transfer Learning, NeuroAI, Conference">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ICML 2025 Poster</div>
     <img src='images/san.png' alt="SAN Overview" width="100%">
@@ -204,7 +206,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Journal">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Nature Methods</div>
     <img src='images/gbai.png' alt="GBAI Overview" width="100%">
@@ -364,4 +366,80 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterContainer = document.getElementById('filter-container');
+  const paperBoxes = document.querySelectorAll('.paper-box');
+  let activeTags = new Set();
+  let allTags = new Set();
 
+  // 1. 扫描所有论文，提取所有不重复的标签
+  paperBoxes.forEach(box => {
+    const tags = box.getAttribute('data-tags');
+    if (tags) {
+      tags.split(',').forEach(tag => {
+        allTags.add(tag.trim());
+      });
+    }
+  });
+
+  // 2. 将标签排序并生成按钮
+  const sortedTags = Array.from(allTags).sort();
+  
+  // 添加 "All" 按钮（可选，或者用清除功能）
+  // 这里我们采用点击标签进行 toggle 的方式，不选任何标签即显示全部
+
+  sortedTags.forEach(tag => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.textContent = tag;
+    
+    // 3. 按钮点击事件
+    btn.onclick = () => {
+      // 切换选中状态
+      if (activeTags.has(tag)) {
+        activeTags.delete(tag);
+        btn.classList.remove('active');
+      } else {
+        activeTags.add(tag);
+        btn.classList.add('active');
+      }
+      
+      filterPapers();
+    };
+    
+    filterContainer.appendChild(btn);
+  });
+
+  // 4. 核心过滤逻辑
+  function filterPapers() {
+    paperBoxes.forEach(box => {
+      const boxTagsString = box.getAttribute('data-tags');
+      
+      // 如果没有选中任何标签，显示所有
+      if (activeTags.size === 0) {
+        box.classList.remove('hidden');
+        return;
+      }
+
+      // 如果卡片没有标签，但在筛选模式下，直接隐藏
+      if (!boxTagsString) {
+        box.classList.add('hidden');
+        return;
+      }
+
+      const boxTags = boxTagsString.split(',').map(t => t.trim());
+      
+      // 逻辑：必须包含所有选中的标签 (AND 逻辑)
+      // 如果你想要只要包含其中一个就显示 (OR 逻辑)，请把 every 改成 some
+      const isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
+
+      if (isVisible) {
+        box.classList.remove('hidden');
+      } else {
+        box.classList.add('hidden');
+      }
+    });
+  }
+});
+</script>
