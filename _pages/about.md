@@ -83,7 +83,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   <div class='paper-box-text'>
     <h3>SpikeGen: Decoupled “Rods and Cones” Visual Representation Processing with Latent Generative Framework</h3>
-    <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Menghang Dong⭐️, Rongyu Zhang, Ruichuan An, Shanghang Zhang📧, Tiejun Huang📧</div>
+    <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Menghang Dong⭐️, Rongyu Zhang⭐️, Ruichuan An, Shanghang Zhang📧, Tiejun Huang📧</div>
     <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
     <div class="links">
       <a href="https://openreview.net/pdf/16538e2435f34c57dec3047289b0111c358eae62.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -99,7 +99,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   <div class='paper-box-text'>
     <h3></h3>
-    <div class="authors">Hao Wang, Chengkai Hou, Xianglong Li, Yankai Fu, Chenxuan Li, Ning Chen, <span class="primary-gradient-text">Gaole Dai</span>, Jiaming Liu, Tiejun Huang, Shanghang Zhang</div>
+    <div class="authors">Hao Wang⭐️, Chengkai Hou⭐️, Xianglong Li⭐️, Yankai Fu, Chenxuan Li, Ning Chen, <span class="primary-gradient-text">Gaole Dai</span>, Jiaming Liu, Tiejun Huang, Shanghang Zhang📧</div>
     <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
     <div class="links">
       <a href="https://openreview.net/forum?id=d08yOXs1Dl" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
