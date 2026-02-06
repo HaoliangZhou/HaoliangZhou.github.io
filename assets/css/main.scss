@@ -40,6 +40,51 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* =========================================
+   Paper Filter Styles (Added by User)
+   ========================================= */
+
+/* 过滤按钮容器 */
+#filter-container {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* 按钮基础样式 */
+.filter-btn {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 6px 15px;
+  cursor: pointer;
+  font-size: 0.9em;
+  transition: all 0.3s ease;
+  color: #555;
+  user-select: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; /* 确保字体美观 */
+}
+
+/* 鼠标悬停 */
+.filter-btn:hover {
+  background-color: #e0e0e0;
+  transform: translateY(-1px);
+}
+
+/* 选中状态 - 你的网页主色调渐变 */
+.filter-btn.active {
+  background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%);
+  color: white;
+  border-color: transparent;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* 隐藏被过滤掉的论文 */
+.paper-box.hidden {
+  display: none !important; /* 加个 !important 确保一定能隐藏 */
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
