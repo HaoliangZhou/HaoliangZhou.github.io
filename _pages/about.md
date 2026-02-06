@@ -70,15 +70,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-educations'></span>
 # 🏫 Educations
-- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University.
-- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="accent-text">with Distinction</span>, University of Toronto.
+- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
+- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="accent-text">with Distinction</span>, University of Toronto<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">.
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Under Review</div>
+    <div class="badge pulse-accent">ICLR 2026</div>
     <img src='images/Example_page-0002.png' alt="CAST Framework Architecture" width="100%">
   </div>
   <div class='paper-box-text'>
@@ -110,14 +110,14 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 - Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
 
+<span class='anchor' id='-findings-and-awards'></span>
+# 🏆 Fundings and Awards
+
 <span class='anchor' id='-interships'></span>
 # 💼 Internships
 - *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**.
-
-<span class='anchor' id='-findings-and-awards'></span>
-# 🏆 Fundings and Awards
 
 <span class='anchor' id='-interests'></span>
 # 😊 Interests
