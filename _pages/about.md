@@ -243,7 +243,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Kyoto Animation</div>
-      <div class="blog-description">Since inauguration, our principles are "Make a challenge", "Do the best", "Produce required works" and "Keep our corporate as a humanitarian one". We value people. Promoting the growth of people is equal to creating the brightness of works. We sincerely keep moving forward to be an Entertainment Corporation which based on Animation.</div>
+      <div class="blog-description">K-On! makes me smile and Clannad makes me cry, KyoAni makes me bipolar😭.</div>
       <div class="blog-links">
         <a href="https://www.kyotoanimation.co.jp/en/" class="blog-link">
           <i class="fas fa-globe"></i> Link
@@ -253,6 +253,41 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<div class="blog-grid">
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <div class="blog-badge">My Favorite Game</div>
+      <img src="images/pokemon.png" alt="pokemon">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">Pokemon Diamond & Peral & Platinum</div>
+      <div class="blog-description">Childhood Memory😭.</div>
+      <div class="blog-links">
+        <a href="https://www.pokemon.com/us/pokemon-video-games" class="blog-link">
+          <i class="fas fa-globe"></i> Link
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="blog-grid">
+  <div class="blog-card">
+    <div class="blog-card-image">
+      <div class="blog-badge">My Favorite Artist</div>
+      <img src="images/macmiller.png" alt="macmiller">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">Mac Miller</div>
+      <div class="blog-description">Honestly, it's hard to decide. I have multiple "favorites" for each genre. For example, NE-YO for R&B and Supercell for J-pop. But the first one that pops into my mind is Mac Miller (R.I.P🕯️).</div>
+      <div class="blog-links">
+        <a href="https://www.macmillerswebsite.com/" class="blog-link">
+          <i class="fas fa-globe"></i> Link
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <span class='anchor' id='-others'></span>
 # 💬 Others
