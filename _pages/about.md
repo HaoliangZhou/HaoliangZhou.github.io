@@ -383,7 +383,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
----------------------------------------------------------------
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const wrapper = document.getElementById('publications-wrapper');
