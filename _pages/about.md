@@ -171,7 +171,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>Implicit neural image field for biological microscopy image compression</h3>
       <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Rongyu Zhang, Qingpo Wuwu, Cheng-Ching Tseng, Yu Zhou, Shaokang Wang, Siyuan Qian, Ming Lu, Ali Ata Tuz, Matthias Gunzer, Tiejun Huang📧, Jianxu Chen📧, Shanghang Zhang📧</div>
-      <div class="venue">Nature Computational Science (2026), JCR-Q1, IF=18.4</div>
+      <div class="venue">Nature Computational Science (2025), JCR-Q1, IF=18.4</div>
       <div class="links">
         <a href="https://www.nature.com/articles/s43588-025-00889-4" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/PKU-HMI/INIF" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -235,7 +235,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>Multimodal large language models for bioimage analysis</h3>
       <div class="authors">Shanghang Zhang📧, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Tiejun Huang, Jianxu Chen📧</div>
-      <div class="venue">Nature Methods (2025), JCR-Q1, IF=32.1</div>
+      <div class="venue">Nature Methods (2024), JCR-Q1, IF=32.1</div>
       <div class="links">
         <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fab fa-github"></i> Code</a>
