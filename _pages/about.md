@@ -378,7 +378,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>,
       these mentors have influenced my academic taste:
       Doctor <a href="https://scholar.google.com/citations?user=HdolpOgAAAAJ&hl=en" class="link-accent">Jianxu Chen</a> and
-      Professor <a href="https://research.bjmu.edu.cn/qnpt/qnpt_rcfczs/8592be279b054a3f9fc7a1b48cb981bd.htm" class="link-accent">Mo Li</a>.
+      Professor <a href="https://sbms.bjmu.edu.cn/English/Faculty/PrincipalInvestigators/HAHE/Mo_Li.html" class="link-accent">Mo Li</a>.
     </div>
   </div>
 </div>
