@@ -18,7 +18,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in <img src='images/pkulogo.png' style="height:1em; vertical-align:middle;"> **Peking University**. I got my Bachelor's degree in Biology from <img src='images/utlogo.png' style="height:1em; vertical-align:middle;"> **University of Toronto**. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
+My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in **Peking University**<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">. I got my Bachelor's degree in Biology from **University of Toronto**<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
 
 <div class="quote-accent">
 My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
@@ -34,16 +34,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Interdiscipline Researcher</h3>
     <ul>
-      <li>Technical preference: 
-        <span class="primary-gradient-text">Representation Learning</span> &
-        <span class="primary-gradient-text">Phenotypical Research</span>
+      <li>My <span class="primary-gradient-text">Technical Preference</span>: 
+        Representation Learning & Phenotypical Research
       </li>
-      <li>Published as <span class="primary-gradient-text">first author</span> in 
-        <img src='images/nmlogo.png' style="height:1em; vertical-align:middle;"> Nature Methods,
-        <img src='images/ncslogo.png' style="height:1em; vertical-align:middle;"> Nature Compuational Science</span>,
-        <img src='images/iclrlogo.png' style="height:1em; vertical-align:middle;"> ICLR,
-        <img src='images/neuripslogo.png' style="height:1em; vertical-align:middle;"> NeurIPS,
-        and <img src='images/icmllogo.png' style="height:1em; vertical-align:middle;"> ICML
+      <li>Published as <span class="primary-gradient-text">First Author</span> in: 
+        Nature Methods<img src='images/nmlogo.png' style="height:1em; vertical-align:middle;">,
+        Nature Compuational Science<img src='images/ncslogo.png' style="height:1em; vertical-align:middle;"> ,
+        ICLR<img src='images/iclrlogo.png' style="height:1em; vertical-align:middle;"> ,
+        NeurIPS<img src='images/neuripslogo.png' style="height:1em; vertical-align:middle;">,
+        and ICML<img src='images/icmllogo.png' style="height:1em; vertical-align:middle;"> 
       </li>
     </ul>
   </div>
@@ -52,23 +51,26 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3> 
     <ul>
       <li>
-        Enjoy 
-        <span class="primary-gradient-text">Animates</span>🎬,
-        <span class="primary-gradient-text">Games</span>🎮,
-        <span class="primary-gradient-text">Musics</span>🎵,
-        <span class="primary-gradient-text">Illustrations</span>🎨,
-        <span class="primary-gradient-text">Sports</span>🏋️,
-        and <span class="primary-gradient-text">Car Cultures</span>🏎️
+        Enjoy spending my <span class="primary-gradient-text">Spare Time</span> on: 
+        Animates🎬,
+        Games🎮,
+        Musics🎵,
+        Illustrations🎨,
+        Fitness🏋️,
+        and Car Cultures🏎️
       </li>
-      <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
+      <li>
+        Sharing my <span class="primary-gradient-text">research progress and POV</span> on 
+        <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook APP)</a>🍠
+      </li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited <span class="primary-gradient-text">17 countries</span> (>3 days):🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
-      <li>Lived in <span class="primary-gradient-text">7 cities</span> (>6 months): Chengdu🐼, Leshan🪷, Shenzhen🏙️, Jiangmeng⚓️, Beijing🐲, Calgary❄️, Toronto🍁</li>
+      <li>Visited <span class="primary-gradient-text">17 Countries</span> (>3 days):🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
+      <li>Lived in <span class="primary-gradient-text">7 Cities</span> (>6 months): Chengdu🐼, Leshan🪷, Shenzhen🏙️, Jiangmeng ⚓️, Beijing🐲, Calgary❄️, Toronto🍁</li>
       <li><span class="primary-gradient-text">Where's Next?</span></li>
     </ul>
   </div>
@@ -79,7 +81,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2026.01*: &nbsp;🎉 2 papers (1xfirst, 1xcontribute) are accepted by <span class="accent-text">The Fourteenth International Conference on Learning Representations (ICLR 2026)</span>. See you in Rio de Janeiro🇧🇷!
 - *2025.11*: &nbsp;🎉 2 papers (1xco-first/oral, 1xcontribute) are accepted by <span class="accent-text">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</span>. See you in Singapore🇸🇬!
 - *2025.10*: &nbsp;🎤 Invited talk in The 2nd AI for Science PhD Seminar hold by <span class="accent-text">The School of AI for Science, Peking University</span>. See you in Shenzhen🇨🇳! 
-- *2025.09*: &nbsp;🎉 2 papers (1xfirst/spotlight, 1xcontribute) are accepted by <span class="accent-text">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</span>. See you in San Diego🇺🇸! 
+- *2025.09*: &nbsp;🎉 2 papers (1xfirst/spotlight, 1xcontribute) are accepted by <span class="accent-text">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</span>. See you in San Diego 🇺🇸! 
 - *2025.07*: &nbsp;🎉 1 papers (1xfirst) is accepted in principle by <span class="accent-text">Nature Computational Science</span>. 
 - *2025.05*: &nbsp;🎉 1 papers (1xfirst) is accepted by <span class="accent-text">The Forty-second International Conference on Machine Learning (ICML 2025)</span>. See you in Vancouver🇨🇦!
 - *2024.12*: &nbsp;✅ Received approval of Pilot Program of Research Fund for Excellent PhD Students hold by <span class="accent-text">Natural Science Foundation of China (NSFC)</span>. 
@@ -88,8 +90,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-educations'></span>
 # 🏫 Educations
-- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University <img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
-- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="primary-gradient-text">with Distinction</span>, University of Toronto <img src='images/utlogo.png' style="height:1em; vertical-align:middle;">.
+- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
+- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="primary-gradient-text">with Distinction</span>, University of Toronto<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">.
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
