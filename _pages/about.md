@@ -383,39 +383,57 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-
+---------------------------------------------------------------
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // 1. 找到我们刚才定义的“围栏”
   const wrapper = document.getElementById('publications-wrapper');
-  
-  // 如果找不到这个围栏（比如在别的页面），就直接停止运行，防止报错
   if (!wrapper) return;
 
   const filterContainer = document.getElementById('filter-container');
-  
-  // 🔥 核心修改：只搜索 wrapper 里面的 paper-box，不再搜索整个网页
   const paperBoxes = wrapper.querySelectorAll('.paper-box');
   
   let tagCounts = {}; 
   let activeTags = new Set();
 
-  // 2. 统计标签 (逻辑不变)
   paperBoxes.forEach(box => {
     const tagsAttribute = box.getAttribute('data-tags');
     if (tagsAttribute) {
-      tagsAttribute.split(',').forEach(t => {
-        const tag = t.trim();
-        if (tag) {
-          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+      // 分割并处理标签
+      const tagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
+      
+      // ------------------------------------------------
+      // 🔥 新增功能：自动将标签显示在标题旁边
+      // ------------------------------------------------
+      const titleElement = box.querySelector('h3');
+      if (titleElement) {
+        // 创建一个容器放标签（防止重复添加）
+        if (!titleElement.querySelector('.badge-container')) {
+          const badgeContainer = document.createElement('span');
+          badgeContainer.className = 'badge-container';
+          
+          tagsList.forEach(tag => {
+            const badge = document.createElement('span');
+            badge.className = 'inner-tag-badge';
+            badge.textContent = tag;
+            badgeContainer.appendChild(badge);
+          });
+          
+          // 把标签容器追加到标题文字后面
+          titleElement.appendChild(badgeContainer);
         }
+      }
+      // ------------------------------------------------
+
+      // 统计数量（用于顶部按钮）
+      tagsList.forEach(tag => {
+        tagCounts[tag] = (tagCounts[tag] || 0) + 1;
       });
     }
   });
 
+  // 下面是生成顶部按钮和过滤的逻辑（保持不变）
   const sortedTags = Object.keys(tagCounts).sort();
   
-  // 3. 生成按钮 (逻辑不变)
   sortedTags.forEach(tag => {
     const btn = document.createElement('button');
     btn.className = 'filter-btn';
@@ -435,7 +453,6 @@ document.addEventListener('DOMContentLoaded', function() {
     filterContainer.appendChild(btn);
   });
 
-  // 4. 过滤逻辑 (逻辑不变)
   function filterPapers() {
     paperBoxes.forEach(box => {
       const boxTagsString = box.getAttribute('data-tags');
@@ -445,14 +462,11 @@ document.addEventListener('DOMContentLoaded', function() {
         box.classList.remove('hidden');
         return;
       }
-
       if (boxTags.length === 0) {
         box.classList.add('hidden');
         return;
       }
-
       const isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
-
       if (isVisible) {
         box.classList.remove('hidden');
       } else {
