@@ -11,7 +11,7 @@ title                    : "Gaole Dai (David)"
 title_separator          : "-"
 subtitle                 : "AI X Life Science"
 name                     : "Gaole Dai"
-description              : "Gaole Dai is a Ph.D. student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
+description              : "Gaole Dai is a PhD student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
 url                      : "https://daviddaiiiii.github.io"
 baseurl                  : ""
 repository               : "daviddaiiiii/daviddaiiiii.github.io"
@@ -29,7 +29,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gaole Dai"
   avatar           : "images/avatar.png"
-  bio              : "Ph.D. Student at PKU"
+  bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
