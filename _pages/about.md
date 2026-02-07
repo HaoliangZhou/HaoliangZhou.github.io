@@ -387,7 +387,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       Zhi Zhang from UvA🇳🇱;
       Jianchen Zhao from UT🇯🇵;
       Qixin Ye from UT🇨🇦...
-      (tell me if i forgot U😂)
+      (No offense, but just too many friends to add. Let me know if I forget you😂)
     </div>
   </div>
 </div>
