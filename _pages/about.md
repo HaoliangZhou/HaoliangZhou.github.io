@@ -395,23 +395,18 @@ document.addEventListener('DOMContentLoaded', function() {
   let tagCounts = {}; 
   let activeTags = new Set();
 
+  // 初始化：生成标签并统计数量
   paperBoxes.forEach(box => {
     const tagsAttribute = box.getAttribute('data-tags');
     if (tagsAttribute) {
       const tagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
       
-      // ------------------------------------------------
-      // 🔥 核心修改：插入位置变了
-      // ------------------------------------------------
-      // 1. 找到文字容器
+      // --- 插入标签到 Links 上方 ---
       const textContainer = box.querySelector('.paper-box-text');
-      // 2. 找到按钮容器 (Links)
       const linksContainer = box.querySelector('.links');
       
-      // 只有当这俩都存在时才插入
       if (textContainer && !textContainer.querySelector('.badge-container')) {
-        
-        const badgeContainer = document.createElement('div'); // 改成 div 块级元素
+        const badgeContainer = document.createElement('div');
         badgeContainer.className = 'badge-container';
         
         tagsList.forEach(tag => {
@@ -421,15 +416,13 @@ document.addEventListener('DOMContentLoaded', function() {
           badgeContainer.appendChild(badge);
         });
         
-        // 🔥 关键逻辑：插入到 Links (按钮) 的前面
-        // 如果有 Links，插在 Links 前面；如果没有，插在最后
         if (linksContainer) {
           textContainer.insertBefore(badgeContainer, linksContainer);
         } else {
           textContainer.appendChild(badgeContainer);
         }
       }
-      // ------------------------------------------------
+      // ---------------------------
 
       tagsList.forEach(tag => {
         tagCounts[tag] = (tagCounts[tag] || 0) + 1;
@@ -437,7 +430,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-  // 顶部按钮生成逻辑 (保持不变)
+  // 生成顶部过滤按钮
   const sortedTags = Object.keys(tagCounts).sort();
   if (filterContainer) {
     filterContainer.innerHTML = ''; 
@@ -454,33 +447,46 @@ document.addEventListener('DOMContentLoaded', function() {
           activeTags.add(tag);
           btn.classList.add('active');
         }
-        filterPapers();
+        filterPapers(); // 点击后触发过滤和高亮更新
       };
       
       filterContainer.appendChild(btn);
     });
   }
 
-  // 过滤逻辑 (保持不变)
+  // 🔥 核心逻辑更新：过滤论文 + 高亮标签
   function filterPapers() {
     paperBoxes.forEach(box => {
+      // 1. 处理卡片显示/隐藏
       const boxTagsString = box.getAttribute('data-tags');
       const boxTags = boxTagsString ? boxTagsString.split(',').map(t => t.trim()) : [];
       
-      if (activeTags.size === 0) {
-        box.classList.remove('hidden');
-        return;
+      let isVisible = true;
+      if (activeTags.size > 0) {
+        if (boxTags.length === 0) {
+          isVisible = false;
+        } else {
+          // 必须包含所有选中的标签 (AND 逻辑)
+          isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
+        }
       }
-      if (boxTags.length === 0) {
-        box.classList.add('hidden');
-        return;
-      }
-      const isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
+
       if (isVisible) {
         box.classList.remove('hidden');
       } else {
         box.classList.add('hidden');
       }
+
+      // 2. 🔥 处理内部标签的高亮 (即便卡片隐藏了，逻辑上也更新一下，没坏处)
+      const innerBadges = box.querySelectorAll('.inner-tag-badge');
+      innerBadges.forEach(badge => {
+        // 如果这个小标签的文字，存在于 activeTags (顶部选中的集合) 中，就变色
+        if (activeTags.has(badge.textContent)) {
+          badge.classList.add('active');
+        } else {
+          badge.classList.remove('active');
+        }
+      });
     });
   }
 });
