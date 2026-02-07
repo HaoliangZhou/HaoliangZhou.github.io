@@ -79,7 +79,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div id="publications-wrapper">
   <div id="filter-container"></div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, Conference">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, Conference, CAAI-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">ICLR 2026 Poster</div>
       <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
@@ -95,7 +95,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
+  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference, CAAI-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">ICLR 2026 Poster</div>
       <img src='images/spikepingpong.png' alt="SpikePingpong Overview" width="100%">
@@ -111,7 +111,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference, Oral">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference, Oral, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">AAAI 2026 Oral</div>
       <img src='images/moase.png' alt="MOASE Overview" width="100%">
@@ -127,7 +127,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
+  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">AAAI 2026 Poster</div>
       <img src='images/mole-vla.png' alt="MOLE-VLA Overview" width="100%">
@@ -143,7 +143,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Journal">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Journal, JCR-Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">Nature Computational Science</div>
       <img src='images/inif.png' alt="INIF Overview" width="100%">
@@ -151,7 +151,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>Implicit neural image field for biological microscopy image compression</h3>
       <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Rongyu Zhang, Qingpo Wuwu, Cheng-Ching Tseng, Yu Zhou, Shaokang Wang, Siyuan Qian, Ming Lu, Ali Ata Tuz, Matthias Gunzer, Tiejun Huang📧, Jianxu Chen📧, Shanghang Zhang📧</div>
-      <div class="venue">Nature Computational Science (2026), Q1, IF=18.4</div>
+      <div class="venue">Nature Computational Science (2026), JCR-Q1, IF=18.4</div>
       <div class="links">
         <a href="https://www.nature.com/articles/s43588-025-00889-4" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/PKU-HMI/INIF" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -159,7 +159,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference, Spotlight">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference, Spotlight, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">NeurIPS 2025 Spotlight</div>
       <img src='images/orochi.png' alt="Orochi Overview" width="100%">
@@ -175,7 +175,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="Transfer Learning, Unified Model, Conference">
+  <div class='paper-box floating-card' data-tags="Transfer Learning, Unified Model, Conference, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">NeurIPS 2025 Poster</div>
       <img src='images/unictoken.png' alt="UniCToken Overview" width="100%">
@@ -191,7 +191,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, Transfer Learning, NeuroAI, Conference">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Transfer Learning, NeuroAI, Conference, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">ICML 2025 Poster</div>
       <img src='images/san.png' alt="SAN Overview" width="100%">
@@ -207,7 +207,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Journal">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Journal, JCR-Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">Nature Methods</div>
       <img src='images/gbai.png' alt="GBAI Overview" width="100%">
@@ -215,7 +215,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>Multimodal large language models for bioimage analysis</h3>
       <div class="authors">Shanghang Zhang📧, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Tiejun Huang, Jianxu Chen📧</div>
-      <div class="venue">Nature Methods (2025), Q1, IF=32.1</div>
+      <div class="venue">Nature Methods (2025), JCR-Q1, IF=32.1</div>
       <div class="links">
         <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fab fa-github"></i> Code</a>
