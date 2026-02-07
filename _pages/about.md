@@ -50,8 +50,9 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
-      <li>Visited <span class="primary-gradient-text">17 countries</span>🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
-      <li>Lived in: <span class="primary-gradient-text">Chengdu > Calgary > Toronto > Shenzhen > Beijing. Where's Next?</span></li>
+      <li>Visited <span class="primary-gradient-text">17 countries</span> (>3 days):🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
+      <li>Lived in <span class="primary-gradient-text">7 cities</span> (>6 months): Chengdu🐼, Leshan🪷, Shenzhen🏙️, Jiangmeng⚓️, Beijing🐲, Calgary❄️, Toronto🍁</li>
+      <li><span class="primary-gradient-text">Where's Next?</span></li>
     </ul>
   </div>
 </div>
