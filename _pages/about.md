@@ -110,7 +110,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference">
+<div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference, Oral">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">AAAI 2026 Oral</div>
     <img src='images/moase.png' alt="MOASE Overview" width="100%">
@@ -158,7 +158,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference">
+<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference, Spotlight">
   <div class='paper-box-image'>
     <div class="badge pulse-accent">NeurIPS 2025 Spotlight</div>
     <img src='images/orochi.png' alt="Orochi Overview" width="100%">
@@ -274,7 +274,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Kyoto Animation</div>
-      <div class="blog-description">K-On! makes me smile and Clannad makes me cry, KyoAni makes me bipolar🤦.</div>
+      <div class="blog-description">K-On! makes me smile and Clannad makes me cry, KyoAni makes me bipolar.</div>
       <div class="blog-links">
         <a href="https://www.kyotoanimation.co.jp/en/" class="blog-link">
           <i class="fas fa-globe"></i> Link
@@ -340,33 +340,39 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 document.addEventListener('DOMContentLoaded', function() {
   const filterContainer = document.getElementById('filter-container');
   const paperBoxes = document.querySelectorAll('.paper-box');
+  
+  // 1. 定义一个对象来存储标签和对应的数量
+  let tagCounts = {}; 
   let activeTags = new Set();
-  let allTags = new Set();
 
-  // 1. 扫描所有论文，提取所有不重复的标签
+  // 2. 扫描所有论文，统计标签数量
   paperBoxes.forEach(box => {
-    const tags = box.getAttribute('data-tags');
-    if (tags) {
-      tags.split(',').forEach(tag => {
-        allTags.add(tag.trim());
+    const tagsAttribute = box.getAttribute('data-tags');
+    if (tagsAttribute) {
+      // 分割标签并去除空格
+      tagsAttribute.split(',').forEach(t => {
+        const tag = t.trim();
+        if (tag) { // 确保不是空标签
+          // 如果该标签已存在，数量+1；否则初始化为1
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        }
       });
     }
   });
 
-  // 2. 将标签排序并生成按钮
-  const sortedTags = Array.from(allTags).sort();
+  // 3. 将标签排序（按字母顺序）
+  const sortedTags = Object.keys(tagCounts).sort();
   
-  // 添加 "All" 按钮（可选，或者用清除功能）
-  // 这里我们采用点击标签进行 toggle 的方式，不选任何标签即显示全部
-
+  // 4. 生成带数字的按钮
   sortedTags.forEach(tag => {
     const btn = document.createElement('button');
     btn.className = 'filter-btn';
-    btn.textContent = tag;
     
-    // 3. 按钮点击事件
+    // 🔥 核心修改：在这里把数量加到括号里
+    btn.textContent = `${tag} (${tagCounts[tag]})`;
+    
+    // 按钮点击事件
     btn.onclick = () => {
-      // 切换选中状态
       if (activeTags.has(tag)) {
         activeTags.delete(tag);
         btn.classList.remove('active');
@@ -374,34 +380,31 @@ document.addEventListener('DOMContentLoaded', function() {
         activeTags.add(tag);
         btn.classList.add('active');
       }
-      
       filterPapers();
     };
     
     filterContainer.appendChild(btn);
   });
 
-  // 4. 核心过滤逻辑
+  // 5. 过滤逻辑 (保持不变)
   function filterPapers() {
     paperBoxes.forEach(box => {
       const boxTagsString = box.getAttribute('data-tags');
+      const boxTags = boxTagsString ? boxTagsString.split(',').map(t => t.trim()) : [];
       
-      // 如果没有选中任何标签，显示所有
+      // 如果没选任何标签，显示所有
       if (activeTags.size === 0) {
         box.classList.remove('hidden');
         return;
       }
 
-      // 如果卡片没有标签，但在筛选模式下，直接隐藏
-      if (!boxTagsString) {
+      // 如果卡片没有标签但处于筛选模式，隐藏
+      if (boxTags.length === 0) {
         box.classList.add('hidden');
         return;
       }
 
-      const boxTags = boxTagsString.split(',').map(t => t.trim());
-      
       // 逻辑：必须包含所有选中的标签 (AND 逻辑)
-      // 如果你想要只要包含其中一个就显示 (OR 逻辑)，请把 every 改成 some
       const isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
 
       if (isVisible) {
