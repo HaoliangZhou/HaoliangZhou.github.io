@@ -40,7 +40,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fa-solid fa-person-burst"></i> Life Experiencer</h3> 
+    <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3> 
     <ul>
       <li>Enjoy <span class="primary-gradient-text">Animates & Games</span>🎬🎮; <span class="primary-gradient-text">Musics & Illustrations</span>🎵🎨; <span class="primary-gradient-text">Sports & Car Cultures</span>🏋️🏎️</li>
       <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
@@ -76,151 +76,152 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
 
-<div id="filter-container"></div>
-
-<div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, Conference">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">ICLR 2026 Poster</div>
-    <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>SpikeGen: Decoupled “Rods and Cones” Visual Representation Processing with Latent Generative Framework</h3>
-    <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Menghang Dong⭐️, Rongyu Zhang⭐️, Ruichuan An, Shanghang Zhang📧, Tiejun Huang📧</div>
-    <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
-    <div class="links">
-      <a href="https://openreview.net/pdf/16538e2435f34c57dec3047289b0111c358eae62.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/daviddaiiiii/SpikeGen" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+<div id="publications-wrapper">
+  <div id="filter-container"></div>
+  
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, Conference">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">ICLR 2026 Poster</div>
+      <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>SpikeGen: Decoupled “Rods and Cones” Visual Representation Processing with Latent Generative Framework</h3>
+      <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Menghang Dong⭐️, Rongyu Zhang⭐️, Ruichuan An, Shanghang Zhang📧, Tiejun Huang📧</div>
+      <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
+      <div class="links">
+        <a href="https://openreview.net/pdf/16538e2435f34c57dec3047289b0111c358eae62.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/daviddaiiiii/SpikeGen" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">ICLR 2026 Poster</div>
-    <img src='images/spikepingpong.png' alt="SpikePingpong Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Spike Vision-based Fast-Slow Pingpong Robot System</h3>
-    <div class="authors">Hao Wang⭐️, Chengkai Hou⭐️, Xianglong Li⭐️, Yankai Fu, Chenxuan Li, Ning Chen, <span class="primary-gradient-text">Gaole Dai</span>, Jiaming Liu, Tiejun Huang, Shanghang Zhang📧</div>
-    <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
-    <div class="links">
-      <a href="https://openreview.net/forum?id=d08yOXs1Dl" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/PKUHaoWang/SpikePingpong" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">ICLR 2026 Poster</div>
+      <img src='images/spikepingpong.png' alt="SpikePingpong Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Spike Vision-based Fast-Slow Pingpong Robot System</h3>
+      <div class="authors">Hao Wang⭐️, Chengkai Hou⭐️, Xianglong Li⭐️, Yankai Fu, Chenxuan Li, Ning Chen, <span class="primary-gradient-text">Gaole Dai</span>, Jiaming Liu, Tiejun Huang, Shanghang Zhang📧</div>
+      <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
+      <div class="links">
+        <a href="https://openreview.net/forum?id=d08yOXs1Dl" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/PKUHaoWang/SpikePingpong" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference, Oral">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2026 Oral</div>
-    <img src='images/moase.png' alt="MOASE Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</h3>
-    <div class="authors">Rongyu Zhang⭐️, Aosong Cheng⭐️, Yulin Luo⭐️, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du📧, Yanbing Jiang, Shanghang Zhang📧</div>
-    <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2405.16486v1" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/RoyZry98/MoASE-Pytorch" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference, Oral">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">AAAI 2026 Oral</div>
+      <img src='images/moase.png' alt="MOASE Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Decomposing the Neurons: Activation Sparsity via Mixture of Experts for Continual Test Time Adaptation</h3>
+      <div class="authors">Rongyu Zhang⭐️, Aosong Cheng⭐️, Yulin Luo⭐️, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Huanrui Yang, Jiaming Liu, Ran Xu, Li Du, Yuan Du📧, Yanbing Jiang, Shanghang Zhang📧</div>
+      <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
+      <div class="links">
+        <a href="https://arxiv.org/pdf/2405.16486v1" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/RoyZry98/MoASE-Pytorch" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2026 Poster</div>
-    <img src='images/mole-vla.png' alt="MOLE-VLA Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation</h3>
-    <div class="authors">Rongyu Zhang⭐️, Menghang Dong⭐️, Yuan Zhang, Liang Heng, Xiaowei Chi, <span class="primary-gradient-text">Gaole Dai</span>, Li Du, Yuan Du📧, Shanghang Zhang📧</div>
-    <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2503.20384" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/RoyZry98/MoLe-VLA-Pytorch/" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, Conference">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">AAAI 2026 Poster</div>
+      <img src='images/mole-vla.png' alt="MOLE-VLA Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation</h3>
+      <div class="authors">Rongyu Zhang⭐️, Menghang Dong⭐️, Yuan Zhang, Liang Heng, Xiaowei Chi, <span class="primary-gradient-text">Gaole Dai</span>, Li Du, Yuan Du📧, Shanghang Zhang📧</div>
+      <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
+      <div class="links">
+        <a href="https://arxiv.org/pdf/2503.20384" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/RoyZry98/MoLe-VLA-Pytorch/" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Journal">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Nature Computational Science</div>
-    <img src='images/inif.png' alt="INIF Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Implicit neural image field for biological microscopy image compression</h3>
-    <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Rongyu Zhang, Qingpo Wuwu, Cheng-Ching Tseng, Yu Zhou, Shaokang Wang, Siyuan Qian, Ming Lu, Ali Ata Tuz, Matthias Gunzer, Tiejun Huang📧, Jianxu Chen📧, Shanghang Zhang📧</div>
-    <div class="venue">Nature Computational Science (2026), Q1, IF=18.4</div>
-    <div class="links">
-      <a href="https://www.nature.com/articles/s43588-025-00889-4" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/PKU-HMI/INIF" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Journal">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">Nature Computational Science</div>
+      <img src='images/inif.png' alt="INIF Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Implicit neural image field for biological microscopy image compression</h3>
+      <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Rongyu Zhang, Qingpo Wuwu, Cheng-Ching Tseng, Yu Zhou, Shaokang Wang, Siyuan Qian, Ming Lu, Ali Ata Tuz, Matthias Gunzer, Tiejun Huang📧, Jianxu Chen📧, Shanghang Zhang📧</div>
+      <div class="venue">Nature Computational Science (2026), Q1, IF=18.4</div>
+      <div class="links">
+        <a href="https://www.nature.com/articles/s43588-025-00889-4" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/PKU-HMI/INIF" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference, Spotlight">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">NeurIPS 2025 Spotlight</div>
-    <img src='images/orochi.png' alt="Orochi Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Orochi: Versatile Biomedical Image Processor</h3>
-    <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Chenghao Zhou⭐️, Yu Zhou⭐️, Rongyu Zhang, Yuan Zhang, Chengkai Hou, Tiejun Huang, Jianxu Chen📧, Shanghang Zhang📧</div>
-    <div class="venue">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</div>
-    <div class="links">
-      <a href="https://openreview.net/pdf?id=Rtd6GoJcoT" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/daviddaiiiii/Orochi-Versatile-Biomedical-Image-Processor" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference, Spotlight">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">NeurIPS 2025 Spotlight</div>
+      <img src='images/orochi.png' alt="Orochi Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Orochi: Versatile Biomedical Image Processor</h3>
+      <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Chenghao Zhou⭐️, Yu Zhou⭐️, Rongyu Zhang, Yuan Zhang, Chengkai Hou, Tiejun Huang, Jianxu Chen📧, Shanghang Zhang📧</div>
+      <div class="venue">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</div>
+      <div class="links">
+        <a href="https://openreview.net/pdf?id=Rtd6GoJcoT" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/daviddaiiiii/Orochi-Versatile-Biomedical-Image-Processor" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="Transfer Learning, Unified Model, Conference">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">NeurIPS 2025 Poster</div>
-    <img src='images/unictoken.png' alt="UniCToken Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens</h3>
-    <div class="authors">Ruichuan An⭐️, Sihan Yang⭐️, Renrui Zhang, Zijun Shen, Ming Lu, <span class="primary-gradient-text">Gaole Dai</span>, Hao Liang, Ziyu Guo, Shilin Yan, Yulin Luo, Bocheng Zou, Chaoqun Yang, Wentao Zhang📧</div>
-    <div class="venue">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2505.14671" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/arctanxarc/UniCTokens" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="Transfer Learning, Unified Model, Conference">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">NeurIPS 2025 Poster</div>
+      <img src='images/unictoken.png' alt="UniCToken Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens</h3>
+      <div class="authors">Ruichuan An⭐️, Sihan Yang⭐️, Renrui Zhang, Zijun Shen, Ming Lu, <span class="primary-gradient-text">Gaole Dai</span>, Hao Liang, Ziyu Guo, Shilin Yan, Yulin Luo, Bocheng Zou, Chaoqun Yang, Wentao Zhang📧</div>
+      <div class="venue">The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</div>
+      <div class="links">
+        <a href="https://arxiv.org/pdf/2505.14671" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/arctanxarc/UniCTokens" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="First/Co-First Author, Transfer Learning, NeuroAI, Conference">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">ICML 2025 Poster</div>
-    <img src='images/san.png' alt="SAN Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>SAN: Hypothesizing Long-Term Synaptic Development and Neural Engram Mechanism in Scalable Model's Parameter-Efficient Fine-Tuning</h3>
-    <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Chun-Kai Fan⭐️, Yiming Tang, Zhi Zhang, Yuan Zhang, Yulu Gan, Qizhe Zhang, Cheng-Ching Tseng, Shanghang Zhang📧, Tiejun Huang📧</div>
-    <div class="venue">The Forty-second International Conference on Machine Learning (ICML 2025)</div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2409.06706" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://github.com/daviddaiiiii/SAN-PEFT" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Transfer Learning, NeuroAI, Conference">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">ICML 2025 Poster</div>
+      <img src='images/san.png' alt="SAN Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>SAN: Hypothesizing Long-Term Synaptic Development and Neural Engram Mechanism in Scalable Model's Parameter-Efficient Fine-Tuning</h3>
+      <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Chun-Kai Fan⭐️, Yiming Tang, Zhi Zhang, Yuan Zhang, Yulu Gan, Qizhe Zhang, Cheng-Ching Tseng, Shanghang Zhang📧, Tiejun Huang📧</div>
+      <div class="venue">The Forty-second International Conference on Machine Learning (ICML 2025)</div>
+      <div class="links">
+        <a href="https://arxiv.org/pdf/2409.06706" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://github.com/daviddaiiiii/SAN-PEFT" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Journal">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Nature Methods</div>
-    <img src='images/gbai.png' alt="GBAI Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Multimodal large language models for bioimage analysis</h3>
-    <div class="authors">Shanghang Zhang📧, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Tiejun Huang, Jianxu Chen📧</div>
-    <div class="venue">Nature Methods (2025), Q1, IF=32.1</div>
-    <div class="links">
-      <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+  
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Journal">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">Nature Methods</div>
+      <img src='images/gbai.png' alt="GBAI Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Multimodal large language models for bioimage analysis</h3>
+      <div class="authors">Shanghang Zhang📧, <span class="primary-gradient-text">Gaole Dai</span>⭐️, Tiejun Huang, Jianxu Chen📧</div>
+      <div class="venue">Nature Methods (2025), Q1, IF=32.1</div>
+      <div class="links">
+        <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://www.nature.com/articles/s41592-024-02334-2" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      </div>
     </div>
   </div>
-</div>
 
 <span class='anchor' id='-awards'></span>
 # 🏆 Awards
@@ -338,40 +339,41 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const filterContainer = document.getElementById('filter-container');
-  const paperBoxes = document.querySelectorAll('.paper-box');
+  // 1. 找到我们刚才定义的“围栏”
+  const wrapper = document.getElementById('publications-wrapper');
   
-  // 1. 定义一个对象来存储标签和对应的数量
+  // 如果找不到这个围栏（比如在别的页面），就直接停止运行，防止报错
+  if (!wrapper) return;
+
+  const filterContainer = document.getElementById('filter-container');
+  
+  // 🔥 核心修改：只搜索 wrapper 里面的 paper-box，不再搜索整个网页
+  const paperBoxes = wrapper.querySelectorAll('.paper-box');
+  
   let tagCounts = {}; 
   let activeTags = new Set();
 
-  // 2. 扫描所有论文，统计标签数量
+  // 2. 统计标签 (逻辑不变)
   paperBoxes.forEach(box => {
     const tagsAttribute = box.getAttribute('data-tags');
     if (tagsAttribute) {
-      // 分割标签并去除空格
       tagsAttribute.split(',').forEach(t => {
         const tag = t.trim();
-        if (tag) { // 确保不是空标签
-          // 如果该标签已存在，数量+1；否则初始化为1
+        if (tag) {
           tagCounts[tag] = (tagCounts[tag] || 0) + 1;
         }
       });
     }
   });
 
-  // 3. 将标签排序（按字母顺序）
   const sortedTags = Object.keys(tagCounts).sort();
   
-  // 4. 生成带数字的按钮
+  // 3. 生成按钮 (逻辑不变)
   sortedTags.forEach(tag => {
     const btn = document.createElement('button');
     btn.className = 'filter-btn';
-    
-    // 🔥 核心修改：在这里把数量加到括号里
     btn.textContent = `${tag} (${tagCounts[tag]})`;
     
-    // 按钮点击事件
     btn.onclick = () => {
       if (activeTags.has(tag)) {
         activeTags.delete(tag);
@@ -386,25 +388,22 @@ document.addEventListener('DOMContentLoaded', function() {
     filterContainer.appendChild(btn);
   });
 
-  // 5. 过滤逻辑 (保持不变)
+  // 4. 过滤逻辑 (逻辑不变)
   function filterPapers() {
     paperBoxes.forEach(box => {
       const boxTagsString = box.getAttribute('data-tags');
       const boxTags = boxTagsString ? boxTagsString.split(',').map(t => t.trim()) : [];
       
-      // 如果没选任何标签，显示所有
       if (activeTags.size === 0) {
         box.classList.remove('hidden');
         return;
       }
 
-      // 如果卡片没有标签但处于筛选模式，隐藏
       if (boxTags.length === 0) {
         box.classList.add('hidden');
         return;
       }
 
-      // 逻辑：必须包含所有选中的标签 (AND 逻辑)
       const isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
 
       if (isVisible) {
