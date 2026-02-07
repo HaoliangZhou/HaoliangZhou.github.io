@@ -383,6 +383,12 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<!-- <div style="text-align: center;"> -->
+<div style="width: 20%; position:relative; left:40%">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Vr-eYn9fNnJRWR6kcXJa5akQlOll4HKWjM--Xfn5inY"></script>
+    <!-- 地图小部件代码结束 -->
+</div>
+
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
