@@ -32,7 +32,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
+    <h3>🔬 Interdiscipline Researcher</h3>
     <ul>
       <li>Technical preference: <span class="primary-gradient-text">Representation Learning & Phenotypical Research</span></li>
       <li>Published as first author in <span class="primary-gradient-text">Nature Methods</span>, <span class="primary-gradient-text">Nature Compuational Science</span>, <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">NeurIPS</span>, <span class="primary-gradient-text">ICML</span></li>
@@ -40,7 +40,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3>
+    <h3>🎬 Life Experiencer</h3>
     <ul>
       <li>Enjoy <span class="primary-gradient-text">Animates & Games</span>🎬🎮; <span class="primary-gradient-text">Musics & Illustrations</span>🎵🎨; <span class="primary-gradient-text">Sports & Car Cultures</span>🏋️🏎️</li>
       <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
@@ -48,7 +48,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
+    <h3>🌍 World Explorer</h3>
     <ul>
       <li>Visited <span class="primary-gradient-text">17 countries</span>🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
       <li>Life path: <span class="primary-gradient-text">Chengdu > Calgary > Toronto > Shenzhen > Beijing > What's Next?</span></li>
@@ -301,12 +301,28 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
   <div class="blog-card">
     <div class="blog-card-image">
+      <div class="blog-badge">My Favorite Car Brand</div>
+      <img src="images/benz.png" alt="benz">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">Mercedes Benz</div>
+      <div class="blog-description">My first car is a Mercedes Benz C43 AMG. I've done lots of mods on it and spent many nights with it. It was a great memory.</div>
+      <div class="blog-links">
+        <a href="https://www.instagram.com/dvd4to?igsh=OXlsZnE2bnZhcWNu" class="blog-link">
+          <i class="fas fa-globe"></i> Instagram
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="blog-card">
+    <div class="blog-card-image">
       <div class="blog-badge">My Favorite Artist</div>
       <img src="images/macmiller.png" alt="macmiller">
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Mac Miller</div>
-      <div class="blog-description">Honestly, it's hard to decide. I have multiple "favorites" for each genre. For example, NE-YO for R&B and Supercell for J-pop. But the first one that pops into my mind is Mac Miller (R.I.P🕯️).</div>
+      <div class="blog-description">Honestly, it's hard to decide. I have multiple "favorites" for each genre. But the first one that pops into my mind is Mac Miller (R.I.P🕯️).</div>
       <div class="blog-links">
         <a href="https://www.macmillerswebsite.com/" class="blog-link">
           <i class="fas fa-globe"></i> Link
