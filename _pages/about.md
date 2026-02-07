@@ -34,15 +34,32 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Interdiscipline Researcher</h3>
     <ul>
-      <li>Technical preference: <span class="primary-gradient-text">Representation Learning & Phenotypical Research</span></li>
-      <li>Published as first author in <span class="primary-gradient-text">Nature Methods</span>, <span class="primary-gradient-text">Nature Compuational Science</span>, <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">NeurIPS</span>, <span class="primary-gradient-text">ICML</span></li>
+      <li>Technical preference: 
+        <span class="primary-gradient-text">Representation Learning</span> &
+        <span class="primary-gradient-text">Phenotypical Research</span>
+      </li>
+      <li>Published as <span class="primary-gradient-text">first author</span> in 
+        <img src='images/nmlogo.png' style="height:1em; vertical-align:middle;"> Nature Methods,
+        <img src='images/ncslogo.png' style="height:1em; vertical-align:middle;"> Nature Compuational Science</span>,
+        <img src='images/iclrlogo.png' style="height:1em; vertical-align:middle;"> ICLR,
+        <img src='images/neuripslogo.png' style="height:1em; vertical-align:middle;"> NeurIPS,
+        and <img src='images/icmllogo.png' style="height:1em; vertical-align:middle;"> ICML
+      </li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-pen-fancy"></i> Life Experiencer</h3> 
     <ul>
-      <li>Enjoy <span class="primary-gradient-text">Animates & Games</span>🎬🎮; <span class="primary-gradient-text">Musics & Illustrations</span>🎵🎨; <span class="primary-gradient-text">Sports & Car Cultures</span>🏋️🏎️</li>
+      <li>
+        Enjoy 
+        <span class="primary-gradient-text">Animates</span>🎬,
+        <span class="primary-gradient-text">Games</span>🎮,
+        <span class="primary-gradient-text">Musics</span>🎵,
+        <span class="primary-gradient-text">Illustrations</span>🎨,
+        <span class="primary-gradient-text">Sports</span>🏋️,
+        and <span class="primary-gradient-text">Car Cultures</span>🏎️
+      </li>
       <li>Sharing my <span class="primary-gradient-text">research progress and POV</span> on <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook)</a></li>
     </ul>
   </div>
