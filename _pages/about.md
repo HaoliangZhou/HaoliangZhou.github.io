@@ -133,7 +133,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   <div class='paper-box-text'>
     <h3>MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation</h3>
-    <div class="authors">Rongyu Zhang, Menghang Dong, Yuan Zhang, Liang Heng, Xiaowei Chi, <span class="primary-gradient-text">Gaole Dai</span>, Li Du, Yuan Du📧, Shanghang Zhang📧</div>
+    <div class="authors">Rongyu Zhang⭐️, Menghang Dong⭐️, Yuan Zhang, Liang Heng, Xiaowei Chi, <span class="primary-gradient-text">Gaole Dai</span>, Li Du, Yuan Du📧, Shanghang Zhang📧</div>
     <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2503.20384" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -226,7 +226,38 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 # 🏆 Awards
 - *2025.01 - 2027.01*: &nbsp;Natural Science Foundation of China, Pilot Program of Research <span class="primary-gradient-text">Fund</span> for Excellent PhD Students, 100,000¥/year.
 - *2022.06 - Present*: &nbsp;Chinese Government <span class="primary-gradient-text">Scholarship</span> for Excellent PhD Students
-- *2023.09*: &nbsp;International Conference On Computer Vision (ICCV) 2023, Continue Test-time Adaptation for Semantic Segmentation <span class="primary-gradient-text">Challenge</span>, Sliver Place.  
+- *2023.09*: &nbsp;International Conference On Computer Vision (ICCV) 2023, Continue Test-time Adaptation for Semantic Segmentation <span class="primary-gradient-text">Challenge</span>, Sliver Place.
+
+<span class='anchor' id='-talks'></span>
+# 🎤 Talks
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Shenzhen, China🇨🇳</div>
+    <img src='images/ai4sseminar.png' alt="ai4sseminar" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>The 2nd AI for Science PhD Seminar</h3>
+    <div class="venue">The School of AI for Science, Peking University Shenzhen Graduate School</div>
+    <div class="links">
+      <a href="https://ai4s.pkusz.edu.cn/" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Dagstuhl, Germany🇩🇪</div>
+    <img src='images/dagstuhl.png' alt="Dagstuhl" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Dagstuhl Seminar: The Emerging Issues in Bioimaging AI Publications and Research</h3>
+    <div class="venue">Schloss Dagstuhl, Leibniz Institute for Analytical Sciences (ISAS)</div>
+    <div class="links">
+      <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24042" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
+      <a href="https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue01/24042/DagRep.14.1.90/DagRep.14.1.90.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
 
 <span class='anchor' id='-interships'></span>
 # 💼 Internships
