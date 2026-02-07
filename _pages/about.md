@@ -370,7 +370,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">My Mentors</div>
-    <img src='images/mentors.png' alt="mentors" width="100%">
+    <img src='images/mentor.png' alt="mentor" width="100%">
   </div>
   <div class='paper-box-text'>
     <div class="venue">Besides my supervisors, 
