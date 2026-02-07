@@ -85,33 +85,6 @@
   display: none !important; /* 加个 !important 确保一定能隐藏 */
 }
 
-/* =========================================
-   Inner Card Tags (Added by User)
-   ========================================= */
-
-/* 标签容器 */
-.badge-container {
-  display: inline-block;
-  vertical-align: middle;
-  margin-left: 10px;
-}
-
-/* 单个标签样式 */
-.inner-tag-badge {
-  display: inline-block;
-  font-size: 0.4em; /* 字体设为标题的 40% 大小，显精致 */
-  font-weight: normal; /* 不加粗 */
-  color: #555; /* 深灰色文字 */
-  background-color: #f2f3f5; /* 浅灰背景 */
-  padding: 2px 8px; /* 内边距 */
-  border-radius: 12px; /* 圆角 */
-  margin-right: 5px; /* 标签之间的间距 */
-  border: 1px solid #e1e4e8; /* 细边框 */
-  line-height: 1.5;
-  transform: translateY(-2px); /*稍微往上提一点，跟文字对齐 */
-}
-
------------------------
 
 .paper-box {
     display: flex;
@@ -186,4 +159,30 @@ h1:before, .anchor:before {
     border-radius: 15px;
     font-weight: 600;
     box-shadow: 0 2px 8px rgba(254, 102, 123, 0.2);
+}
+
+/* =========================================
+   Inner Card Tags (Added by User)
+   ========================================= */
+
+/* 标签容器 */
+.badge-container {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+/* 单个标签样式 */
+.inner-tag-badge {
+  display: inline-block;
+  font-size: 0.4em; /* 字体设为标题的 40% 大小，显精致 */
+  font-weight: normal; /* 不加粗 */
+  color: #555; /* 深灰色文字 */
+  background-color: #f2f3f5; /* 浅灰背景 */
+  padding: 2px 8px; /* 内边距 */
+  border-radius: 12px; /* 圆角 */
+  margin-right: 5px; /* 标签之间的间距 */
+  border: 1px solid #e1e4e8; /* 细边框 */
+  line-height: 1.5;
+  transform: translateY(-2px); /*稍微往上提一点，跟文字对齐 */
 }
