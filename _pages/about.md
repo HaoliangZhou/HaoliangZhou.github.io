@@ -398,61 +398,70 @@ document.addEventListener('DOMContentLoaded', function() {
   paperBoxes.forEach(box => {
     const tagsAttribute = box.getAttribute('data-tags');
     if (tagsAttribute) {
-      // 分割并处理标签
       const tagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
       
       // ------------------------------------------------
-      // 🔥 新增功能：自动将标签显示在标题旁边
+      // 🔥 核心修改：插入位置变了
       // ------------------------------------------------
-      const titleElement = box.querySelector('h3');
-      if (titleElement) {
-        // 创建一个容器放标签（防止重复添加）
-        if (!titleElement.querySelector('.badge-container')) {
-          const badgeContainer = document.createElement('span');
-          badgeContainer.className = 'badge-container';
-          
-          tagsList.forEach(tag => {
-            const badge = document.createElement('span');
-            badge.className = 'inner-tag-badge';
-            badge.textContent = tag;
-            badgeContainer.appendChild(badge);
-          });
-          
-          // 把标签容器追加到标题文字后面
-          titleElement.appendChild(badgeContainer);
+      // 1. 找到文字容器
+      const textContainer = box.querySelector('.paper-box-text');
+      // 2. 找到按钮容器 (Links)
+      const linksContainer = box.querySelector('.links');
+      
+      // 只有当这俩都存在时才插入
+      if (textContainer && !textContainer.querySelector('.badge-container')) {
+        
+        const badgeContainer = document.createElement('div'); // 改成 div 块级元素
+        badgeContainer.className = 'badge-container';
+        
+        tagsList.forEach(tag => {
+          const badge = document.createElement('span');
+          badge.className = 'inner-tag-badge';
+          badge.textContent = tag;
+          badgeContainer.appendChild(badge);
+        });
+        
+        // 🔥 关键逻辑：插入到 Links (按钮) 的前面
+        // 如果有 Links，插在 Links 前面；如果没有，插在最后
+        if (linksContainer) {
+          textContainer.insertBefore(badgeContainer, linksContainer);
+        } else {
+          textContainer.appendChild(badgeContainer);
         }
       }
       // ------------------------------------------------
 
-      // 统计数量（用于顶部按钮）
       tagsList.forEach(tag => {
         tagCounts[tag] = (tagCounts[tag] || 0) + 1;
       });
     }
   });
 
-  // 下面是生成顶部按钮和过滤的逻辑（保持不变）
+  // 顶部按钮生成逻辑 (保持不变)
   const sortedTags = Object.keys(tagCounts).sort();
-  
-  sortedTags.forEach(tag => {
-    const btn = document.createElement('button');
-    btn.className = 'filter-btn';
-    btn.textContent = `${tag} (${tagCounts[tag]})`;
-    
-    btn.onclick = () => {
-      if (activeTags.has(tag)) {
-        activeTags.delete(tag);
-        btn.classList.remove('active');
-      } else {
-        activeTags.add(tag);
-        btn.classList.add('active');
-      }
-      filterPapers();
-    };
-    
-    filterContainer.appendChild(btn);
-  });
+  if (filterContainer) {
+    filterContainer.innerHTML = ''; 
+    sortedTags.forEach(tag => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.textContent = `${tag} (${tagCounts[tag]})`;
+      
+      btn.onclick = () => {
+        if (activeTags.has(tag)) {
+          activeTags.delete(tag);
+          btn.classList.remove('active');
+        } else {
+          activeTags.add(tag);
+          btn.classList.add('active');
+        }
+        filterPapers();
+      };
+      
+      filterContainer.appendChild(btn);
+    });
+  }
 
+  // 过滤逻辑 (保持不变)
   function filterPapers() {
     paperBoxes.forEach(box => {
       const boxTagsString = box.getAttribute('data-tags');
