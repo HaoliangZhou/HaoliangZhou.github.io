@@ -70,7 +70,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
       <li>Visited <span class="primary-gradient-text">17 Countries</span> (>3 days):🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
-      <li>Lived in <span class="primary-gradient-text">7 Cities</span> (>6 months): Chengdu🐼, Leshan🪷, Shenzhen🏙️, Jiangmeng⚓️, Beijing🐲, Calgary❄️, Toronto🍁</li>
+      <li>Lived in <span class="primary-gradient-text">7 Cities</span> (>6 months): Chengdu🐼, Leshan🪷, Shenzhen🏙️, Jiangmeng⚓️, Beijing🐲, Calgary❄️, and Toronto🍁</li>
       <li><span class="primary-gradient-text">Where's Next?</span></li>
     </ul>
   </div>
