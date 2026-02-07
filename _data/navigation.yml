@@ -14,6 +14,9 @@ main:
   - title: "Awards"
     url: "/#-awards"
 
+  - title: "Talks"
+    url: "/#-talks"
+
   - title: "Internships"
     url: "/#-internships"
 
