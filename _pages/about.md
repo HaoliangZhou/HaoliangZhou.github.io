@@ -23,8 +23,8 @@ My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or
 <div class="quote-accent">
 My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
   <ul>
-    <li>Using powerful <span class="primary-gradient-text">AI tools</span> to solve complex scientific problems.</li>
-    <li>Using unique <span class="primary-gradient-text">scientific data</span> to explore irregular model dynamic</li>
+    <li>Using powerful <span class="primary-gradient-text">AI tools</span>⚙️ to solve complex scientific problems.</li>
+    <li>Using unique <span class="primary-gradient-text">scientific data</span>🦠 to explore irregular model dynamic</li>
   </ul>
 </div>
 
