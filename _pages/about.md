@@ -359,8 +359,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<span class='anchor' id='-miscellaneous'></span>
-# 💬 Miscellaneous
+<span class='anchor' id='-bond'></span>
+# 🔗 Bond
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">My Friends</div>
