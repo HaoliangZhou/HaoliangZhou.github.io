@@ -162,27 +162,31 @@ h1:before, .anchor:before {
 }
 
 /* =========================================
-   Inner Card Tags (Added by User)
+   Inner Card Tags (Styles for tags next to title)
    ========================================= */
 
-/* 标签容器 */
+/* 标签容器 - 放在标题旁边 */
 .badge-container {
-  display: inline-block;
-  vertical-align: middle;
-  margin-left: 10px;
+  display: inline-flex;    /* 使用 flex 布局让标签横向排列 */
+  flex-wrap: wrap;         /* 如果标签太多，自动换行 */
+  align-items: center;     /* 垂直居中对齐 */
+  margin-left: 10px;       /* 与标题拉开一点距离 */
+  vertical-align: middle;  /* 与标题文字垂直对齐 */
 }
 
 /* 单个标签样式 */
 .inner-tag-badge {
   display: inline-block;
-  font-size: 0.4em; /* 字体设为标题的 40% 大小，显精致 */
-  font-weight: normal; /* 不加粗 */
-  color: #555; /* 深灰色文字 */
+  font-size: 0.5em;        /* 调整为 0.5em，比 0.4em 更清晰 */
+  font-weight: 500;        /* 稍微加粗一点点 */
+  color: #555;             /* 深灰色文字 */
   background-color: #f2f3f5; /* 浅灰背景 */
-  padding: 2px 8px; /* 内边距 */
-  border-radius: 12px; /* 圆角 */
-  margin-right: 5px; /* 标签之间的间距 */
+  padding: 3px 8px;        /* 内边距 */
+  border-radius: 12px;     /* 圆角 */
+  margin-right: 6px;       /* 标签之间的间距 */
+  margin-bottom: 4px;      /* 换行时的行间距 */
   border: 1px solid #e1e4e8; /* 细边框 */
-  line-height: 1.5;
-  transform: translateY(-2px); /*稍微往上提一点，跟文字对齐 */
+  line-height: 1.2;
+  white-space: nowrap;     /* 防止单个标签内文字换行 */
+  transform: translateY(-2px); /* 视觉微调 */
 }
