@@ -222,6 +222,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       </div>
     </div>
   </div>
+</div>
 
 <span class='anchor' id='-awards'></span>
 # 🏆 Awards
