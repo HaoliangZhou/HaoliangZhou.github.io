@@ -60,7 +60,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
         and Car Cultures🏎️
       </li>
       <li>
-        Sharing my <span class="primary-gradient-text">research progress and POV</span> on 
+        Sharing my <span class="primary-gradient-text">Research Progress and POV</span> on 
         <a href="https://www.xiaohongshu.com/user/profile/661ea8a20000000007007964" class="link-accent">Xiaohongshu (Redbook APP)</a>🍠
       </li>
     </ul>
@@ -70,7 +70,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <h3><i class="fas fa-globe-asia"></i> World Explorer</h3>
     <ul>
       <li>Visited <span class="primary-gradient-text">17 Countries</span> (>3 days):🇨🇳🇯🇵🇻🇳🇮🇩🇲🇾🇩🇪🇫🇷🇮🇹🇪🇸🇵🇹🇦🇹🇨🇭🇸🇪🇩🇰🇳🇱🇺🇸🇨🇦</li>
-      <li>Lived in <span class="primary-gradient-text">7 Cities</span> (>6 months): Chengdu🐼, Leshan🪷, Shenzhen🏙️, Jiangmeng ⚓️, Beijing🐲, Calgary❄️, Toronto🍁</li>
+      <li>Lived in <span class="primary-gradient-text">7 Cities</span> (>6 months): Chengdu🐼, Leshan🪷, Shenzhen🏙️, Jiangmeng⚓️, Beijing🐲, Calgary❄️, Toronto🍁</li>
       <li><span class="primary-gradient-text">Where's Next?</span></li>
     </ul>
   </div>
