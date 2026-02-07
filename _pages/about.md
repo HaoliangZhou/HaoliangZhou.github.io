@@ -79,7 +79,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div id="publications-wrapper">
   <div id="filter-container"></div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, Conference, CAAI-A">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, CAAI-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">ICLR 2026 Poster</div>
       <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
@@ -111,7 +111,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Conference, Oral, CCF-A">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, NeuroAI, Transfer Learning, Oral, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">AAAI 2026 Oral</div>
       <img src='images/moase.png' alt="MOASE Overview" width="100%">
@@ -143,7 +143,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Journal, JCR-Q1">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, JCR-Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">Nature Computational Science</div>
       <img src='images/inif.png' alt="INIF Overview" width="100%">
@@ -159,7 +159,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Conference, Spotlight, CCF-A">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Representation Learning, Spotlight, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">NeurIPS 2025 Spotlight</div>
       <img src='images/orochi.png' alt="Orochi Overview" width="100%">
@@ -175,7 +175,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="Transfer Learning, Unified Model, Conference, CCF-A">
+  <div class='paper-box floating-card' data-tags="Transfer Learning, Unified Model, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">NeurIPS 2025 Poster</div>
       <img src='images/unictoken.png' alt="UniCToken Overview" width="100%">
@@ -191,7 +191,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, Transfer Learning, NeuroAI, Conference, CCF-A">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Transfer Learning, NeuroAI, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">ICML 2025 Poster</div>
       <img src='images/san.png' alt="SAN Overview" width="100%">
@@ -207,7 +207,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, Journal, JCR-Q1">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, AI for Life Science, JCR-Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">Nature Methods</div>
       <img src='images/gbai.png' alt="GBAI Overview" width="100%">
