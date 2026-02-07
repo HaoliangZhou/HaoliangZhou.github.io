@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaole Dai's HomePage"
+title                    : "Gaole Dai (David)"
 title_separator          : "-"
-subtitle                 : 
+subtitle                 : "AI X Life Science"
 name                     : "Gaole Dai"
-description              : "PhD Candidate"
-# url                     : "https://daviddaiiiii.github.io"
-# baseurl                 : "https://daviddaiiiii.github.io"
+description              : "Gaole Dai is a Ph.D. student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
+url                      : "https://daviddaiiiii.github.io"
+baseurl                  : ""
 repository               : "daviddaiiiii/daviddaiiiii.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # googlea34440bfd0246b9e.html
+google_site_verification :  "-HHkCOcQIpvmfJpoaRSVyCsbm2-9oCE6TiZlzmxvl10"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -29,7 +29,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gaole Dai"
   avatar           : "images/avatar.png"
-  bio              : "Peking University"
+  bio              : "Ph.D. Student at PKU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -164,6 +164,7 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
