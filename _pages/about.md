@@ -368,21 +368,26 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   <div class='paper-box-text'>
     <div class="venue">My academic friends includes 
-      <a href="https://scholar.google.com/citations?hl=en&user=dXj1WskAAAAJ" class="link-accent">Yuan Zhang</a>,
+      <a href="https://yuanzhang.cc/" class="link-accent">Yuan Zhang</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" class="link-accent">Yulin Luo</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=lQaJlDYAAAAJ" class="link-accent">Aosong Chen</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=KAXu0vAAAAAJ" class="link-accent">Qingpo Wuwu</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=TxeAbWkAAAAJ" class="link-accent">Chun-Kai Fan</a>,
       <a href="https://scholar.google.com/citations?hl=en&user=iXENYMYAAAAJ" class="link-accent">Chenkai Hou</a>,
+      <a href="https://scholar.google.com/citations?user=5JlrsxsAAAAJ&hl=zh-CN" class="link-accent">Hao Wang</a>,
+      <a href="https://scholar.google.com/citations?user=Wrcer2IAAAAJ&hl=zh-CN" class="link-accent">Peidong Jia</a>,
+      <a href="https://jiayueru.github.io/" class="link-accent">Yueru Jia</a>,
+      <a href="https://arctanxarc.github.io/" class="link-accent">Ruichuan An</a>,
       Menghang Dong,
       and Cheng-Ching Tseng from PKU🇨🇳;
       Tianzhong Hou from BJMU🇨🇳;
-      <a href="https://scholar.google.com/citations?hl=en&user=rRcc9eoAAAAJ" class="link-accent">Rongyu Zhang</a> from NJU🇨🇳;
+      <a href="https://rongyu.me/" class="link-accent">Rongyu Zhang</a> from NJU🇨🇳;
       Xiaowei Chi from HKUST🇭🇰;
       <a href="https://scholar.google.com/citations?hl=en&user=7e3w2oAAAAAJ" class="link-accent">Yu Zhou</a> from ISAS🇩🇪;
       Zhi Zhang from UvA🇳🇱;
       Jianchen Zhao from UT🇯🇵;
       Qixin Ye from UT🇨🇦...
+      (tell me if i forgot U😂)
     </div>
   </div>
 </div>
