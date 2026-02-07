@@ -343,15 +343,42 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 # 💬 Miscellaneous
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">My F</div>
-    <img src='images/dagstuhl.png' alt="Dagstuhl" width="100%">
+    <div class="badge pulse-accent">My Friends</div>
+    <img src='images/friends.png' alt="friends" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>Dagstuhl Seminar: The Emerging Issues in Bioimaging AI Publications and Research</h3>
-    <div class="venue">Schloss Dagstuhl, Leibniz Institute for Analytical Sciences (ISAS)</div>
-    <div class="links">
-      <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24042" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
-      <a href="https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue01/24042/DagRep.14.1.90/DagRep.14.1.90.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    <div class="venue">My academic friends includes 
+      <a href="https://scholar.google.com/citations?hl=en&user=dXj1WskAAAAJ" class="link-accent">Yuan Zhang</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" class="link-accent">Yulin Luo</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=lQaJlDYAAAAJ" class="link-accent">Aosong Chen</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=KAXu0vAAAAAJ" class="link-accent">Qingpo Wuwu</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=TxeAbWkAAAAJ" class="link-accent">Chun-Kai Fan</a>,
+      <a href="https://scholar.google.com/citations?hl=en&user=iXENYMYAAAAJ" class="link-accent">Chenkai Hou</a>,
+      Menghang Dong,
+      and Cheng-Ching Tseng from PKU🇨🇳;
+      Tianzhong Hou from BJMU🇨🇳;
+      <a href="https://scholar.google.com/citations?hl=en&user=rRcc9eoAAAAJ" class="link-accent">Rongyu Zhang</a> from NJU🇨🇳;
+      Xiaowei Chi from HKUST🇭🇰;
+      <a href="https://scholar.google.com/citations?hl=en&user=7e3w2oAAAAAJ" class="link-accent">Yu Zhou</a> from ISAS🇩🇪;
+      Zhi Zhang from UvA🇳🇱;
+      Jianchen Zhao from UT🇯🇵;
+      Qixin Ye from UT🇨🇦...
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">My Mentors</div>
+    <img src='images/mentors.png' alt="mentors" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <div class="venue">Besides my supervisors, 
+      Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and
+      Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>,
+      these mentors have influenced my academic taste:
+      Doctor <a href="https://scholar.google.com/citations?user=HdolpOgAAAAJ&hl=en" class="link-accent">Jianxu Chen</a> and
+      Professor <a href="https://research.bjmu.edu.cn/qnpt/qnpt_rcfczs/8592be279b054a3f9fc7a1b48cb981bd.htm" class="link-accent">Mo Li</a>.
     </div>
   </div>
 </div>
