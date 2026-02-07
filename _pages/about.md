@@ -261,6 +261,11 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<span class='anchor' id='-services'></span>
+# 👓 Services
+- *Journals*: &nbsp;Reviewer of <a href="https://www.nature.com/ncomms/" class="link-accent">Nature Communications</a>, <a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER481-ELE" class="link-accent">IEEE Robotics and Automation Letters (RA-L)</a>.
+- *Conferences*: &nbsp;Reviewer of ICML, NeurIPS, ICLR, AAAI.
+
 <span class='anchor' id='-interships'></span>
 # 💼 Internships
 - *2024.08 - Present*: &nbsp;Research Intern, <a href="https://www.baai.ac.cn" class="link-accent">Beijing Academy of Artifical Intelligence (BAAI)</a>.
@@ -334,9 +339,23 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<span class='anchor' id='-others'></span>
-# 💬 Others
-- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University <img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
+<span class='anchor' id='-miscellaneous'></span>
+# 💬 Miscellaneous
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">My F</div>
+    <img src='images/dagstuhl.png' alt="Dagstuhl" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Dagstuhl Seminar: The Emerging Issues in Bioimaging AI Publications and Research</h3>
+    <div class="venue">Schloss Dagstuhl, Leibniz Institute for Analytical Sciences (ISAS)</div>
+    <div class="links">
+      <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24042" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
+      <a href="https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue01/24042/DagRep.14.1.90/DagRep.14.1.90.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
