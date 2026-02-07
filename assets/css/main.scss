@@ -162,31 +162,36 @@ h1:before, .anchor:before {
 }
 
 /* =========================================
-   Inner Card Tags (Styles for tags next to title)
+   Inner Card Tags (Updated Layout)
    ========================================= */
 
-/* 标签容器 - 放在标题旁边 */
+/* 标签容器 - 独立一行 */
 .badge-container {
-  display: inline-flex;    /* 使用 flex 布局让标签横向排列 */
-  flex-wrap: wrap;         /* 如果标签太多，自动换行 */
-  align-items: center;     /* 垂直居中对齐 */
-  margin-left: 10px;       /* 与标题拉开一点距离 */
-  vertical-align: middle;  /* 与标题文字垂直对齐 */
+  display: flex;           /* Flex 布局 */
+  flex-wrap: wrap;         /* 自动换行 */
+  gap: 8px;                /* 标签之间的间距 */
+  margin-top: 10px;        /* 距离上面的 Venue 文字一段距离 */
+  margin-bottom: 5px;      /* 距离下面的按钮一段距离 */
+  width: 100%;             /* 占满宽度 */
 }
 
 /* 单个标签样式 */
 .inner-tag-badge {
   display: inline-block;
-  font-size: 0.5em;        /* 调整为 0.5em，比 0.4em 更清晰 */
-  font-weight: 500;        /* 稍微加粗一点点 */
-  color: #555;             /* 深灰色文字 */
-  background-color: #f2f3f5; /* 浅灰背景 */
-  padding: 3px 8px;        /* 内边距 */
-  border-radius: 12px;     /* 圆角 */
-  margin-right: 6px;       /* 标签之间的间距 */
-  margin-bottom: 4px;      /* 换行时的行间距 */
-  border: 1px solid #e1e4e8; /* 细边框 */
-  line-height: 1.2;
-  white-space: nowrap;     /* 防止单个标签内文字换行 */
-  transform: translateY(-2px); /* 视觉微调 */
+  font-size: 0.75rem;      /* 稍微大一点点，比之前清晰 */
+  font-weight: 500;
+  color: #4a5568;          /* 高级灰 */
+  background-color: #edf2f7; /* 很浅的灰蓝色背景 */
+  padding: 4px 10px;       /* 增加内边距 */
+  border-radius: 6px;      /* 稍微方一点的圆角，更现代 */
+  border: 1px solid #e2e8f0;
+  line-height: 1;
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+
+/* 鼠标放上去变色（可选交互） */
+.inner-tag-badge:hover {
+  background-color: #e2e8f0;
+  color: #2d3748;
 }
