@@ -7,34 +7,34 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaole Dai (David)"
+title                    : "Haoliang Zhou"
 title_separator          : "-"
-subtitle                 : "AI X Life Science"
-name                     : "Gaole Dai"
-description              : "Gaole Dai is a PhD student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
-url                      : "https://daviddaiiiii.github.io"
+# subtitle                 : "AI X Life Science"
+name                     : "Haoliang Zhou"
+description              : "Ph.D. Candidate"
+url                      : "https://haoliangzhou.github.io/"
 baseurl                  : ""
-repository               : "daviddaiiiii/daviddaiiiii.github.io"
+repository               : "HaoliangZhou/HaoliangZhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  "-HHkCOcQIpvmfJpoaRSVyCsbm2-9oCE6TiZlzmxvl10"
+# google_site_verification :  "-HHkCOcQIpvmfJpoaRSVyCsbm2-9oCE6TiZlzmxvl10"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Gaole Dai"
-  avatar           : "images/avatar.png"
-  bio              : ""
-  location         : "Beijing, China"
+  name             : "Haoliang Zhou &nbsp &nbsp &nbsp &nbsp &nbsp (周浩樑)" 
+  avatar           : "/images/haoliangzhou.jpg"
+  bio              : "Tianjin University of Technology (TJUT)"
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2Of6xZUAAAAJ"
-  email            : "2201111765@stu.pku.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=eccaHrQAAAAJ"
+  email            : "haoliangzhou6@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,15 +43,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daviddaiiiii"
+  github           : "HaoliangZhou"
   google_plus      :
   keybase          :
-  instagram        : "chunnidvd"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # ""
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/344/9571.html"
+  orcid            : "https://orcid.org/0000-0001-5663-3358"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -62,6 +62,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+  resume           : "https://github.com/HaoliangZhou/HaoliangZhou.github.io/blob/main/docs/resume_chinese.pdf"
   wikipedia        :
 
 # # 添加语言设置
