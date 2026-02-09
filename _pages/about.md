@@ -25,8 +25,6 @@ redirect_from:
 I am currently a second-year Ph.D. student at <a href="https://i-mac-lab.net" class="link-accent">IMAC Lab</a>, <a href="https://www.tjut.edu.cn" class="link-accent">Tianjin University of Technology</a>, where I am supervised by Prof. <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">Changsheng Xu (徐常胜, 国家杰青, IEEE/IAPR/CCF Fellow)</a>, and Prof. <a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">Feifei Zhang (张飞飞)</a>.
 Before that, I received the B.S. and M.S. degree in the <a href="https://www.just.edu.cn/" class="link-accent">Jiangsu University of Science and Technology</a>, advised by Prof. <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">Shucheng Huang (黄树成)</a> in 2021 and 2024, respectively.
 
-**Research Interests**: My primary research interests are centered around multimodal learning and computer vision, specifically focusing on: Composed Image Retrieval, Multimodal Large Language Model, Test-Time Adaptation, Continual Learning, and Facial Expression Recognition.
-
 
 
 <div class="quote-accent">
