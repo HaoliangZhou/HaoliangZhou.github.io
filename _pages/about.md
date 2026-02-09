@@ -312,7 +312,6 @@ My primary research interests are centered around <span class="accent-text">Mult
   - Jiangsu Student Innovation and Entrepreneurship Program, Member
 
 
-</div>
 
 
 <span class='anchor' id='-visitor'></span>
