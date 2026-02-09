@@ -316,7 +316,7 @@ document.addEventListener('DOMContentLoaded', function() {
   let tagCounts = {}; 
   let activeTags = new Set();
 
-  // 1. 定义白名单
+  // 1. 定义白名单（仅用于顶部筛选按钮展示）
   const visibleTagsWhitelist = [
     "CCF-A", 
     "JCR Q1", 
@@ -327,14 +327,13 @@ document.addEventListener('DOMContentLoaded', function() {
     "Micro Expression Recognition"
   ];
 
-  // 初始化：生成标签并统计数量
   paperBoxes.forEach(box => {
     const tagsAttribute = box.getAttribute('data-tags');
     if (tagsAttribute) {
-      // 统一使用 tagsList 变量名
-      const tagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
+      // 获取这篇文章的所有标签
+      const allTagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
       
-      // --- 渲染卡片内部标签 (仅限白名单) ---
+      // --- A. 渲染卡片内部标签：不过滤，显示全部 ---
       const textContainer = box.querySelector('.paper-box-text');
       const linksContainer = box.querySelector('.links');
       
@@ -342,14 +341,13 @@ document.addEventListener('DOMContentLoaded', function() {
         const badgeContainer = document.createElement('div');
         badgeContainer.className = 'badge-container';
         
-        tagsList
-          .filter(tag => visibleTagsWhitelist.includes(tag)) 
-          .forEach(tag => {
-            const badge = document.createElement('span');
-            badge.className = 'inner-tag-badge';
-            badge.textContent = tag;
-            badgeContainer.appendChild(badge);
-          });
+        // 注意：这里用的是 allTagsList，没有 filter
+        allTagsList.forEach(tag => {
+          const badge = document.createElement('span');
+          badge.className = 'inner-tag-badge';
+          badge.textContent = tag;
+          badgeContainer.appendChild(badge);
+        });
         
         if (linksContainer) {
           textContainer.insertBefore(badgeContainer, linksContainer);
@@ -358,8 +356,8 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       }
 
-      // --- 统计逻辑：只统计白名单内的标签用于生成顶部按钮 ---
-      tagsList.forEach(tag => {
+      // --- B. 统计逻辑：只统计白名单内的标签，用于生成顶部按钮 ---
+      allTagsList.forEach(tag => {
         if (visibleTagsWhitelist.includes(tag)) {
           tagCounts[tag] = (tagCounts[tag] || 0) + 1;
         }
@@ -367,7 +365,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-  // 2. 生成顶部过滤按钮
+  // 2. 生成顶部过滤按钮（此时 tagCounts 只包含白名单内的标签）
   const sortedTags = Object.keys(tagCounts).sort();
   if (filterContainer) {
     filterContainer.innerHTML = ''; 
@@ -399,17 +397,13 @@ document.addEventListener('DOMContentLoaded', function() {
       
       let isVisible = true;
       if (activeTags.size > 0) {
-        if (boxTags.length === 0) {
-          isVisible = false;
-        } else {
-          // AND 逻辑：必须包含所有选中的标签
-          isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
-        }
+        // 必须包含所有选中的标签
+        isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
       }
 
       box.classList.toggle('hidden', !isVisible);
 
-      // 处理内部标签的高亮
+      // 只要卡片内显示的标签文字在选中列表中，就高亮
       const innerBadges = box.querySelectorAll('.inner-tag-badge');
       innerBadges.forEach(badge => {
         badge.classList.toggle('active', activeTags.has(badge.textContent));
