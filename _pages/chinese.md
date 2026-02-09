@@ -1,9 +1,14 @@
 ---
-permalink: /chinese/
-title: "中文"
-excerpt: ""
+permalink: /
+title: ""
+excerpt: "中文"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 
 {% if site.google_scholar_stats_use_cdn %}
