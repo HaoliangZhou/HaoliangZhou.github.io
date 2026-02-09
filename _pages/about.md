@@ -315,13 +315,17 @@ document.addEventListener('DOMContentLoaded', function() {
   let tagCounts = {}; 
   let activeTags = new Set();
 
+
+  // 1. 定义你想要在页面上显示的白名单标签
+  const visibleTagsWhitelist = ["CCF-A", "JCR Q1", "First Author", "Composed Image Retrieval", "Continual Learning", "Facial Expression Recognition", "Micro Expression Recognition"];
+
   // 初始化：生成标签并统计数量
   paperBoxes.forEach(box => {
     const tagsAttribute = box.getAttribute('data-tags');
     if (tagsAttribute) {
       const tagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
       
-      // --- 插入标签到 Links 上方 ---
+      // --- 修改：只展示白名单内的标签到 Links 上方 ---
       const textContainer = box.querySelector('.paper-box-text');
       const linksContainer = box.querySelector('.links');
       
@@ -329,12 +333,15 @@ document.addEventListener('DOMContentLoaded', function() {
         const badgeContainer = document.createElement('div');
         badgeContainer.className = 'badge-container';
         
-        tagsList.forEach(tag => {
-          const badge = document.createElement('span');
-          badge.className = 'inner-tag-badge';
-          badge.textContent = tag;
-          badgeContainer.appendChild(badge);
-        });
+        // 关键改动：增加了 filter 过滤
+        tagsList
+          .filter(tag => visibleTagsWhitelist.includes(tag)) 
+          .forEach(tag => {
+            const badge = document.createElement('span');
+            badge.className = 'inner-tag-badge';
+            badge.textContent = tag;
+            badgeContainer.appendChild(badge);
+          });
         
         if (linksContainer) {
           textContainer.insertBefore(badgeContainer, linksContainer);
