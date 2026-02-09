@@ -11,7 +11,7 @@ title                    : "Haoliang Zhou"
 title_separator          : "-"
 # subtitle                 : "AI X Life Science"
 name                     : "Haoliang Zhou"
-description              : "Ph.D. Candidate"
+description              : "Ph.D. Candidate at Tianjin University of Technology (TJUT), referencing in Multimodal Learning."
 url                      : "https://haoliangzhou.github.io/"
 baseurl                  : ""
 repository               : "HaoliangZhou/HaoliangZhou.github.io"
@@ -27,9 +27,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoliang Zhou &nbsp &nbsp &nbsp &nbsp &nbsp (周浩樑)" 
+  name             : "Haoliang Zhou &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp (周浩樑)" 
   avatar           : "/images/haoliangzhou.jpg"
-  bio              : "Tianjin University of Technology (TJUT)"
+  # bio              : "Tianjin University of Technology (TJUT)"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
