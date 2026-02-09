@@ -1,11 +1,10 @@
 ---
 permalink: /chinese/
 title: "中文"
-excerpt: "中文"
+excerpt: ""
 author_profile: true
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
