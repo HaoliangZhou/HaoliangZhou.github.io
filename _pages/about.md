@@ -18,7 +18,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<h1>Welcome to <span class="accent-text">Haoliang Zhou (周浩樑)’s</span> homepage</h1>
+<h1>Welcome to <span class="accent-text">Haoliang Zhou (周浩樑)</span>’s homepage</h1>
 
 # 🧍‍♂️ Biography
 <span class='anchor' id='about-me'></span>
@@ -128,7 +128,7 @@ My primary research interests are centered around <span class="accent-text">Mult
       <img src='/images/dvscl.png' alt="PSN Overview" width="100%">
     </div>
     <div class='paper-box-text'>
-      <h3>MPSN: Parallel Spatiotemporal Network to Recognize Micro-Expression</h3>
+      <h3>PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression</h3>
       <div class="authors">Jingting Li, Sujing Wang, Yong Wang, <span class="primary-gradient-text">Haoliang Zhou</span>, Xiaolan Fu</div>
       <div class="venue">Neurocomputing (2025), SCI, JCR Q1, IF=6.5</div>
       <div class="links">
@@ -202,7 +202,7 @@ My primary research interests are centered around <span class="accent-text">Mult
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="Class-Incremental Learning, Few-shot Learning JCR Q1">
+  <div class='paper-box floating-card' data-tags="Continual Learning, Few-shot Learning, JCR Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">MMSJ 2024</div>
       <img src='images/inceptr.png' alt="INCEPTR Overview" width="100%">
@@ -298,7 +298,7 @@ My primary research interests are centered around <span class="accent-text">Mult
 
 
 
-<span class='anchor' id='-interships'></span>
+<span class='anchor' id='-interests'></span>
 # 📰 Other Project
 - *2022.03-2023.03*, Micro Expression Recognition based on Transformer and Cross Modal Feature Fusion
   - Jiangsu Postgraduate Scientific Research Innovation Plan Project, <span class="primary-gradient-text">Project Leader</span>
@@ -315,9 +315,7 @@ My primary research interests are centered around <span class="accent-text">Mult
 </div>
 
 
-
-
-<span class='anchor' id='-interships'></span>
+<span class='anchor' id='-visitor'></span>
 # 🗺️ Visitor Map
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=55a2e5&w=100&t=tt&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=0c8759&cmn=e5153d&ct=979bad'></script>
 
