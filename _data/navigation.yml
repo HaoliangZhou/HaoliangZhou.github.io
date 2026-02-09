@@ -11,20 +11,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Awards"
+  - title: "Honors and Awards"
     url: "/#-awards"
 
-  - title: "Talks"
-    url: "/#-talks"
-
-  - title: "Services"
+  - title: "Services and Activities"
     url: "/#-services"
 
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Interests"
+  - title: "Other Project"
     url: "/#-interests"
 
-  - title: "Bond"
-    url: "/#-bond"
+  - title: "Visitor Map"
+    url: "/#-visitor"
