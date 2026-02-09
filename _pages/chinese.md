@@ -343,8 +343,8 @@ document.addEventListener('DOMContentLoaded', function() {
   // 1. 定义白名单（仅用于顶部筛选按钮展示）
   const visibleTagsWhitelist = [
     "CCF-A", 
-    "JCR Q1", 
-    "First Author", 
+    "中科院一区", 
+    "第一作者", 
     "Composed Image Retrieval", 
     "Continual Learning", 
     "Facial Expression Recognition", 
