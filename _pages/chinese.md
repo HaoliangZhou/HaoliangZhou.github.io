@@ -2,11 +2,11 @@
 permalink: /chinese/
 title: "中文"
 excerpt: ""
-layout: archive
 author_profile: true
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
