@@ -2,7 +2,7 @@
 permalink: /chinese/
 title: "中文"
 excerpt: ""
-layout: archive
+layout: default
 author_profile: true
 ---
 
