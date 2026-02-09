@@ -190,7 +190,7 @@ My primary research interests are centered around <span class="accent-text">Mult
   <div class='paper-box floating-card' data-tags="Continual Learning, Few-shot Learning, JCR Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">MMSJ 2024</div>
-      <img src='images/inceptr.png' alt="INCEPTR Overview" width="100%">
+      <img src='images/caclip.png' alt="INCEPTR Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning</h3>
