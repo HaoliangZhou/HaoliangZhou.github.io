@@ -77,7 +77,7 @@ My primary research interests are centered around <span class="accent-text">Mult
   <div class='paper-box floating-card' data-tags="Zero-shot Learning, Composed Image Retrieval, JCR Q1, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">IEEE TMM 2026</div>
-      <img src='/images/ttrldr.png' alt="TMM Overview" width="100%">
+      <img src='/images/mmcir.png' alt="MMCIR Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>Enhancing Representation Inversion and Alignment for Zero-Shot Composed Image Retrieval</h3>
@@ -93,7 +93,7 @@ My primary research interests are centered around <span class="accent-text">Mult
   <div class='paper-box floating-card' data-tags="Facial Expression Recognition, Transfer Learning, JCR Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">AI Review 2026</div>
-      <img src='/images/ttrldr.png' alt="AIR Overview" width="100%">
+      <img src='/images/eaclip.png' alt="EACLIP Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>Emotion-aware Adaptation of CLIP model for Facial Expression Recognition</h3>
@@ -125,7 +125,7 @@ My primary research interests are centered around <span class="accent-text">Mult
   <div class='paper-box floating-card' data-tags="Micro Expression Recognition, JCR Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">NEUCOM 2025</div>
-      <img src='/images/dvscl.png' alt="PSN Overview" width="100%">
+      <img src='/images/psn.png' alt="PSN Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression</h3>
@@ -186,21 +186,6 @@ My primary research interests are centered around <span class="accent-text">Mult
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="Fine-Grained Image Classification">
-    <div class='paper-box-image'>
-      <div class="badge pulse-accent">PRCV 2024</div>
-      <img src='images/inceptr.png' alt="INCEPTR Overview" width="100%">
-    </div>
-    <div class='paper-box-text'>
-      <h3>Multi-modal Knowledge-Enhanced Fine-Grained Image Classification</h3>
-      <div class="authors">Suyan Cheng, Feifei Zhang, <span class="primary-gradient-text">Haoliang Zhou</span>, Changsheng Xu</div>
-      <div class="venue">Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2024), EI</div>
-      <div class="links">
-        <a href="https://link.springer.com/chapter/10.1007/978-981-97-8620-6_23" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-        <!-- <a href="https://" class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
-      </div>
-    </div>
-  </div>
 
   <div class='paper-box floating-card' data-tags="Continual Learning, Few-shot Learning, JCR Q1">
     <div class='paper-box-image'>
@@ -255,7 +240,7 @@ My primary research interests are centered around <span class="accent-text">Mult
 
 <span class='anchor' id='-awards'></span>
 # 🏆 Honors and Awards
-- *2025.12 - 2027.12*: &nbsp;Natural Science Foundation of China, Pilot Program of Research <span class="primary-gradient-text">Fund</span> for Excellent PhD Students.
+- *2025.12 - 2027.12*: China Association for Science and Technology, <span class="primary-gradient-text">Talent Cultivation Project</span> for Excellent PhD Students.
 - *2024.12*  Tianjin University of Technology, First-Class Academic Scholarship.
 - *2024.06*  Jiangsu University of Science and Technology, Outstanding Graduate (Top 3%), First-Class Academic Scholarship.
 - *2023.12*  <span class="primary-gradient-text">China National Scholarship</span> (Top 3%).
@@ -277,7 +262,6 @@ My primary research interests are centered around <span class="accent-text">Mult
 
 <span class='anchor' id='-interships'></span>
 # 💼 Internships
-- *2024.08 - Present*: &nbsp;Research Intern, <a href="xxx" class="link-accent">Beijing Academy of Artifical Intelligence (BAAI)</a>.
 - *2024.09-Now*, <a href="https://nlpr-web.ia.ac.cn/mmc/index.html" class="link-accent">Multimedia Computing Group (MMC)</a>, MAIS, Institute of Automation, Chinese Academy of Sciences. 
   - Working on: Composed Image Retrieval, Multimodal Large Language Model, Test-Time Adaptation, Continual Learning
   - Advisers: Prof. <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)</a> and Prof. <a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">Feifei Zhang (张飞飞)</a>
@@ -295,7 +279,7 @@ My primary research interests are centered around <span class="accent-text">Mult
 # 👓 Services and Activities
 - **Journal Reviewer**: IEEE TPAMI/TCSVT/TMM, MMSJ, SPIC, AJSE, SIVP
 - **Conference Reviewer**: IEEE CVPR/ICCV/ICME, AAAI, ACM MM, ChinaMM
-- **Invited Talk**: <a href="https://" class="link-accent">CSIG</a>
+- **Invited Talk**: <a href="https://www.koushare.com/live/details/49962" class="link-accent">CSIG 20th Student Member Sharing Forum</a>
 
 
 
