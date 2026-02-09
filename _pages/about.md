@@ -299,11 +299,10 @@ My primary research interests are centered around <span class="accent-text">Mult
 
 
 
-
-<span class='anchor' id='-visitor'></span>
 # 🗺️ Visitor Map
+<div style="width: 20%; position:relative; left:40%">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=55a2e5&w=100&t=tt&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=0c8759&cmn=e5153d&ct=979bad'></script>
-
+</div> 
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
