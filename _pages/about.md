@@ -43,6 +43,9 @@ My primary research interests are centered around <span class="accent-text">Mult
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">IEEE TMM</span> journal. _(SCI, Q1, IF=9.7, CCF-A)_
+- *2026.01*: &nbsp;🎉🎉 I am supported by China Association for Science and Technology <span class="accent-text">Talent Cultivation Project</span>.
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">Artificial Intelligence Review</span> journal. _(SCI, Q1, IF=13.9)_
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">AAAI 2026</span> conference. _(CCF-A)_
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">IEEE TIP</span> journal. _(SCI, Q1, IF=13.7, CCF-A)_
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by the <span class="accent-text">Neurocomputing</span> journal. _(SCI, Q1, IF=6.5)_
@@ -349,10 +352,11 @@ document.addEventListener('DOMContentLoaded', function() {
           textContainer.appendChild(badgeContainer);
         }
       }
-      // ---------------------------
-
-      tagsList.forEach(tag => {
-        tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+      // --- 修改统计逻辑：只统计白名单内的标签用于生成顶部按钮 ---
+      allTagsList.forEach(tag => {
+        if (visibleTagsWhitelist.includes(tag)) {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        }
       });
     }
   });
