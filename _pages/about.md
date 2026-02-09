@@ -44,7 +44,7 @@ My primary research interests are centered around <span class="accent-text">Mult
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">IEEE TMM</span> journal. _(SCI, Q1, IF=9.7, CCF-A)_
-- *2026.01*: &nbsp;🎉🎉 I am supported by China Association for Science and Technology <span class="accent-text">Talent Cultivation Project</span>.
+- *2025.12*: &nbsp;🎉🎉 I am supported by China Association for Science and Technology <span class="accent-text">Talent Cultivation Project</span>.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">Artificial Intelligence Review</span> journal. _(SCI, Q1, IF=13.9)_
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">AAAI 2026</span> conference. _(CCF-A)_
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by the <span class="accent-text">IEEE TIP</span> journal. _(SCI, Q1, IF=13.7, CCF-A)_
@@ -318,17 +318,25 @@ document.addEventListener('DOMContentLoaded', function() {
   let tagCounts = {}; 
   let activeTags = new Set();
 
-
-  // 1. 定义你想要在页面上显示的白名单标签
-  const visibleTagsWhitelist = ["CCF-A", "JCR Q1", "First Author", "Composed Image Retrieval", "Continual Learning", "Facial Expression Recognition", "Micro Expression Recognition"];
+  // 1. 定义白名单
+  const visibleTagsWhitelist = [
+    "CCF-A", 
+    "JCR Q1", 
+    "First Author", 
+    "Composed Image Retrieval", 
+    "Continual Learning", 
+    "Facial Expression Recognition", 
+    "Micro Expression Recognition"
+  ];
 
   // 初始化：生成标签并统计数量
   paperBoxes.forEach(box => {
     const tagsAttribute = box.getAttribute('data-tags');
     if (tagsAttribute) {
+      // 统一使用 tagsList 变量名
       const tagsList = tagsAttribute.split(',').map(t => t.trim()).filter(t => t);
       
-      // --- 修改：只展示白名单内的标签到 Links 上方 ---
+      // --- 渲染卡片内部标签 (仅限白名单) ---
       const textContainer = box.querySelector('.paper-box-text');
       const linksContainer = box.querySelector('.links');
       
@@ -336,7 +344,6 @@ document.addEventListener('DOMContentLoaded', function() {
         const badgeContainer = document.createElement('div');
         badgeContainer.className = 'badge-container';
         
-        // 关键改动：增加了 filter 过滤
         tagsList
           .filter(tag => visibleTagsWhitelist.includes(tag)) 
           .forEach(tag => {
@@ -352,8 +359,9 @@ document.addEventListener('DOMContentLoaded', function() {
           textContainer.appendChild(badgeContainer);
         }
       }
-      // --- 修改统计逻辑：只统计白名单内的标签用于生成顶部按钮 ---
-      allTagsList.forEach(tag => {
+
+      // --- 统计逻辑：只统计白名单内的标签用于生成顶部按钮 ---
+      tagsList.forEach(tag => {
         if (visibleTagsWhitelist.includes(tag)) {
           tagCounts[tag] = (tagCounts[tag] || 0) + 1;
         }
@@ -361,7 +369,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-  // 生成顶部过滤按钮
+  // 2. 生成顶部过滤按钮
   const sortedTags = Object.keys(tagCounts).sort();
   if (filterContainer) {
     filterContainer.innerHTML = ''; 
@@ -378,17 +386,16 @@ document.addEventListener('DOMContentLoaded', function() {
           activeTags.add(tag);
           btn.classList.add('active');
         }
-        filterPapers(); // 点击后触发过滤和高亮更新
+        filterPapers(); 
       };
       
       filterContainer.appendChild(btn);
     });
   }
 
-  // 🔥 核心逻辑更新：过滤论文 + 高亮标签
+  // 3. 核心逻辑：过滤论文 + 高亮标签
   function filterPapers() {
     paperBoxes.forEach(box => {
-      // 1. 处理卡片显示/隐藏
       const boxTagsString = box.getAttribute('data-tags');
       const boxTags = boxTagsString ? boxTagsString.split(',').map(t => t.trim()) : [];
       
@@ -397,26 +404,17 @@ document.addEventListener('DOMContentLoaded', function() {
         if (boxTags.length === 0) {
           isVisible = false;
         } else {
-          // 必须包含所有选中的标签 (AND 逻辑)
+          // AND 逻辑：必须包含所有选中的标签
           isVisible = Array.from(activeTags).every(activeTag => boxTags.includes(activeTag));
         }
       }
 
-      if (isVisible) {
-        box.classList.remove('hidden');
-      } else {
-        box.classList.add('hidden');
-      }
+      box.classList.toggle('hidden', !isVisible);
 
-      // 2. 🔥 处理内部标签的高亮 (即便卡片隐藏了，逻辑上也更新一下，没坏处)
+      // 处理内部标签的高亮
       const innerBadges = box.querySelectorAll('.inner-tag-badge');
       innerBadges.forEach(badge => {
-        // 如果这个小标签的文字，存在于 activeTags (顶部选中的集合) 中，就变色
-        if (activeTags.has(badge.textContent)) {
-          badge.classList.add('active');
-        } else {
-          badge.classList.remove('active');
-        }
+        badge.classList.toggle('active', activeTags.has(badge.textContent));
       });
     });
   }
