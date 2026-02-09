@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
-excerpt: "中文"
+permalink: /chinese/
+title: "中文"
+excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
