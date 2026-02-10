@@ -195,7 +195,7 @@ My primary research interests are centered around <span class="accent-text">Mult
     </div>
     <div class='paper-box-text'>
       <h3>CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning</h3>
-      <div class="authors">Yuqiao Xu, <span class="primary-gradient-text">Haoliang Zhou</span>⭐️, Shucheng Huang</div>
+      <div class="authors">Yuqiao Xu, <span class="primary-gradient-text">Haoliang Zhou</span>, Shucheng Huang</div>
       <div class="venue">Multimedia Systems (2024), SCI, JCR Q1, IF=3.5</div>
       <div class="links">
         <a href="https://link.springer.com/article/10.1007/s00530-024-01322-y" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
