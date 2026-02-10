@@ -191,7 +191,7 @@ My primary research interests are centered around <span class="accent-text">Mult
   <div class='paper-box floating-card' data-tags="Continual Learning, Few-shot Learning, JCR Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">MMSJ 2024</div>
-      <img src='images/caclip.png' alt="INCEPTR Overview" width="100%">
+      <img src='/images/caclip.png' alt="INCEPTR Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning</h3>
@@ -207,7 +207,7 @@ My primary research interests are centered around <span class="accent-text">Mult
   <div class='paper-box floating-card' data-tags="First Author, Micro Expression Recognition, JCR Q1">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">MMSJ 2023</div>
-      <img src='images/inceptr.png' alt="INCEPTR Overview" width="100%">
+      <img src='/images/inceptr.png' alt="INCEPTR Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>IncepTR: Micro-Expression Recognition Integrating Inception-CBAM and Vision Transformer</h3>
@@ -223,7 +223,7 @@ My primary research interests are centered around <span class="accent-text">Mult
   <div class='paper-box floating-card' data-tags="First Author, Micro Expression Recognition">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">Entropy 2023</div>
-      <img src='images/dualatme.png' alt="DUALATME Overview" width="100%">
+      <img src='/images/dualatme.png' alt="DUALATME Overview" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>Dual-ATME: Dual-branch Attention Network for Micro-Expression Recognition</h3>
@@ -299,10 +299,12 @@ My primary research interests are centered around <span class="accent-text">Mult
 
 
 
-# 🗺️ Visitor Map
-<div style="width: 20%; position:relative; left:40%">
+
+<!-- # 🗺️ Visitor Map -->
+<div style="width: 60%; position:relative; left:40%">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=55a2e5&w=100&t=tt&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=0c8759&cmn=e5153d&ct=979bad'></script>
-</div> 
+</div>
+
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

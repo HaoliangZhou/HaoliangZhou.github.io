@@ -2,11 +2,13 @@
 permalink: /chinese/
 title: "中文"
 excerpt: ""
+layout: archive
 author_profile: true
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/chinese.css' | relative_url }}">
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -28,7 +30,7 @@ author_profile: true
 我目前的研究方向为 <span class="accent-text">多模态学习, 计算机视觉</span>, 具体包括: 
   <ul>
     <li><span class="primary-gradient-text">组合式图像检索</span></li>
-    <li><span class="primary-gradient-text">多模态学习</span></li>
+    <li><span class="primary-gradient-text">多模态大语言模型</span></li>
     <li><span class="primary-gradient-text">测试时自适应, 持续学习</span></li>
     <li><span class="primary-gradient-text">人脸表情识别, 微表情识别</span></li>
   </ul>
@@ -324,9 +326,9 @@ author_profile: true
 - 专业工具：Latex, Matlab, Linux
 
 
-<span class='anchor' id='-visitor'></span>
-# 🗺️ 访客地图
+<div style="width: 60%; position:relative; left:40%">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=55a2e5&w=100&t=tt&d=q0lMQbv42GO9Uz2DKyDiIher0PBDh8IwLw2ozMawjng&co=ffffff&cmo=0c8759&cmn=e5153d&ct=979bad'></script>
+</div>
 
 
 <script>
