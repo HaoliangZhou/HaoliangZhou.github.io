@@ -241,7 +241,7 @@ My primary research interests are centered around <span class="accent-text">Mult
 
 <span class='anchor' id='-awards'></span>
 # 🏆 Honors and Awards
-- *2025.12 - 2027.12*: China Association for Science and Technology, <span class="primary-gradient-text">Talent Cultivation Project</span> for Excellent PhD Students.
+- *2025.12 - 2027.12* China Association for Science and Technology, <span class="primary-gradient-text">Talent Cultivation Project</span> for Excellent PhD Students.
 - *2024.12*  Tianjin University of Technology, First-Class Academic Scholarship.
 - *2024.06*  Jiangsu University of Science and Technology, Outstanding Graduate (Top 3%), First-Class Academic Scholarship.
 - *2023.12*  <span class="primary-gradient-text">China National Scholarship</span> (Top 3%).
