@@ -260,7 +260,7 @@ author_profile: true
 
 <span class='anchor' id='-awards'></span>
 # 🏆 荣誉称号
-- *2025.12 - 2027.12*: <span class="primary-gradient-text">中国科协青年科技人才培育工程博士生专项计划</span>
+- *2025.12 - 2027.12* <span class="primary-gradient-text">中国科协青年科技人才培育工程博士生专项计划</span>
 - *2024.12*  天津理工大学研究生一等学业奖学金
 - *2024.06*  江苏科技大学优秀硕士学位论文, 研究生优秀毕业生 (Top 3%), 一等学业奖学金
 - *2023.12*  <span class="primary-gradient-text">硕士研究生国家奖学金</span> (Top 3%)
