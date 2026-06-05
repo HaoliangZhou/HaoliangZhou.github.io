@@ -17,7 +17,7 @@ author_profile: false
         <p class="home-hero__lead">我目前是一名<a href="https://www.tjut.edu.cn" class="link-accent">天津理工大学</a>计算机科学与工程学院<a href="https://i-mac-lab.net" class="link-accent">智能媒体分析与计算实验室</a>的二年级博士生, 师从<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员(国家杰青, IEEE/IAPR/CCF/CSIG Fellow)和<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授。在此之前, 我分别于2021年和2024年在<a href="https://www.just.edu.cn/" class="link-accent">江苏科技大学</a>获得了学士和硕士(导师: <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">黄树成</a>教授)学位。</p>
         <div class="home-hero__actions" aria-label="主要链接">
           <a class="action-button action-button--primary" href="#-publications"><i class="fas fa-book-open" aria-hidden="true"></i><span>学术论文</span></a>
-          <a class="action-button" href="https://github.com/HaoliangZhou/HaoliangZhou.github.io/blob/main/docs/resume_chinese.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i><span>简历</span></a>
+          <a class="action-button" href="https://github.com/HaoliangZhou/HaoliangZhou.github.io/blob/master/docs/resume_chinese.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i><span>简历</span></a>
           <a class="action-button" href="mailto:haoliangzhou6@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i><span>联系我</span></a>
           <a class="action-button" href="https://github.com/HaoliangZhou"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
         </div>
