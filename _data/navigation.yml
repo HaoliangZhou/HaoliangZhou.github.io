@@ -1,0 +1,27 @@
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Research"
+    url: "/#-research"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Awards"
+    url: "/#-awards"
+
+  - title: "Experience"
+    url: "/#-internships"
+
+  - title: "Service"
+    url: "/#-services"
+
+  - title: "中文"
+    url: /chinese/

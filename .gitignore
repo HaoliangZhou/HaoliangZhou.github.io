@@ -1,0 +1,13 @@
+.DS_Store
+_site/
+# macOS
+.DS_Store
+# JetBrains IDE
+.idea/
+# Ruby/Bundler
+.bundle/
+vendor/bundle/
+# Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
