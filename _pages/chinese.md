@@ -14,7 +14,7 @@ author_profile: false
       <div class="home-hero__content">
         <p class="section-kicker">博士研究生，天津理工大学</p>
         <h1 id="home-hero-title">周浩樑 <span>Haoliang Zhou</span></h1>
-        <p class="home-hero__lead">我目前是一名<a href="https://www.tjut.edu.cn" class="link-accent">天津理工大学</a>计算机科学与工程学院<a href="https://i-mac-lab.net" class="link-accent">智能媒体分析与计算实验室</a>的二年级博士生, 师从<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员(国家杰青, IEEE/IAPR/CCF/CSIG Fellow)和<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授。在此之前, 我分别于2021年和2024年在<a href="https://www.just.edu.cn/" class="link-accent">江苏科技大学</a>获得了学士和硕士(导师: <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">黄树成</a>教授)学位。</p>
+        <p class="home-hero__lead">我目前是一名<a href="https://www.tjut.edu.cn" class="link-accent">天津理工大学</a>计算机科学与工程学院<a href="https://imaclab.com/" class="link-accent">智能媒体分析与计算实验室</a>的二年级博士生, 师从<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员(国家杰青, IEEE/IAPR/CCF/CSIG Fellow)和<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授。在此之前, 我分别于2021年和2024年在<a href="https://www.just.edu.cn/" class="link-accent">江苏科技大学</a>获得了学士和硕士(导师: <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">黄树成</a>教授)学位。</p>
         <div class="home-hero__actions" aria-label="主要链接">
           <a class="action-button action-button--primary" href="#-publications"><i class="fas fa-book-open" aria-hidden="true"></i><span>学术论文</span></a>
           <a class="action-button" href="https://github.com/HaoliangZhou/HaoliangZhou.github.io/blob/master/docs/resume_chinese.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i><span>简历</span></a>
@@ -51,6 +51,10 @@ author_profile: false
       <h2 id="news-title">近期动态</h2>
     </div>
     <div class="news-timeline">
+      <article class="news-item">
+        <time>2026.07</time>
+        <p>🎉🎉 一篇论文被 <strong class="accent-text">ACM MM 2026</strong> 会议接收<span>（CCF-A）</span></p>
+      </article>
       <article class="news-item">
         <time>2026.02</time>
         <p>🎉🎉 一篇论文被 <strong class="accent-text">IEEE TMM</strong> 期刊接收<span>（SCI，Q1，IF=9.7，CCF-A）</span></p>
@@ -105,8 +109,23 @@ author_profile: false
   </div>
   <div id="filter-container" class="filter-container" aria-label="论文筛选"></div>
   <div id="publication-count" class="publication-count" aria-live="polite"></div>
+
+  <div class='paper-box floating-card' data-tags="第一作者, Composed Image Retrieval, Zero-shot Learning, Multimodal Large Language Model, CCF-A">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">ACM MM 2026</div>
+      <img src="{{ '/images/compe.png' | relative_url }}" alt="CoMPE Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Chain-of-Modification Reasoning with Proxy Ensemble for Zero-shot Composed Image Retrieval</h3>
+      <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="第一作者" aria-label="第一作者">⭐️</span>, Feifei Zhang, Changsheng Xu</div>
+      <div class="venue">34th ACM International Conference on Multimedia (ACM MM 2026)</div>
+      <div class="links">
+        <span class="btn-accent btn-disabled"><i class="fas fa-clock" aria-hidden="true"></i> Paper Soon</span>
+      </div>
+    </div>
+  </div>
   
-  <div class='paper-box floating-card' data-tags="第一作者, Test-Time Reinforcement Learning, Composed Image Retrieval, CCF-A">
+  <div class='paper-box floating-card' data-tags="第一作者, Composed Image Retrieval, Test-Time Reinforcement Learning, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">AAAI 2026</div>
       <img src="{{ '/images/ttrldr.png' | relative_url }}" alt="TTRLDR Overview" width="100%">
@@ -122,7 +141,7 @@ author_profile: false
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="Zero-shot Learning, Composed Image Retrieval, 中科院一区, CCF-A">
+  <div class='paper-box floating-card' data-tags="Composed Image Retrieval, Zero-shot Learning, 中科院一区, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">IEEE TMM 2026</div>
       <img src="{{ '/images/mmcir.png' | relative_url }}" alt="MMCIR Overview" width="100%">
@@ -132,7 +151,7 @@ author_profile: false
       <div class="authors">Feifei Zhang, Jia Chen, <span class="accent-text">Haoliang Zhou</span>, Changsheng Xu</div>
       <div class="venue">IEEE Transactions on Multimedia (TMM 2026), SCI, 中科院一区, IF=9.7, CCF-A</div>
       <div class="links">
-        <span class="btn-accent btn-disabled"><i class="fas fa-clock" aria-hidden="true"></i> Paper Soon</span>
+        <a href="https://doi.org/10.1109/TMM.2026.3702526" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
     </div>
   </div>
@@ -152,7 +171,7 @@ author_profile: false
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="第一作者, Continual Learning, Composed Image Retrieval, 中科院一区, CCF-A">
+  <div class='paper-box floating-card' data-tags="第一作者, Composed Image Retrieval, Continual Learning, 中科院一区, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">IEEE TIP 2025</div>
       <img src="{{ '/images/u2car.png' | relative_url }}" alt="U2CAR Overview" width="100%">
@@ -400,7 +419,7 @@ author_profile: false
       <article class="experience-item">
         <time>2023.03-2024.06</time>
         <div>
-          <h3>天津理工大学 <a href="https://i-mac-lab.net/" class="link-accent">智能媒体分析与计算实验室（IMAC Lab）</a>，客座学生（实习）</h3>
+          <h3>天津理工大学 <a href="https://imaclab.com//" class="link-accent">智能媒体分析与计算实验室（IMAC Lab）</a>，客座学生（实习）</h3>
           <p>研究方向：人脸表情识别，视觉语言模型，多媒体计算</p>
           <span>合作导师：<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员（国家杰青，IEEE/IAPR/CCF/CSIG Fellow），<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授（青拔，天津市杰青）</span>
         </div>

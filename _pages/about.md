@@ -17,7 +17,7 @@ redirect_from:
       <div class="home-hero__content">
         <p class="section-kicker">Ph.D. Candidate, Tianjin University of Technology</p>
         <h1 id="home-hero-title">Haoliang Zhou <span>周浩樑</span></h1>
-        <p class="home-hero__lead">I am currently a second-year Ph.D. student at <a href="https://i-mac-lab.net" class="link-accent">IMAC Lab</a>, <a href="https://www.tjut.edu.cn" class="link-accent">Tianjin University of Technology</a>, where I am supervised by Prof. <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">Changsheng Xu (徐常胜, 国家杰青, IEEE/IAPR/CCF Fellow)</a>, and Prof. <a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">Feifei Zhang (张飞飞)</a>. Before that, I received the B.S. and M.S. degree in the <a href="https://www.just.edu.cn/" class="link-accent">Jiangsu University of Science and Technology</a>, advised by Prof. <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">Shucheng Huang (黄树成)</a> in 2021 and 2024, respectively.</p>
+        <p class="home-hero__lead">I am currently a second-year Ph.D. student at <a href="https://imaclab.com/" class="link-accent">IMAC Lab</a>, <a href="https://www.tjut.edu.cn" class="link-accent">Tianjin University of Technology</a>, where I am supervised by Prof. <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">Changsheng Xu (徐常胜, 国家杰青, IEEE/IAPR/CCF Fellow)</a>, and Prof. <a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">Feifei Zhang (张飞飞)</a>. Before that, I received the B.S. and M.S. degree in the <a href="https://www.just.edu.cn/" class="link-accent">Jiangsu University of Science and Technology</a>, advised by Prof. <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">Shucheng Huang (黄树成)</a> in 2021 and 2024, respectively.</p>
         <div class="home-hero__actions" aria-label="Primary actions">
           <a class="action-button action-button--primary" href="#-publications"><i class="fas fa-book-open" aria-hidden="true"></i><span>Publications</span></a>
           <a class="action-button" href="https://github.com/HaoliangZhou/HaoliangZhou.github.io/blob/master/docs/resume_chinese.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i><span>CV</span></a>
@@ -54,6 +54,10 @@ redirect_from:
       <h2 id="news-title">Recent Highlights</h2>
     </div>
     <div class="news-timeline">
+    <article class="news-item">
+        <time>2026.07</time>
+        <p>🎉🎉 One paper is accepted by the <strong class="accent-text">ACM MM 2026</strong> conference. <span>(CCF-A)</span></p>
+      </article>
       <article class="news-item">
         <time>2026.02</time>
         <p>🎉🎉 One paper is accepted by the <strong class="accent-text">IEEE TMM</strong> journal. <span>(SCI, Q1, IF=9.7, CCF-A)</span></p>
@@ -109,7 +113,22 @@ redirect_from:
   <div id="filter-container" class="filter-container" aria-label="Publication filters"></div>
   <div id="publication-count" class="publication-count" aria-live="polite"></div>
   
-  <div class='paper-box floating-card' data-tags="First Author, Test-Time Reinforcement Learning, Composed Image Retrieval, CCF-A">
+  <div class='paper-box floating-card' data-tags="First Author, Composed Image Retrieval, Zero-shot Learning, Multimodal Large Language Model, CCF-A">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">ACM MM 2026</div>
+      <img src="{{ '/images/compe.png' | relative_url }}" alt="CoMPE Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Chain-of-Modification Reasoning with Proxy Ensemble for Zero-shot Composed Image Retrieval</h3>
+      <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Feifei Zhang, Changsheng Xu</div>
+      <div class="venue">34th ACM International Conference on Multimedia (ACM MM 2026)</div>
+      <div class="links">
+        <span class="btn-accent btn-disabled"><i class="fas fa-clock" aria-hidden="true"></i> Paper Soon</span>
+      </div>
+    </div>
+  </div>
+
+  <div class='paper-box floating-card' data-tags="First Author, Composed Image Retrieval, Test-Time Reinforcement Learning, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">AAAI 2026</div>
       <img src="{{ '/images/ttrldr.png' | relative_url }}" alt="TTRLDR Overview" width="100%">
@@ -125,7 +144,7 @@ redirect_from:
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="Zero-shot Learning, Composed Image Retrieval, JCR Q1, CCF-A">
+  <div class='paper-box floating-card' data-tags="Composed Image Retrieval, Zero-shot Learning, JCR Q1, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">IEEE TMM 2026</div>
       <img src="{{ '/images/mmcir.png' | relative_url }}" alt="MMCIR Overview" width="100%">
@@ -135,7 +154,7 @@ redirect_from:
       <div class="authors">Feifei Zhang, Jia Chen, <span class="accent-text">Haoliang Zhou</span>, Changsheng Xu</div>
       <div class="venue">IEEE Transactions on Multimedia (TMM 2026), SCI, JCR Q1, IF=9.7, CCF-A</div>
       <div class="links">
-        <span class="btn-accent btn-disabled"><i class="fas fa-clock" aria-hidden="true"></i> Paper Soon</span>
+        <a href="https://doi.org/10.1109/TMM.2026.3702526" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
     </div>
   </div>
@@ -155,7 +174,7 @@ redirect_from:
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="First Author, Continual Learning, Composed Image Retrieval, JCR Q1, CCF-A">
+  <div class='paper-box floating-card' data-tags="First Author, Composed Image Retrieval, Continual Learning, JCR Q1, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">IEEE TIP 2025</div>
       <img src="{{ '/images/u2car.png' | relative_url }}" alt="U2CAR Overview" width="100%">
@@ -375,7 +394,7 @@ redirect_from:
       <article class="experience-item">
         <time>2023.03-2024.06</time>
         <div>
-          <h3><a href="https://i-mac-lab.net/" class="link-accent">Intelligent Media Analysis and Computation Lab (IMAC Lab)</a>, Tianjin University of Technology.</h3>
+          <h3><a href="https://imaclab.com//" class="link-accent">Intelligent Media Analysis and Computation Lab (IMAC Lab)</a>, Tianjin University of Technology.</h3>
           <p>Working on: Facial Expression Recognition, Vision-Language Model, Multimedia Computing</p>
           <span>Advisers: Prof. <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">Changsheng Xu (徐常胜, IEEE/IAPR/CCF Fellow)</a> and Prof. <a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">Feifei Zhang (张飞飞)</a></span>
         </div>
