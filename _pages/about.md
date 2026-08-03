@@ -152,7 +152,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Enhancing Representation Inversion and Alignment for Zero-Shot Composed Image Retrieval</h3>
       <div class="authors">Feifei Zhang, Jia Chen, <span class="accent-text">Haoliang Zhou</span>, Changsheng Xu</div>
-      <div class="venue">IEEE Transactions on Multimedia (TMM 2026), SCI, JCR Q1, IF=9.7, CCF-A</div>
+      <div class="venue">IEEE Transactions on Multimedia (TMM 2026), SCI, JCR Q1, IF=9.9, CCF-A</div>
       <div class="links">
         <a href="https://doi.org/10.1109/TMM.2026.3702526" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -167,7 +167,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Emotion-aware Adaptation of CLIP model for Facial Expression Recognition</h3>
       <div class="authors">Jing Huan, Mingxing Li, <span class="accent-text">Haoliang Zhou</span></div>
-      <div class="venue">Artificial Intelligence Review (2025), SCI, JCR Q1, IF=13.9</div>
+      <div class="venue">Artificial Intelligence Review (2025), SCI, JCR Q1, IF=18.8</div>
       <div class="links">
         <a href="https://link.springer.com/article/10.1007/s10462-025-11468-4" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -182,7 +182,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Dual Uncertainty-aware Correspondence Adapting and Retaining for Continual Composed Image Retrieval</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Feifei Zhang, Changsheng Xu</div>
-      <div class="venue">IEEE Transactions on Image Processing (TIP 2025), SCI, JCR Q1, IF=13.7, CCF-A</div>
+      <div class="venue">IEEE Transactions on Image Processing (TIP 2025), SCI, JCR Q1, IF=15.3, CCF-A</div>
       <div class="links">
         <a href="https://doi.org/10.1109/TIP.2025.3628454" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/U2CAR" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -198,7 +198,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression</h3>
       <div class="authors">Jingting Li, Sujing Wang, Yong Wang, <span class="accent-text">Haoliang Zhou</span>, Xiaolan Fu</div>
-      <div class="venue">Neurocomputing (2025), SCI, JCR Q1, IF=6.5</div>
+      <div class="venue">Neurocomputing (2025), SCI, JCR Q1, IF=6.7</div>
       <div class="links">
         <a href="https://doi.org/10.1016/j.neucom.2025.129891" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -229,7 +229,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Shucheng Huang, Yuqiao Xu</div>
-      <div class="venue">Neurocomputing (2024), SCI, JCR Q1, IF=6.5</div>
+      <div class="venue">Neurocomputing (2024), SCI, JCR Q1, IF=6.7</div>
       <div class="links">
         <a href="https://doi.org/10.1016/j.neucom.2024.129261" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/UAFER" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -245,7 +245,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception</h3>
       <div class="authors">Jingting Li, <span class="accent-text">Haoliang Zhou</span>, Yu Qian, Zizhao Dong, Sujing Wang</div>
-      <div class="venue">Neurocomputing (2024), SCI, JCR Q1, IF=6.5</div>
+      <div class="venue">Neurocomputing (2024), SCI, JCR Q1, IF=6.7</div>
       <div class="links">
         <a href="https://doi.org/10.1016/j.neucom.2024.129142" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/MELABIPCAS/DVSCL" class="btn-accent"><i class="fab fa-github"></i> Code</a>
