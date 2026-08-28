@@ -121,7 +121,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Chain-of-Modification Reasoning with Proxy Ensemble for Zero-shot Composed Image Retrieval</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Feifei Zhang, Changsheng Xu</div>
-      <div class="venue">34th ACM International Conference on Multimedia (ACM MM 2026)</div>
+      <div class="venue">34th ACM International Conference on Multimedia (ACM MM 2026). Rio de Janeiro, Brazil.</div>
       <div class="links">
         <span class="btn-accent btn-disabled"><i class="fas fa-clock" aria-hidden="true"></i> Paper Soon</span>
       </div>
@@ -136,7 +136,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Duplex Rewards Optimization for Test-Time Composed Image Retrieval</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Feifei Zhang, Changsheng Xu</div>
-      <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)</div>
+      <div class="venue">The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026). Singapore. </div>
       <div class="links">
         <a href="https://doi.org/10.1609/aaai.v40i16.38369" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/TT-RLDR" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -152,7 +152,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Enhancing Representation Inversion and Alignment for Zero-Shot Composed Image Retrieval</h3>
       <div class="authors">Feifei Zhang, Jia Chen, <span class="accent-text">Haoliang Zhou</span>, Changsheng Xu</div>
-      <div class="venue">IEEE Transactions on Multimedia (TMM 2026), SCI, JCR Q1, IF=9.9, CCF-A</div>
+      <div class="venue">IEEE Transactions on Multimedia (TMM 2026), SCI, IF=9.9</div>
       <div class="links">
         <a href="https://doi.org/10.1109/TMM.2026.3702526" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -167,7 +167,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Emotion-aware Adaptation of CLIP model for Facial Expression Recognition</h3>
       <div class="authors">Jing Huan, Mingxing Li, <span class="accent-text">Haoliang Zhou</span></div>
-      <div class="venue">Artificial Intelligence Review (2025), SCI, JCR Q1, IF=18.8</div>
+      <div class="venue">Artificial Intelligence Review (2025), SCI, IF=18.8</div>
       <div class="links">
         <a href="https://link.springer.com/article/10.1007/s10462-025-11468-4" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -182,7 +182,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Dual Uncertainty-aware Correspondence Adapting and Retaining for Continual Composed Image Retrieval</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Feifei Zhang, Changsheng Xu</div>
-      <div class="venue">IEEE Transactions on Image Processing (TIP 2025), SCI, JCR Q1, IF=15.3, CCF-A</div>
+      <div class="venue">IEEE Transactions on Image Processing (TIP 2025), SCI, IF=15.3</div>
       <div class="links">
         <a href="https://doi.org/10.1109/TIP.2025.3628454" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/U2CAR" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -198,7 +198,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>PSN: Parallel Spatiotemporal Network to Recognize Micro-Expression</h3>
       <div class="authors">Jingting Li, Sujing Wang, Yong Wang, <span class="accent-text">Haoliang Zhou</span>, Xiaolan Fu</div>
-      <div class="venue">Neurocomputing (2025), SCI, JCR Q1, IF=6.7</div>
+      <div class="venue">Neurocomputing (2025), SCI, IF=6.7</div>
       <div class="links">
         <a href="https://doi.org/10.1016/j.neucom.2025.129891" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -213,7 +213,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>CEPrompt: Cross-Modal Emotion-Aware Prompting for Facial Expression Recognition</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Shucheng Huang, Feifei Zhang, Changsheng Xu</div>
-      <div class="venue">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024), SCI, JCR Q1, IF=11.1, CCF-B</div>
+      <div class="venue">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024), SCI, IF=11.1, CCF-B</div>
       <div class="links">
         <a href="https://doi.org/10.1109/TCSVT.2024.3424777" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/CEPrompt" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -229,7 +229,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>UA-FER: Uncertainty-aware Representation Learning for Facial Expression Recognition</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Shucheng Huang, Yuqiao Xu</div>
-      <div class="venue">Neurocomputing (2024), SCI, JCR Q1, IF=6.7</div>
+      <div class="venue">Neurocomputing (2024), SCI, IF=6.7</div>
       <div class="links">
         <a href="https://doi.org/10.1016/j.neucom.2024.129261" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/UAFER" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -245,7 +245,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Micro-Expression Recognition using Dual-View Self-Supervised Contrastive Learning with Intensity Perception</h3>
       <div class="authors">Jingting Li, <span class="accent-text">Haoliang Zhou</span>, Yu Qian, Zizhao Dong, Sujing Wang</div>
-      <div class="venue">Neurocomputing (2024), SCI, JCR Q1, IF=6.7</div>
+      <div class="venue">Neurocomputing (2024), SCI, IF=6.7</div>
       <div class="links">
         <a href="https://doi.org/10.1016/j.neucom.2024.129142" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/MELABIPCAS/DVSCL" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -262,7 +262,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>CA-CLIP: Category-aware Adaptation of CLIP Model for Few-Shot Class-Incremental Learning</h3>
       <div class="authors">Yuqiao Xu, <span class="accent-text">Haoliang Zhou</span>, Shucheng Huang</div>
-      <div class="venue">Multimedia Systems (2024), SCI, JCR Q1, IF=3.5</div>
+      <div class="venue">Multimedia Systems (2024), SCI, IF=3.5</div>
       <div class="links">
         <a href="https://link.springer.com/article/10.1007/s00530-024-01322-y" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -277,7 +277,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>IncepTR: Micro-Expression Recognition Integrating Inception-CBAM and Vision Transformer</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Shucheng Huang, Yuqiao Xu</div>
-      <div class="venue">Multimedia Systems (2023), SCI, JCR Q1, IF=3.5</div>
+      <div class="venue">Multimedia Systems (2023), SCI, IF=3.5</div>
       <div class="links">
         <a href="https://doi.org/10.1007/s00530-023-01164-0" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/IncepTR" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -293,7 +293,7 @@ redirect_from:
     <div class='paper-box-text'>
       <h3>Dual-ATME: Dual-branch Attention Network for Micro-Expression Recognition</h3>
       <div class="authors"><span class="accent-text">Haoliang Zhou</span><span class="author-star" title="First author" aria-label="First author">⭐️</span>, Shucheng Huang, Jingting Li, Sujing Wang</div>
-      <div class="venue">Entropy (2023), SCI, JCR Q2, IF=2.1</div>
+      <div class="venue">Entropy (2023), SCI, IF=2.1</div>
       <div class="links">
         <a href="https://doi.org/10.3390/e25030460" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
         <a href="https://github.com/HaoliangZhou/Dual-ATME" class="btn-accent"><i class="fab fa-github"></i> Code</a>
