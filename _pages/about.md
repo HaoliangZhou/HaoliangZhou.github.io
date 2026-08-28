@@ -15,9 +15,9 @@ redirect_from:
         <img class="home-hero__image" src="/images/haoliangzhou1.jpg" alt="Portrait of Haoliang Zhou">
       </div>
       <div class="home-hero__content">
-        <p class="section-kicker">Ph.D. Candidate, Tianjin University of Technology</p>
+        <p class="section-kicker">Ph.D. Candidate</p>
         <h1 id="home-hero-title">Haoliang Zhou <span>周浩樑</span></h1>
-        <p class="home-hero__lead">I am currently a second-year Ph.D. student at <a href="https://imaclab.com/" class="link-accent">IMAC Lab</a>, <a href="https://www.tjut.edu.cn" class="link-accent">Tianjin University of Technology</a>, where I am supervised by Prof. <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">Changsheng Xu (徐常胜, 国家杰青, IEEE/IAPR/CCF Fellow)</a>, and Prof. <a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">Feifei Zhang (张飞飞)</a>. Before that, I received the B.S. and M.S. degree in the <a href="https://www.just.edu.cn/" class="link-accent">Jiangsu University of Science and Technology</a>, advised by Prof. <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">Shucheng Huang (黄树成)</a> in 2021 and 2024, respectively.</p>
+        <p class="home-hero__lead">I am currently a third-year Ph.D. student at <a href="https://imaclab.com/" class="link-accent">IMAC Lab</a>, <a href="https://www.tjut.edu.cn" class="link-accent">Tianjin University of Technology</a>, where I am supervised by Prof. <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">Changsheng Xu (徐常胜, 国家杰青, IEEE/IAPR/CCF Fellow)</a>, and Prof. <a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">Feifei Zhang (张飞飞)</a>. Before that, I received the B.S. and M.S. degree in the <a href="https://www.just.edu.cn/" class="link-accent">Jiangsu University of Science and Technology</a>, advised by Prof. <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">Shucheng Huang (黄树成)</a> in 2021 and 2024, respectively.</p>
         <div class="home-hero__actions" aria-label="Primary actions">
           <a class="action-button action-button--primary" href="#-publications"><i class="fas fa-book-open" aria-hidden="true"></i><span>Publications</span></a>
           <a class="action-button" href="https://github.com/HaoliangZhou/HaoliangZhou.github.io/blob/master/docs/resume_chinese.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i><span>CV</span></a>
@@ -56,39 +56,39 @@ redirect_from:
     <div class="news-timeline">
     <article class="news-item">
         <time>2026.07</time>
-        <p>🎉🎉 One paper is accepted by the <strong class="accent-text">ACM MM 2026</strong> conference. <span>(CCF-A)</span></p>
+        <p>🎲 One paper is accepted by the <strong class="accent-text">ACM MM 2026</strong> conference. <span>(CCF-A)</span></p>
       </article>
       <article class="news-item">
         <time>2026.02</time>
-        <p>🎉🎉 One paper is accepted by the <strong class="accent-text">IEEE TMM</strong> journal. <span>(SCI, Q1, IF=9.7, CCF-A)</span></p>
+        <p>🎲 One paper is accepted by the <strong class="accent-text">IEEE TMM</strong> journal. <span>(SCI, Q1, IF=9.7, CCF-A)</span></p>
       </article>
       <article class="news-item">
         <time>2025.12</time>
-        <p>🎉🎉 I am supported by <strong class="accent-text">China Association for Science and Technology Talent Cultivation Project</strong>.</p>
+        <p>🎉 I am supported by <strong class="accent-text">Young Talent Cultivation Program (Doctoral Special), China Association for Science and Technology (CAST)</strong>.</p>
       </article>
       <article class="news-item">
         <time>2025.12</time>
-        <p>🎉🎉 One paper is accepted by the <strong class="accent-text">Artificial Intelligence Review</strong> journal. <span>(SCI, Q1, IF=13.9)</span></p>
+        <p>🎲 One paper is accepted by the <strong class="accent-text">Artificial Intelligence Review</strong> journal. <span>(SCI, Q1, IF=13.9)</span></p>
       </article>
       <article class="news-item">
         <time>2025.11</time>
-        <p>🎉🎉 One paper is accepted by the <strong class="accent-text">AAAI 2026</strong> conference. <span>(CCF-A)</span></p>
+        <p>🎲 One paper is accepted by the <strong class="accent-text">AAAI 2026</strong> conference. <span>(CCF-A)</span></p>
       </article>
       <article class="news-item">
         <time>2025.10</time>
-        <p>🎉🎉 One paper is accepted by the <strong class="accent-text">IEEE TIP</strong> journal. <span>(SCI, Q1, IF=13.7, CCF-A)</span></p>
+        <p>🎲 One paper is accepted by the <strong class="accent-text">IEEE TIP</strong> journal. <span>(SCI, Q1, IF=13.7, CCF-A)</span></p>
       </article>
       <article class="news-item">
         <time>2024.12</time>
-        <p>🎉🎉 Two papers are accepted by the <strong class="accent-text">Neurocomputing</strong> journal. <span>(SCI, Q1, IF=6.5)</span></p>
+        <p>🧩 Two papers are accepted by the <strong class="accent-text">Neurocomputing</strong> journal. <span>(SCI, Q1, IF=6.5)</span></p>
       </article>
       <article class="news-item">
         <time>2024.07</time>
-        <p>🎉🎉 One paper is accepted by the <strong class="accent-text">IEEE TCSVT</strong> journal. <span>(SCI, Q1, IF=11.1, CCF-B)</span></p>
+        <p>🎲 One paper is accepted by the <strong class="accent-text">IEEE TCSVT</strong> journal. <span>(SCI, Q1, IF=11.1, CCF-B)</span></p>
       </article>
       <article class="news-item">
         <time>2023.12</time>
-        <p>🎉🎉 I am awarded <strong class="accent-text">National Scholarship</strong>.</p>
+        <p>🎉 I am awarded <strong class="accent-text">National Scholarship</strong>.</p>
       </article>
     </div>
     <p class="scroll-more-hint" hidden>More</p>
@@ -306,8 +306,8 @@ redirect_from:
   <section class="homepage-section credential-section" id="-educations" aria-labelledby="educations-title">
     <div class="section-heading section-heading--split">
       <div>
-        <p class="section-kicker">Educations</p>
-        <h2 id="educations-title">Educations</h2>
+        <p class="section-kicker">Education</p>
+        <h2 id="educations-title">Education</h2>
       </div>
     </div>
 
@@ -343,7 +343,7 @@ redirect_from:
     <div class="award-rail" aria-label="Honors and Awards timeline">
       <article class="achievement-card achievement-card--featured">
         <span>2025.12</span>
-        <p><strong class="accent-text">China Association for Science and Technology Talent Cultivation Project</strong> for Excellent PhD Students.</p>
+        <p><strong class="accent-text">Young Talent Cultivation Program (Doctoral Special), China Association for Science and Technology (CAST)</strong>.</p>
       </article>
       <article class="achievement-card">
         <span>2024.12</span>
@@ -485,7 +485,7 @@ redirect_from:
   <section class="homepage-section contact-band" aria-labelledby="contact-title">
     <div>
       <p class="section-kicker">Open to Collaboration</p>
-      <h2 id="contact-title">Let us talk about multimodal learning, retrieval, and explicable AI.</h2>
+      <h2 id="contact-title">Let us talk about multimodal learning, MLLM reasoning &amp; retrieval, and AGI.</h2>
     </div>
     <div class="contact-band__actions">
       <a class="action-button action-button--primary" href="mailto:haoliangzhou6@gmail.com"><i class="fas fa-paper-plane" aria-hidden="true"></i><span>Email</span></a>

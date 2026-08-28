@@ -9,7 +9,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body class="{% if page.url == '/' or page.url == '/chinese/' %}home-page-body{% endif %}">
+  <body class="{% if page.url == '/' or page.url == '/chinese/' %}home-page-body{% endif %}{% if page.url == '/chinese/' %} chinese-home-page-body{% endif %}">
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 

@@ -1,27 +1,40 @@
 main:
-  - title: "About Me"
-    url: "/#about-me"
-
   - title: "Research"
     url: "/#-research"
+    title_zh: "研究方向"
+    url_zh: "#-research"
 
   - title: "News"
     url: "/#-news"
+    title_zh: "近期动态"
+    url_zh: "#-news"
 
   - title: "Publications"
     url: "/#-publications"
+    title_zh: "学术论文"
+    url_zh: "#-publications"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#-educations"
+    title_zh: "教育经历"
+    url_zh: "#-educations"
 
   - title: "Awards"
     url: "/#-awards"
+    title_zh: "荣誉称号"
+    url_zh: "#-awards"
 
   - title: "Experience"
     url: "/#-internships"
+    title_zh: "研究经历"
+    url_zh: "#-internships"
 
   - title: "Service"
     url: "/#-services"
+    title_zh: "学术活动"
+    url_zh: "#-services"
 
   - title: "中文"
     url: /chinese/
+    title_zh: "English"
+    url_zh: /

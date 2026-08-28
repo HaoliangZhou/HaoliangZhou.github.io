@@ -12,9 +12,9 @@ author_profile: false
         <img class="home-hero__image" src="/images/haoliangzhou1.jpg" alt="周浩樑照片">
       </div>
       <div class="home-hero__content">
-        <p class="section-kicker">博士研究生，天津理工大学</p>
+        <p class="section-kicker">博士研究生</p>
         <h1 id="home-hero-title">周浩樑 <span>Haoliang Zhou</span></h1>
-        <p class="home-hero__lead">我目前是一名<a href="https://www.tjut.edu.cn" class="link-accent">天津理工大学</a>计算机科学与工程学院<a href="https://imaclab.com/" class="link-accent">智能媒体分析与计算实验室</a>的二年级博士生, 师从<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员(国家杰青, IEEE/IAPR/CCF/CSIG Fellow)和<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授。在此之前, 我分别于2021年和2024年在<a href="https://www.just.edu.cn/" class="link-accent">江苏科技大学</a>获得了学士和硕士(导师: <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">黄树成</a>教授)学位。</p>
+        <p class="home-hero__lead">我目前是一名<a href="https://www.tjut.edu.cn" class="link-accent">天津理工大学</a>计算机科学与工程学院<a href="https://imaclab.com/" class="link-accent">智能媒体分析与计算实验室</a>的三年级博士生, 师从<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员(国家杰青, IEEE/IAPR/CCF/CSIG Fellow)和<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授。在此之前, 我分别于2021年和2024年在<a href="https://www.just.edu.cn/" class="link-accent">江苏科技大学</a>获得了学士和硕士(导师: <a href="https://mypage.just.edu.cn/jsjkxgc/hsc/list.htm" class="link-accent">黄树成</a>教授)学位。</p>
         <div class="home-hero__actions" aria-label="主要链接">
           <a class="action-button action-button--primary" href="#-publications"><i class="fas fa-book-open" aria-hidden="true"></i><span>学术论文</span></a>
           <a class="action-button" href="https://github.com/HaoliangZhou/HaoliangZhou.github.io/blob/master/docs/resume_chinese.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i><span>简历</span></a>
@@ -53,39 +53,39 @@ author_profile: false
     <div class="news-timeline">
       <article class="news-item">
         <time>2026.07</time>
-        <p>🎉🎉 一篇论文被 <strong class="accent-text">ACM MM 2026</strong> 会议接收<span>（CCF-A）</span></p>
+        <p>🎲 一篇论文被 <strong class="accent-text">ACM MM 2026</strong> 会议接收<span>（CCF-A）</span></p>
       </article>
       <article class="news-item">
         <time>2026.02</time>
-        <p>🎉🎉 一篇论文被 <strong class="accent-text">IEEE TMM</strong> 期刊接收<span>（SCI，Q1，IF=9.7，CCF-A）</span></p>
+        <p>🎲 一篇论文被 <strong class="accent-text">IEEE TMM</strong> 期刊接收<span>（SCI，Q1，IF=9.7，CCF-A）</span></p>
       </article>
       <article class="news-item">
         <time>2025.12</time>
-        <p>🎉🎉 入选<strong class="accent-text">中国科协青年科技人才培育工程博士生专项计划</strong></p>
+        <p>🎉 入选<strong class="accent-text">中国科协青年科技人才培育工程博士生专项计划</strong></p>
       </article>
       <article class="news-item">
         <time>2025.12</time>
-        <p>🎉🎉 一篇论文被 <strong class="accent-text">Artificial Intelligence Review</strong> 期刊接收<span>（SCI，Q1，IF=13.9）</span></p>
+        <p>🎲 一篇论文被 <strong class="accent-text">Artificial Intelligence Review</strong> 期刊接收<span>（SCI，Q1，IF=13.9）</span></p>
       </article>
       <article class="news-item">
         <time>2025.11</time>
-        <p>🎉🎉 一篇论文被 <strong class="accent-text">AAAI 2026</strong> 会议接收<span>（CCF-A）</span></p>
+        <p>🎲 一篇论文被 <strong class="accent-text">AAAI 2026</strong> 会议接收<span>（CCF-A）</span></p>
       </article>
       <article class="news-item">
         <time>2025.10</time>
-        <p>🎉🎉 一篇论文被 <strong class="accent-text">IEEE TIP</strong> 期刊接收<span>（SCI，Q1，IF=13.7，CCF-A）</span></p>
+        <p>🎲 一篇论文被 <strong class="accent-text">IEEE TIP</strong> 期刊接收<span>（SCI，Q1，IF=13.7，CCF-A）</span></p>
       </article>
       <article class="news-item">
         <time>2024.12</time>
-        <p>🎉🎉 两篇论文被 <strong class="accent-text">Neurocomputing</strong> 期刊接收<span>（SCI，Q1，IF=6.5）</span></p>
+        <p>🧩 两篇论文被 <strong class="accent-text">Neurocomputing</strong> 期刊接收<span>（SCI，Q1，IF=6.5）</span></p>
       </article>
       <article class="news-item">
         <time>2024.07</time>
-        <p>🎉🎉 一篇论文被 <strong class="accent-text">IEEE TCSVT</strong> 期刊接收<span>（SCI，Q1，IF=11.1，CCF-B）</span></p>
+        <p>🎲 一篇论文被 <strong class="accent-text">IEEE TCSVT</strong> 期刊接收<span>（SCI，Q1，IF=11.1，CCF-B）</span></p>
       </article>
       <article class="news-item">
         <time>2023.12</time>
-        <p>🎉🎉 获得 <strong class="accent-text">硕士研究生国家奖学金</strong></p>
+        <p>🎉 获得 <strong class="accent-text">硕士研究生国家奖学金</strong></p>
       </article>
     </div>
     <p class="scroll-more-hint" hidden>更多</p>
