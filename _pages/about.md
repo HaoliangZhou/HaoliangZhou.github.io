@@ -404,7 +404,7 @@ redirect_from:
         <div>
           <h3><a href="http://melab.psych.ac.cn/index.html" class="link-accent">Micro-Expression Laboratory (MELAB)</a>, Institute of Psychology, Chinese Academy of Sciences.</h3>
           <p>Worked on: Micro-Expression Recognition, Contrastive Learning, Self-Supervised Learning</p>
-          <span>Advisers: Associate Prof. <a href="https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html" class="link-accent">Su-jing Wang (王甦菁)</a>, Associate Prof. <a href="https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html" class="link-accent">Jingting Li (李婧婷)</a></span>
+          <span>Advisers: Prof. <a href="https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html" class="link-accent">Su-jing Wang (王甦菁)</a>, Associate Prof. <a href="https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html" class="link-accent">Jingting Li (李婧婷)</a></span>
         </div>
       </article>
     </div>

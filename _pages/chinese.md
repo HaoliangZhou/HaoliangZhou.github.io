@@ -429,7 +429,7 @@ author_profile: false
         <div>
           <h3>中国科学院心理研究所 <a href="http://melab.psych.ac.cn/index.html" class="link-accent">微表情应用研究中心（MELAB）</a>，客座学生（实习）</h3>
           <p>研究方向：微表情识别，对比学习，自监督学习</p>
-          <span>合作导师：<a href="https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html" class="link-accent">王甦菁</a>副研究员，<a href="https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html" class="link-accent">李婧婷</a>副研究员</span>
+          <span>合作导师：<a href="https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html" class="link-accent">王甦菁</a>研究员，<a href="https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html" class="link-accent">李婧婷</a>副研究员</span>
         </div>
       </article>
     </div>
@@ -537,7 +537,7 @@ author_profile: false
   <section class="homepage-section contact-band" aria-labelledby="contact-title">
     <div>
       <p class="section-kicker">欢迎交流</p>
-      <h2 id="contact-title">欢迎围绕多模态学习、图文检索与可解释人工智能展开交流。</h2>
+      <h2 id="contact-title">寻求围绕多模态大语言模型, 多模态推理与检索等领域的交流合作!</h2>
     </div>
     <div class="contact-band__actions">
       <a class="action-button action-button--primary" href="mailto:haoliangzhou6@gmail.com"><i class="fas fa-paper-plane" aria-hidden="true"></i><span>Email</span></a>
