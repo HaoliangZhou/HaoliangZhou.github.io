@@ -543,19 +543,19 @@ author_profile: false
       <article class="service-project-card">
         <time>学生工作</time>
         <div>
-          <p>班级班长（2021-2024）<br>研究生会组织部部长（2021-2022）<br>学生会科技部部长（2018-2019）<br>班级团支书（2017-2021）</p>
+          <p>班级班长 (2021-2024), 研究生会组织部部长 (2021-2022), 学生会科技部部长 (2018-2019), 班级团支书 (2017-2021)</p>
         </div>
       </article>
       <article class="service-project-card">
-        <time>编程语言</time>
+        <time>编程语言与框架</time>
         <div>
-          <p>Python<br>PyTorch<br>Java<br>Matlab</p>
+          <p>Python, PyTorch, Java, Matlab, Llamafactory, EasyR1</p>
         </div>
       </article>
       <article class="service-project-card">
         <time>专业工具与框架</time>
         <div>
-          <p>Linux<br>LaTeX<br>Llamafactory<br>EasyR1</p>
+          <p>Linux, LaTeX, Claude Code, Codex, OpenClaw</p>
         </div>
       </article>
     </div>
