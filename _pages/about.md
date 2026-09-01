@@ -444,10 +444,10 @@ redirect_from:
     </div>
     <div class="service-project-rail" id="-interests" aria-label="Other projects">
       <article class="service-project-card">
-        <time>2022.03-2023.03</time>
+        <time>2024.10-2028.10</time>
         <div>
-          <h3>Micro Expression Recognition based on Transformer and Cross Modal Feature Fusion</h3>
-          <p>Jiangsu Postgraduate Scientific Research Innovation Plan Project, Project Leader.</p>
+          <h3>Full-Modality Data Perception and Generative Prediction in Open Environments</h3>
+          <p>Tianjin Outstanding Young Scientists Fund, Member.</p>
         </div>
       </article>
       <article class="service-project-card">
@@ -458,6 +458,13 @@ redirect_from:
         </div>
       </article>
       <article class="service-project-card">
+        <time>2024.10-2026.10</time>
+        <div>
+          <h3>Research on **</h3>
+          <p>National Science and Technology Commission Basic Strengthening Program, Member.</p>
+        </div>
+      </article>
+      <article class="service-project-card">
         <time>2023.01-2026.12</time>
         <div>
           <h3>Pedestrian Detection via Robust Object Appearance Modeling</h3>
@@ -465,10 +472,17 @@ redirect_from:
         </div>
       </article>
       <article class="service-project-card">
-        <time>2018.01-2021.02</time>
+        <time>2018.01-2021.12</time>
         <div>
           <h3>Visual Tracking via Robust Object Appearance Modeling</h3>
           <p>National Natural Science Foundation of China, Member.</p>
+        </div>
+      </article>
+      <article class="service-project-card">
+        <time>2022.03-2023.03</time>
+        <div>
+          <h3>Micro-Expression Recognition via Self-Attention and Cross-Modal Feature Fusion</h3>
+          <p>Jiangsu Postgraduate Scientific Research Innovation Plan, <strong>Project Leader</strong>.</p>
         </div>
       </article>
       <article class="service-project-card">

@@ -412,24 +412,30 @@ author_profile: false
         <time>2024.09-至今</time>
         <div>
           <h3>中国科学院自动化研究所 多模态人工智能系统全国重点实验室 <a href="https://nlpr-web.ia.ac.cn/mmc/index.html" class="link-accent">多媒体计算组（MMC）</a>，客座学生（实习）</h3>
-          <p>研究方向：跨模态图文检索，多模态大语言模型，测试时自适应，持续学习等</p>
-          <span>合作导师：<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员（国家杰青，IEEE/IAPR/CCF/CSIG Fellow），<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授（青拔，天津市杰青）</span>
+          <ul class="education-detail-list">
+            <li><strong>研究方向</strong>: 跨模态图文检索，多模态大语言模型，测试时自适应，持续学习等</li>
+            <li><strong>合作导师</strong>: <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员（国家杰青，IEEE/IAPR/CCF/CSIG Fellow），<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授（青拔，天津市杰青）</li>
+          </ul>
         </div>
       </article>
       <article class="experience-item">
         <time>2023.03-2024.06</time>
         <div>
           <h3>天津理工大学 <a href="https://imaclab.com//" class="link-accent">智能媒体分析与计算实验室（IMAC Lab）</a>，客座学生（实习）</h3>
-          <p>研究方向：人脸表情识别，视觉语言模型，多媒体计算</p>
-          <span>合作导师：<a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员（国家杰青，IEEE/IAPR/CCF/CSIG Fellow），<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授（青拔，天津市杰青）</span>
+          <ul class="education-detail-list">
+            <li><strong>研究方向</strong>: 人脸表情识别，视觉语言模型，多媒体计算</li>
+            <li><strong>合作导师</strong>: <a href="https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129942.html" class="link-accent">徐常胜</a>研究员（国家杰青，IEEE/IAPR/CCF/CSIG Fellow），<a href="https://cs.tjut.edu.cn/info/1226/1795.htm" class="link-accent">张飞飞</a>教授（青拔，天津市杰青）</li>
+          </ul>
         </div>
       </article>
       <article class="experience-item">
         <time>2021.07-2023.03</time>
         <div>
           <h3>中国科学院心理研究所 <a href="http://melab.psych.ac.cn/index.html" class="link-accent">微表情应用研究中心（MELAB）</a>，客座学生（实习）</h3>
-          <p>研究方向：微表情识别，对比学习，自监督学习</p>
-          <span>合作导师：<a href="https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html" class="link-accent">王甦菁</a>研究员，<a href="https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html" class="link-accent">李婧婷</a>副研究员</span>
+          <ul class="education-detail-list">
+            <li><strong>研究方向</strong>: 微表情识别，对比学习，自监督学习</li>
+            <li><strong>合作导师</strong>: <a href="https://psych.cas.cn/sourcedb/cn/expert/201704/t20170411_6369874.html" class="link-accent">王甦菁</a>研究员，<a href="https://psych.cas.cn/sourcedb/cn/expert/202209/t20220905_6508737.html" class="link-accent">李婧婷</a>副研究员</li>
+          </ul>
         </div>
       </article>
     </div>
@@ -444,19 +450,19 @@ author_profile: false
       <article class="service-project-card">
         <time>期刊审稿人</time>
         <div>
-          <p>IEEE TPAMI/TCSVT/TMM, Information Sciences, MMSJ, SPIC, AJSE, SIVP。</p>
+          <p>IEEE TPAMI/TCSVT/TMM, Information Sciences, MMSJ, SPIC, AJSE, SIVP</p>
         </div>
       </article>
       <article class="service-project-card">
         <time>会议审稿人</time>
         <div>
-          <p>IEEE CVPR/ICCV/ICME, AAAI, ACM MM, ChinaMM。</p>
+          <p>IEEE CVPR/ICCV/ICME, AAAI, ACM MM, ChinaMM</p>
         </div>
       </article>
       <article class="service-project-card">
         <time>邀请汇报</time>
         <div>
-          <p><a href="https://www.koushare.com/live/details/49962" class="link-accent">中国图象图形学学会（CSIG）第20期学生会员分享论坛</a>。</p>
+          <p><a href="https://www.koushare.com/live/details/49962" class="link-accent">中国图象图形学学会（CSIG）第20期学生会员分享论坛</a></p>
         </div>
       </article>
     </div>
@@ -469,38 +475,59 @@ author_profile: false
     </div>
     <div class="service-project-rail" id="-interests" aria-label="项目经历">
       <article class="service-project-card">
+        <time>2024.10-2028.10</time>
+        <div>
+          <h3>面向开放环境的全模态数据感知与生成预测</h3>
+          <p>天津市杰出青年科学基金项目，技术骨干</p>
+          <p>主要研究多专家表征学习、不确定性关联分析和低资源可解释生成预测方法。</p>
+        </div>
+      </article>
+      <article class="service-project-card">
         <time>2024.01-2027.12</time>
         <div>
           <h3>面向跨媒体查询的增量检索研究</h3>
-          <p>国家自然科学基金面上项目，参与。主要研究跨媒体内容生成完备化、跨媒体语义融合透明化以及跨媒体关联推理持续化等关键问题。</p>
+          <p>国家自然科学基金面上项目，技术骨干</p>
+          <p>主要研究跨媒体内容生成完备化、跨媒体语义融合透明化以及跨媒体关联推理持续化等关键问题。</p>
+        </div>
+      </article>
+      <article class="service-project-card">
+        <time>2024.10-2026.10</time>
+        <div>
+          <h3>面向**的****方法研究</h3>
+          <p>国家科技委基础加强计划领域基金，技术骨干</p>
+          <p>主要研究未知目标感知、知识增强的可解释大语言模型解译方法。参与项目申请书、结题(技术)报告等内容撰写。</p>
         </div>
       </article>
       <article class="service-project-card">
         <time>2023.01-2026.12</time>
         <div>
           <h3>基于鲁棒表观建模的行人检测方法研究</h3>
-          <p>国家自然科学基金面上项目，技术骨干。主要研究复杂场景下的行人检测、跨域泛化与增量检测问题。</p>
-        </div>
-      </article>
-      <article class="service-project-card">
-        <time>2022.03-2023.03</time>
-        <div>
-          <h3>基于视觉自注意网络与跨模态特征融合的微表情识别</h3>
-          <p>江苏省研究生科研创新计划项目，项目负责人。围绕人脸表情、微表情识别等情感计算相关领域开展研究。</p>
+          <p>国家自然科学基金面上项目，技术骨干</p>
+          <p>主要研究复杂场景下的行人检测、跨域泛化与增量检测问题。</p>
         </div>
       </article>
       <article class="service-project-card">
         <time>2018.01-2021.12</time>
         <div>
           <h3>基于鲁棒表观建模的目标跟踪方法研究</h3>
-          <p>国家自然科学基金面上项目，技术骨干。研究复杂场景下的目标跟踪算法及视频时序定位等问题。</p>
+          <p>国家自然科学基金面上项目，技术骨干</p>
+          <p>主要研究复杂场景下的目标跟踪算法及视频时序定位等问题。</p>
+        </div>
+      </article>
+      <article class="service-project-card">
+        <time>2022.03-2023.03</time>
+        <div>
+          <h3>基于自注意跨模态特征融合的微表情识别</h3>
+          <p>江苏省研究生科研创新计划，<strong>项目负责人</strong></p>
+          <p>围绕人脸表情、微表情识别等情感计算相关领域开展研究。已发表 SCI/CCF 高水平学术论文 5 篇，公开发明专利 2 项。</p>
         </div>
       </article>
       <article class="service-project-card">
         <time>2019.01-2020.01</time>
         <div>
           <h3>基于 MVC 的大学生就业软件设计与开发</h3>
-          <p>江苏省大学生创新创业训练计划省级重点项目，第二完成人。主要负责数据库设计开发和前端开发工作。</p>
+          <p>江苏省大学生创新创业训练计划省级重点项目，第二完成人</p>
+          <p>主要负责数据库设计开发和前端开发工作。</p>
         </div>
       </article>
     </div>
